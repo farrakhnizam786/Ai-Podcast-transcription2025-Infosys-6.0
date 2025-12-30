@@ -1,11 +1,11 @@
 === KEYWORDS FOR: 1000 ===
-fly (0.30)
-brain (0.26)
-light (0.18)
-critic (0.17)
-cells (0.16)
-actor (0.16)
-neurons (0.14)
-turn (0.13)
-flies (0.11)
-electrical (0.10)
+fly
+brain
+light
+critic
+cells
+actor
+neurons
+turn
+flies
+electrical

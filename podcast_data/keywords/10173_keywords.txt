@@ -1,11 +1,11 @@
 === KEYWORDS FOR: 10173 ===
-capitalism (0.28)
-feet (0.28)
-operating (0.22)
-ideology (0.17)
-cars (0.16)
-property (0.14)
-sudden (0.14)
-going (0.12)
-free (0.12)
-think (0.12)
+capitalism
+feet
+operating
+ideology
+cars
+property
+sudden
+going
+free
+think

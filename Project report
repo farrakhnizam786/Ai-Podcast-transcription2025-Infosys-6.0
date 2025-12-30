@@ -214,3 +214,4 @@ It is "Stateless": Streamlit runs the entire script from top to bottom every tim
 It does NOT do Math: Notice that app.py mostly just reads the JSON/Text files created by the backend. This "decoupling" is a good software engineering practice. It means if the UI crashes, your data is safe in the files.
 
 Visualization: It uses Plotly to take the Sentiment JSON data (Timestamp vs. Score) and draw the interactive green/red chart.
+

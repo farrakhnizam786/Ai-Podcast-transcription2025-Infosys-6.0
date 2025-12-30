@@ -6,8 +6,8 @@ from pathlib import Path
 from tqdm import tqdm
 
 # Configuration
-INPUT_DIR = r"D:\farrakh important\internship_project infosys\podcast_data\transcripts"
-OUTPUT_DIR = r"D:\farrakh important\internship_project infosys\podcast_data\sentiment_data"
+INPUT_DIR = r"D:\farrakh important\internship_project infosys\data\transcripts"
+OUTPUT_DIR = r"D:\farrakh important\internship_project infosys\data\sentiment_data"
 
 def setup_nltk():
     """Initializes NLTK sentiment resources."""

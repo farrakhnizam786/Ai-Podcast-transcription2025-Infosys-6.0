@@ -1,11 +1,11 @@
 === KEYWORDS FOR: 10022 ===
-systems (0.47)
-systems systems (0.45)
-loop (0.17)
-song (0.15)
-morning (0.15)
-ring (0.12)
-feedback (0.12)
-morning morning (0.12)
-feedback loop (0.12)
-loop feedback (0.10)
+systems
+systems systems
+loop
+song
+morning
+ring
+feedback
+morning morning
+feedback loop
+loop feedback

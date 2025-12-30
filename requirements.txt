@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+openai-whisper
+librosa
+soundfile
+nltk
+scikit-learn
+transformers
+torch
+requests
+kaggle

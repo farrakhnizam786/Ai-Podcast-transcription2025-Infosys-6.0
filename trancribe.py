@@ -10,8 +10,8 @@ from pathlib import Path
 from tqdm import tqdm
 
 # Configuration
-INPUT_DIR = r"D:\farrakh important\internship_project infosys\podcast_data\processed_audio"
-OUTPUT_DIR = r"D:\farrakh important\internship_project infosys\podcast_data\transcripts"
+INPUT_DIR = r"D:\farrakh important\internship_project infosys\data\processed_audio"
+OUTPUT_DIR = r"D:\farrakh important\internship_project infosys\data\transcripts"
 MODEL_SIZE = "base"
 
 def check_ffmpeg():

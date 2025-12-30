@@ -1,11 +1,11 @@
 === KEYWORDS FOR: 10358 ===
-people (0.51)
-social (0.30)
-want (0.16)
-network (0.13)
-look (0.12)
-students (0.11)
-networks (0.09)
-train (0.09)
-briars (0.09)
-got (0.09)
+people
+social
+want
+network
+look
+students
+networks
+train
+briars
+got

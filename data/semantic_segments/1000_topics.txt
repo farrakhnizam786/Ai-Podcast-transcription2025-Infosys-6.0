@@ -1,0 +1,523 @@
+=== TOPIC ANALYSIS: 1000 ===
+
+Detected 104 major topics.
+
+🔹 TOPIC 1 [00:00 - 00:10]
+   SUMMARY: 10 Talks to Recorded Live at the Ted Conference
+   KEYWORDS: talks, recorded, live, conference, 10
+----------------------------------------
+
+🔹 TOPIC 2 [00:10 - 00:17]
+   SUMMARY: This episode features optogeneticist, Gyro Misonbock This talk contains powerful visuals
+   KEYWORDS: misonbock, gyro, features, episode, contains
+----------------------------------------
+
+🔹 TOPIC 3 [00:17 - 00:21]
+   SUMMARY: Download the video at Ted.com Here's Gyro Misonbock
+   KEYWORDS: ted, misonbock, gyro, download, com
+----------------------------------------
+
+🔹 TOPIC 4 [00:21 - 00:37]
+   SUMMARY:  I have a doppelgänger Dr. Gero is a brilliant but slightly mad scientist . In the Dragon Ball Sea Android Saga, Dr Gero was a mad scientist and a brilliant scientist .
+   KEYWORDS: dr, doppelgänger, brilliant, ball, android
+----------------------------------------
+
+🔹 TOPIC 5 [00:37 - 00:50]
+   SUMMARY:  If you look very carefully, you see that his skull has been replaced with a transparent plexiglass dome . The workings of the workings of his brain can be observed and also controlled with light .
+   KEYWORDS: light, dome, controlled, carefully, brain
+----------------------------------------
+
+🔹 TOPIC 6 [00:50 - 00:56]
+   SUMMARY: That's exactly what I do Optical mind control
+   KEYWORDS: optical, mind, exactly, control
+----------------------------------------
+
+🔹 TOPIC 7 [00:56 - 01:13]
+   SUMMARY:  In contrast to my evil twin who lusts for world domination, I control the brain in order to understand how it works . But in contrast to his evil twin, my motives are not sinister .
+   KEYWORDS: brain, domination, controlling, control, contrast
+----------------------------------------
+
+🔹 TOPIC 8 [01:13 - 01:15]
+   SUMMARY: without understanding it first?
+   KEYWORDS: understanding
+----------------------------------------
+
+🔹 TOPIC 9 [01:15 - 01:23]
+   SUMMARY: Isn't that putting the card before the horse? Many neuroscientists agree with this view
+   KEYWORDS: neuroscientists, isn, horse, card, agree
+----------------------------------------
+
+🔹 TOPIC 10 [01:23 - 01:33]
+   SUMMARY:  Scientists say understanding will come from more detailed observation and analysis . They say if we could record the activity of all neurons, we would be able to understand the brain activity of neurons in the brain .
+   KEYWORDS: neurons, detailed, come, analysis, activity
+----------------------------------------
+
+🔹 TOPIC 11 [01:33 - 01:38]
+   SUMMARY: we would understand the brain But think for a moment what that means
+   KEYWORDS: understand, think, moment, means, brain
+----------------------------------------
+
+🔹 TOPIC 12 [01:38 - 01:54]
+   SUMMARY:  Even if we could measure what every cell is doing at all times we would still have to make sense of the recorded activity patterns . chances are we'll understand these patterns just as little as the brains that produce them .
+   KEYWORDS: patterns, difficult, cell, brains, activity
+----------------------------------------
+
+🔹 TOPIC 13 [01:54 - 02:06]
+   SUMMARY:  Take a look at what brain activity might look like in this simulation . In this simulation each black dot is one nerve cell . The dot is visible whenever the cell fires an electrical impulse There's 10,000 neurons here .
+   KEYWORDS: look, dot, cell, black, 000
+----------------------------------------
+
+🔹 TOPIC 14 [02:06 - 02:29]
+   SUMMARY:  So you're looking at roughly 1% of the brain of a cockroach . Your perceptions, your emotions, your memories, your plans for the future . Your brains are about 100 million times more complicated .
+   KEYWORDS: complicated, cockroach, brains, brain, 100
+----------------------------------------
+
+🔹 TOPIC 15 [02:29 - 02:40]
+   SUMMARY:  We don't understand the code used by the brain to make progress . To make progress we need to break the code. But we don't know how to read the pattern. We need to find out where the pattern is going to be .
+   KEYWORDS: don, know, code, break, brain
+----------------------------------------
+
+🔹 TOPIC 16 [02:40 - 02:54]
+   SUMMARY:  An experienced code break will tell you that in order to figure out what the symbols in a code mean it's essential to be able to play with them to rearrange them at will . But how?
+   KEYWORDS: code, experienced, essential, break, able
+----------------------------------------
+
+🔹 TOPIC 17 [02:54 - 02:59]
+   SUMMARY: So in this situation too to decode the information contained in patterns like this
+   KEYWORDS: patterns, like, information, decode, contained
+----------------------------------------
+
+🔹 TOPIC 18 [02:59 - 03:01]
+   SUMMARY: Watching alone won't do
+   KEYWORDS: won, watching
+----------------------------------------
+
+🔹 TOPIC 19 [03:01 - 03:14]
+   SUMMARY:  Instead of recording the activity of neurons, we need to control it . We need to rearrange the pattern in brain activity . It's not essential that we can control all neurons in the brain .
+   KEYWORDS: neurons, need, control, activity, essential
+----------------------------------------
+
+🔹 TOPIC 20 [03:14 - 03:17]
+   SUMMARY: Just some The more targeted our interventions the better
+   KEYWORDS: targeted, just, interventions, better
+----------------------------------------
+
+🔹 TOPIC 21 [03:17 - 03:23]
+   SUMMARY:  And I'll show you in a moment how we can achieve the necessary precision . And since I'm realistic rather than grandiose, I'm not going to be too grand, I'll be realistic . And I will show you how we're able to achieve precision precision .
+   KEYWORDS: necessary, moment, ll, grandiose, achieve
+----------------------------------------
+
+🔹 TOPIC 22 [03:23 - 03:31]
+   SUMMARY:  "I don't claim that the ability to control the function of the nervous system will at once unravel all its mysteries," he says . He says he doesn't claim to be able to control function of nervous system .
+   KEYWORDS: function, don, control, claim, ability
+----------------------------------------
+
+🔹 TOPIC 23 [03:31 - 03:43]
+   SUMMARY:  I'm by no means the first person to realize how powerful a tool intervention is . But we'll certainly learn a lot from the lessons we've learned, says CNN's John Sutter . Sutter: "I'm not the first to realize that intervention intervention is a powerful tool."
+   KEYWORDS: lot, ll, learn, intervention, certainly
+----------------------------------------
+
+🔹 TOPIC 24 [03:43 - 03:56]
+   SUMMARY:  The history of attempts to think of as the function of the nervous system is long and elastrous It dates back at least 200 years to Galvanis famous experiments in the late 18th century and beyond .
+   KEYWORDS: dates, century, attempts, 200, 18th
+----------------------------------------
+
+🔹 TOPIC 25 [03:56 - 04:10]
+   SUMMARY:  Galvanis showed that the frogs legs twitched when he connected the lumbar nerve to a source of electrical current . This experiment revealed the first and perhaps most fundamental nugget of the neural code .
+   KEYWORDS: experiment, electrical, current, connected, code
+----------------------------------------
+
+🔹 TOPIC 26 [04:10 - 04:14]
+   SUMMARY: That information is written in the form of electrical impulses
+   KEYWORDS: written, information, impulses, form, electrical
+----------------------------------------
+
+🔹 TOPIC 27 [04:16 - 04:25]
+   SUMMARY:  Galvanis approach of probing the nervous system with electrodes has remained state of the art until today . Despite the number of drawbacks, it is still state-of-the-art until today despite the drawbacks .
+   KEYWORDS: electrodes, drawbacks, despite, art, approach
+----------------------------------------
+
+🔹 TOPIC 28 [04:26 - 04:32]
+   SUMMARY: Sticking wires into the brain is obviously rather crude It's hard to do in animals that run around
+   KEYWORDS: obviously, hard, crude, brain, animals
+----------------------------------------
+
+🔹 TOPIC 29 [04:32 - 04:42]
+   SUMMARY:  There is a physical limit to the number of wires that can be inserted simultaneously . So around the turn of the last century I started to think about the possibility of inserting wires simultaneously . And there is a physically limit to how many wires you can insert simultaneously, he says .
+   KEYWORDS: physical, number, limit, inserted, century
+----------------------------------------
+
+🔹 TOPIC 30 [04:43 - 04:54]
+   SUMMARY:  Instead of inserting a wire into one spot of the brain, reengineer the brain itself . Wouldn't it be wonderful if one could take this logic and turn it upside down? Reengineer your brain itself.
+   KEYWORDS: brain, reengineer, logic, instead, inserting
+----------------------------------------
+
+🔹 TOPIC 31 [04:55 - 05:09]
+   SUMMARY:  So that some of its neural elements become responsive to a diffusely broadcast signal Such as a flash of light Such an approach would literally in a Flash of light . Overcome many of the obstacles to discovery .
+   KEYWORDS: light, flash, discovery, broadcast, approach
+----------------------------------------
+
+🔹 TOPIC 32 [05:10 - 05:22]
+   SUMMARY:  A non-invasive wireless form of communication . Just as in a radio broadcast you can communicate with many receivers at once . You don't need to know where these receivers are, you don't know where they are .
+   KEYWORDS: receivers, don, communicate, clearly, broadcast
+----------------------------------------
+
+🔹 TOPIC 33 [05:23 - 05:30]
+   SUMMARY:  And it doesn't matter if these receivers move just think of the stereo in your car . It gets even better. Think of it as a car stereo stereo that can be used to play music in the car .
+   KEYWORDS: just, gets, doesn, car, better
+----------------------------------------
+
+🔹 TOPIC 34 [05:31 - 05:41]
+   SUMMARY:  We can fabricate the receivers out of materials that are encoded in DNA . So each nerve cell with the right genetic makeup can be used to make the receivers . We can also fabricate them from materials encoded in the genetic makeup of the receiver .
+   KEYWORDS: genetic, fabricate, encoded, dna, cell
+----------------------------------------
+
+🔹 TOPIC 35 [05:41 - 06:02]
+   SUMMARY:  Those spontaneously produce a receiver that allows us to control its function . I hope you'll appreciate the beautiful simplicity of this concept . There's no high-tech gizmos here just biology revealed through biology .
+   KEYWORDS: biology, close, beautiful, appreciate, allows
+----------------------------------------
+
+🔹 TOPIC 36 [06:03 - 06:15]
+   SUMMARY:  As we zoom in on one of these purple neurons We see that its outer membrane is studied with microscopic pores . Pores like these conduct electrical current And are responsible for all the communication in the nervous system .
+   KEYWORDS: pores, like, current, conduct, communication
+----------------------------------------
+
+🔹 TOPIC 37 [06:16 - 06:21]
+   SUMMARY:  The pores are coupled to light receptors similar to the ones in your eyes . But these pores here are special - they are coupled with light receptors such as those in eyes . The pores in the pores are very small, but they are very sensitive to the light they receive .
+   KEYWORDS: pores, ones, light, eyes, coupled
+----------------------------------------
+
+🔹 TOPIC 38 [06:22 - 06:34]
+   SUMMARY:  Whenever a flash of light hits the receptor an electrical current is switched on And the neuron fires electrical impulses . Because the light activated pores encoded in DNA, pores in DNA were activated by the light .
+   KEYWORDS: light, electrical, encoded, current, activated
+----------------------------------------
+
+🔹 TOPIC 39 [06:34 - 06:46]
+   SUMMARY:  Each cell in our bodies contains the same set of genes . Different mixes of genes can turn on and off in different cells . We can achieve incredible precision using these genes to achieve precise precision .
+   KEYWORDS: genes, different, cells, bodies, achieve
+----------------------------------------
+
+🔹 TOPIC 40 [06:47 - 06:59]
+   SUMMARY:  We can exploit this to make sure that only some neurons contain our light activated neurons and others don't . So in this cartoon the bluish white cell in the upper left corner does not respond to light .
+   KEYWORDS: light, contain, cartoon, bluish, activated
+----------------------------------------
+
+🔹 TOPIC 41 [06:59 - 07:20]
+   SUMMARY:  Each electrical impulse, each deflection on the trace is caused by a brief pulse of light . The approach works so well that we can write purely artificial messages directly to the brain . And the approach also works in moving behaving animals .
+   KEYWORDS: works, light, approach, behaving, animals
+----------------------------------------
+
+🔹 TOPIC 42 [07:21 - 07:46]
+   SUMMARY:  This is the first ever such experiment sort of the optical equivalent of galvanis . It was done six or seven years ago by Susana Lima Lima . Just two out of the 200,000 cells in its brain expressed the light activated poor cells .
+   KEYWORDS: susana, fly, cells, ago, activated
+----------------------------------------
+
+🔹 TOPIC 43 [07:47 - 08:17]
+   SUMMARY:  The flash of light has exactly the same effect the animal jumps . It spreads its wings, it vibrates them, but it can't actually take off because the fly is sandwiched between two glass plates . Susana cut the heads off of our flies to make sure that this was no reaction to a flash .
+   KEYWORDS: fly, flash, brutally, air, actually
+----------------------------------------
+
+🔹 TOPIC 44 [08:19 - 08:29]
+   SUMMARY:  These headless bodies can live for about a day, but they don't do much . They just stand around and groom excessively . Headless bodies live for a day but don't live long enough to live in the wild .
+   KEYWORDS: just, excessively, don, day, bodies
+----------------------------------------
+
+🔹 TOPIC 45 [08:30 - 08:34]
+   SUMMARY: So it seems that the only trait that survives the capitation is vanity
+   KEYWORDS: vanity, trait, survives, capitation
+----------------------------------------
+
+🔹 TOPIC 46 [08:38 - 08:40]
+   SUMMARY: Anyway as you as you'll see in a moment
+   KEYWORDS: moment, ll
+----------------------------------------
+
+🔹 TOPIC 47 [08:40 - 08:45]
+   SUMMARY: Susana was able to turn on the flight motor of what's the equivalent of the spinal cord of the
+   KEYWORDS: motor, flight, equivalent, cord, able
+----------------------------------------
+
+🔹 TOPIC 48 [08:45 - 08:50]
+   SUMMARY: These flies and get some of the headless bodies to actually take off and fly away
+   KEYWORDS: fly, flies, bodies, away, actually
+----------------------------------------
+
+🔹 TOPIC 49 [08:55 - 08:57]
+   SUMMARY: They didn't get very far obviously
+   KEYWORDS: obviously, far, didn
+----------------------------------------
+
+🔹 TOPIC 50 [08:58 - 09:23]
+   SUMMARY:  Since we took these first steps the field of optogenetics has exploded and there's now hundreds of labs using these approaches . We've come a long way in Skalvanis and Susana's first successes in making animals twitch a jump .
+   KEYWORDS: ways, directed, approaches, animals, actually
+----------------------------------------
+
+🔹 TOPIC 51 [09:24 - 09:36]
+   SUMMARY:  Life is a string of choices creating a constant pressure to decide what to do next . We cope with this pressure by having brains and within our brains . Life is full of choices and we cope with that pressure with brains .
+   KEYWORDS: pressure, brains, creating, constant, choices
+----------------------------------------
+
+🔹 TOPIC 52 [09:36 - 09:55]
+   SUMMARY:  Decision-making centers that I've called here the actor are called the decision-making centres . The actor implements a policy that takes into account the state of the environment and the context in which we operate . Our actions change the environment or the context and these changes are then fed back into the decision loop .
+   KEYWORDS: environment, decision, context, actor, called
+----------------------------------------
+
+🔹 TOPIC 53 [09:56 - 10:19]
+   SUMMARY:  We constructed a simple one-dimensional world for fruit flies . Each chamber in these two vertical stacks contains one fly . The left and the right halves of the chamber are filled with two different Olders . The security camera watches as the flies pace up and down between them .
+   KEYWORDS: flies, chamber, contains, camera, abstract
+----------------------------------------
+
+🔹 TOPIC 54 [10:20 - 10:30]
+   SUMMARY:  CCTV footage shows when a fly reaches the midpoint of the chamber where the two order streams meet . It has to make a decision when it comes to a decision . Here's some such CCTV footage of the moment the order stream meets .
+   KEYWORDS: footage, fly, decision, chamber, cctv
+----------------------------------------
+
+🔹 TOPIC 55 [10:30 - 10:35]
+   SUMMARY:  It has to decide whether to turn around and stay in the same order or whether to cross the midline and cross midline . It must decide whether it will cross mid-line or cross the line .
+   KEYWORDS: stay, order, midline, decide, cross
+----------------------------------------
+
+🔹 TOPIC 56 [10:36 - 10:38]
+   SUMMARY: Something new
+   KEYWORDS: new
+----------------------------------------
+
+🔹 TOPIC 57 [10:38 - 10:47]
+   SUMMARY:  These decisions are clearly a reflection of the actor's policy . Now for an intelligent being like our fly, we need to look at our fly . We need to find a way to make sure that our fly is intelligent enough to survive .
+   KEYWORDS: intelligent, fly, decisions, clearly, actor
+----------------------------------------
+
+🔹 TOPIC 58 [10:48 - 11:09]
+   SUMMARY:  This policy is not written in stone But rather changes as the animal learns from experience . We can incorporate such an element of adaptive intelligence into our model . By assuming that the fly's brain contains not only an actor But a different group of cells a critic that provides a running commentary .
+   KEYWORDS: actor, brain, assuming, animal, adaptive
+----------------------------------------
+
+🔹 TOPIC 59 [11:10 - 11:15]
+   SUMMARY: You can think of this nagging in the voice as sort of the brain's equivalent of the Catholic Church
+   KEYWORDS: nagging, equivalent, church, catholic, brain
+----------------------------------------
+
+🔹 TOPIC 60 [11:16 - 11:24]
+   SUMMARY:  If you're an Austrian like me or a . a . or a or the super ego if you're a . Freudian or your mother if . you're Jewish or a Freudian like me . Or a . . a or a super ego . if you are an Austrian or a. or a ... Freudian . Or your mother or a Jewish like me. Um if you . are Austrian or . Austrian .
+   KEYWORDS: like, jewish, freudian, ego, austrian
+----------------------------------------
+
+🔹 TOPIC 61 [11:27 - 11:41]
+   SUMMARY:  The critic is a key ingredient in what makes us intelligent, scientists say . So we set out to identify the cells in the fly's brain that played the role of the critic in the brain .
+   KEYWORDS: critic, identify, fly, cells, brain
+----------------------------------------
+
+🔹 TOPIC 62 [11:42 - 11:47]
+   SUMMARY: And the logic of our experiment was simple We thought if we could use our optical remote control
+   KEYWORDS: remote, optical, logic, experiment, control
+----------------------------------------
+
+🔹 TOPIC 63 [11:47 - 11:59]
+   SUMMARY:  To activate the cells of the critic We should be able artificially nag the actor into changing its policy . In other words the fly should learn from mistakes . We should also be able to nag . into changing the actor's policy in order to get it to change it .
+   KEYWORDS: cells, artificially, actor, activate, able
+----------------------------------------
+
+🔹 TOPIC 64 [11:59 - 12:03]
+   SUMMARY: That it thought it had made but in reality it had not made
+   KEYWORDS: thought, reality
+----------------------------------------
+
+🔹 TOPIC 65 [12:04 - 12:17]
+   SUMMARY:  We bred flies whose brains were more or less randomly peppered with cells that were light addressable . Then we took these flies and allowed them to make choices . And whenever they made one of the two choices, they made it .
+   KEYWORDS: flies, choices, bred, allowed, addressable
+----------------------------------------
+
+🔹 TOPIC 66 [12:18 - 12:20]
+   SUMMARY: Chose one order in this case the blue one over the orange one
+   KEYWORDS: order, orange, chose, case, blue
+----------------------------------------
+
+🔹 TOPIC 67 [12:21 - 12:30]
+   SUMMARY:  We switched on the lights if the critic was among the optically activated cells . The result of this intervention should be a change in policy, says the BBC . We switch the lights to see if you are a critic, or if you're a critic .
+   KEYWORDS: intervention, critic, change, cells, activated
+----------------------------------------
+
+🔹 TOPIC 68 [12:31 - 12:38]
+   SUMMARY: The fly should learn to avoid the optically reinforced order Here's what happened in two instances
+   KEYWORDS: learn, instances, happened, fly, avoid
+----------------------------------------
+
+🔹 TOPIC 69 [12:38 - 13:01]
+   SUMMARY:  We're comparing two strains of flies each of them having about a hundred light addressable cells in their brains . The identities of the individual dopamine producing neurons are clearly largely different on the left and on the right .
+   KEYWORDS: right, left, dopamine, cells, clearly
+----------------------------------------
+
+🔹 TOPIC 70 [13:02 - 13:09]
+   SUMMARY:  Optically activating these 100 cells in the two strains of flies had dramatically different consequences . The cells were activated using a technique known as 'optoptically activating' the cells in both strains of fly .
+   KEYWORDS: different, consequences, cells, activating, 100
+----------------------------------------
+
+🔹 TOPIC 71 [13:10 - 13:16]
+   SUMMARY:  If you look first at the behavior of the fly on the right You can see that whenever it reaches the midpoint of the chamber, the fly reaches its midpoint . You can also see that when the fly is in the chamber it will reach the mid-point of its chamber .
+   KEYWORDS: midpoint, look, fly, chamber, behavior
+----------------------------------------
+
+🔹 TOPIC 72 [13:16 - 13:19]
+   SUMMARY: When the two orders meet it marches straight through
+   KEYWORDS: straight, orders, meet, marches
+----------------------------------------
+
+🔹 TOPIC 73 [13:20 - 13:26]
+   SUMMARY:  The behavior of the fly on the left is very different from that of a fly . As it did before its behavior is completely unchanged, its behavior remains unchanged . But the behavior on the right fly is completely different from the left fly .
+   KEYWORDS: behavior, fly, different, did, completely
+----------------------------------------
+
+🔹 TOPIC 74 [13:27 - 13:29]
+   SUMMARY: Whenever it comes up to the midpoint
+   KEYWORDS: midpoint, comes
+----------------------------------------
+
+🔹 TOPIC 75 [13:30 - 13:33]
+   SUMMARY: It pauses it carefully scans the order interfaces
+   KEYWORDS: scans, pauses, order, interfaces, carefully
+----------------------------------------
+
+🔹 TOPIC 76 [13:33 - 13:44]
+   SUMMARY:  If it was sniffing out its environment and then it turns around This means that the policy that the actor implements Now includes an instruction to avoid the order that's in the right half of the chamber .
+   KEYWORDS: half, environment, chamber, avoid, actor
+----------------------------------------
+
+🔹 TOPIC 77 [13:45 - 13:56]
+   SUMMARY:  This means that the critic must have spoken in that animal . And that critic must be contained among the dopamine producing neurons on the left . But not among those producing dopamine on the right . The critic must also be contained in the left brain, but not among the right brain .
+   KEYWORDS: producing, neurons, dopamine, critic, animal
+----------------------------------------
+
+🔹 TOPIC 78 [13:58 - 14:05]
+   SUMMARY:  We were able to narrow down the identity of the critic to just 12 cells . Through many such experiments, the identity was narrowed down to just a few cells . We are now able to identify the critic through the use of 12 cells in a series of experiments .
+   KEYWORDS: experiments, critic, cells, able, 12
+----------------------------------------
+
+🔹 TOPIC 79 [14:06 - 14:15]
+   SUMMARY:  These 12 cells are shown here in green They sent their output to a brain structure called the mushroom body . The brain structure was shown to be the brain structure known as the mushroom mushroom . The mushroom body is shown to have sent its output to the brain .
+   KEYWORDS: shown, cells, brain, body, 12
+----------------------------------------
+
+🔹 TOPIC 80 [14:15 - 14:19]
+   SUMMARY: We know from our formal model that the brain structure
+   KEYWORDS: structure, model, know, formal, brain
+----------------------------------------
+
+🔹 TOPIC 81 [14:19 - 14:35]
+   SUMMARY:  The anatomy suggests that the mushroom bodies have something to do with action choice . This makes perfect sense in fact it makes so much sense in the eyes of the critics . The actor is the actor so this anatomy suggests .
+   KEYWORDS: sense, mushroom, makes, bodies, based
+----------------------------------------
+
+🔹 TOPIC 82 [14:35 - 14:41]
+   SUMMARY: That we can construct an electronic toy circuit That simulates the behavior of the fly
+   KEYWORDS: fly, electronic, construct, circuit, behavior
+----------------------------------------
+
+🔹 TOPIC 83 [14:42 - 14:44]
+   SUMMARY: In this electronic toy circuit
+   KEYWORDS: toy, electronic, circuit
+----------------------------------------
+
+🔹 TOPIC 84 [14:44 - 14:50]
+   SUMMARY:  The mushroom body neurons are symbolized by the vertical bank of blue LEDs In the center of the board . The mushroom brain neurons are represented by the vertically bank of . blue LEDs . In the . center, a vertical bank . bank of red LEDs is symbolized in the center .
+   KEYWORDS: center, body, board, blue, bank
+----------------------------------------
+
+🔹 TOPIC 85 [14:52 - 15:09]
+   SUMMARY:  LEDs are wired to sensors that detect the presence of odorous molecules in the air . Each odor activates a different combination of sensors which in turn activates different odor detectors in the mushroom body . So the pilot in the cockpit of the fly is the pilot .
+   KEYWORDS: sensors, odor, different, activates, cockpit
+----------------------------------------
+
+🔹 TOPIC 86 [15:09 - 15:16]
+   SUMMARY: The actor can tell which odor is present Simply by looking at which of the blue LEDs lights up
+   KEYWORDS: looking, lights, leds, blue, actor
+----------------------------------------
+
+🔹 TOPIC 87 [15:17 - 15:24]
+   SUMMARY:  What the actor does with this information depends on its policy . Which is stored is stored in the strengths of the connection . The actor does not reveal what he does with the information . Which actor is doing depends on the strength of its connection .
+   KEYWORDS: information, does, depends, connection, actor
+----------------------------------------
+
+🔹 TOPIC 88 [15:24 - 15:38]
+   SUMMARY:  If the connection is weak the motors will stay off And the fly will continue straight on its course . Between the odor detectors And the motors that power the fly's evasive actions . If the . connection is strong the motor motors will turn on .
+   KEYWORDS: motors, fly, connection, course, actions
+----------------------------------------
+
+🔹 TOPIC 89 [15:38 - 15:43]
+   SUMMARY: And the fly will initiate the turn Now consider a situation in which
+   KEYWORDS: turn, situation, initiate, fly, consider
+----------------------------------------
+
+🔹 TOPIC 90 [15:44 - 15:59]
+   SUMMARY:  The motors stay off the fly continues on its path And it suffers some painful consequence such as getting zapped . In a situation like this we would expect the critic to speak up And to tell the actor to change its policy .
+   KEYWORDS: critic, continues, consequence, change, actor
+----------------------------------------
+
+🔹 TOPIC 91 [16:00 - 16:03]
+   SUMMARY: We have created such a situation artificially
+   KEYWORDS: situation, created, artificially
+----------------------------------------
+
+🔹 TOPIC 92 [16:03 - 16:18]
+   SUMMARY:  By turning on the critic with a flash of light That caused a strengthening of the connections Between the currently active odor detector and the motors . So the next time the fly finds itself facing the same odor again .
+   KEYWORDS: odor, currently, connections, caused, active
+----------------------------------------
+
+🔹 TOPIC 93 [16:19 - 16:22]
+   SUMMARY: The connection is strong enough to turn on the motors
+   KEYWORDS: turn, strong, motors, connection
+----------------------------------------
+
+🔹 TOPIC 94 [16:22 - 16:30]
+   SUMMARY: And to trigger an evasive maneuver I don't know about you
+   KEYWORDS: trigger, maneuver, know, evasive, don
+----------------------------------------
+
+🔹 TOPIC 95 [16:30 - 16:41]
+   SUMMARY:  But I find it exhilarating to see How vague psychological notions evaporate And give rise to a physical mechanistic understanding of the mind . But I'm exhilarated to see how vague psychological ideas evaporate .
+   KEYWORDS: notions, mind, mechanistic, exhilarating, evaporate
+----------------------------------------
+
+🔹 TOPIC 96 [16:41 - 16:53]
+   SUMMARY:  Even if it's the mind of the fly This is one piece of good news for scientists at least . Is that much remains to be discovered in the fly's mind? Scientists at least say there is still much more to discover .
+   KEYWORDS: piece, news, good, mind, discovered
+----------------------------------------
+
+🔹 TOPIC 97 [16:54 - 17:02]
+   SUMMARY:  In the experiments I told you about We have lifted the identity of the critic . But we still have no idea how the critic does its job . In this experiment, we have lifted its identity from the public, but we still don't know how it works .
+   KEYWORDS: critic, identity, idea, experiments, does
+----------------------------------------
+
+🔹 TOPIC 98 [17:03 - 17:08]
+   SUMMARY: Come to think of it knowing when you're wrong Without a teacher or your mother telling you
+   KEYWORDS: telling, teacher, mother, knowing, come
+----------------------------------------
+
+🔹 TOPIC 99 [17:08 - 17:14]
+   SUMMARY: It's a very hard problem There are some ideas in computer science and in artificial intelligence
+   KEYWORDS: intelligence, ideas, hard, computer, artificial
+----------------------------------------
+
+🔹 TOPIC 100 [17:14 - 17:19]
+   SUMMARY: As to how this might be done But we still haven't solved a single example
+   KEYWORDS: solved, single, haven, example
+----------------------------------------
+
+🔹 TOPIC 101 [17:20 - 17:23]
+   SUMMARY: Of how intelligent behavior
+   KEYWORDS: intelligent, behavior
+----------------------------------------
+
+🔹 TOPIC 102 [17:24 - 17:30]
+   SUMMARY:  I think we'll get there in the not-to-distant future . Springs from the physical interactions in living matter will be possible, he says . I think it's a step further down the road, but it's still possible to get there .
+   KEYWORDS: ll, living, interactions, future, distant
+----------------------------------------
+
+🔹 TOPIC 103 [17:31 - 17:33]
+   SUMMARY: Thank you
+   KEYWORDS: thank
+----------------------------------------
+
+🔹 TOPIC 104 [17:36 - 17:46]
+   SUMMARY:  That was gyro-misonbach Recorded at Ted Global 2010 in Oxford, England, July 2010 . That was Gyro-Misonbach recorded at TED Global 2010 . For more information on Ted visit Ted.com .
+   KEYWORDS: ted, 2010, gyro, england, com
+----------------------------------------

@@ -1,0 +1,53 @@
+=== TOPIC ANALYSIS: 10022 ===
+
+Detected 10 major topics.
+
+🔹 TOPIC 1 [00:00 - 16:21]
+   SUMMARY:  This episode features musician Andrew Bird . Bird plays a song about loops, not the kind of loops that I make up here . This is the sound of self-destructive loops that creates a very unpleasant sound .
+   KEYWORDS: loop, song, feedback, kind, going
+----------------------------------------
+
+🔹 TOPIC 2 [16:21 - 16:31]
+   SUMMARY: I can see it all from here.
+   KEYWORDS: None
+----------------------------------------
+
+🔹 TOPIC 3 [16:31 - 16:41]
+   SUMMARY: I can see it all from here.
+   KEYWORDS: None
+----------------------------------------
+
+🔹 TOPIC 4 [16:41 - 16:51]
+   SUMMARY: I can see it all from here.
+   KEYWORDS: None
+----------------------------------------
+
+🔹 TOPIC 5 [16:51 - 17:01]
+   SUMMARY: I can see it all from here.
+   KEYWORDS: None
+----------------------------------------
+
+🔹 TOPIC 6 [17:01 - 17:11]
+   SUMMARY: I can see it all from here.
+   KEYWORDS: None
+----------------------------------------
+
+🔹 TOPIC 7 [17:11 - 17:21]
+   SUMMARY: I can see it all from here.
+   KEYWORDS: None
+----------------------------------------
+
+🔹 TOPIC 8 [17:21 - 17:31]
+   SUMMARY: I can see it all from here.
+   KEYWORDS: None
+----------------------------------------
+
+🔹 TOPIC 9 [17:31 - 17:41]
+   SUMMARY: I can see it all from here.
+   KEYWORDS: None
+----------------------------------------
+
+🔹 TOPIC 10 [17:41 - 19:19]
+   SUMMARY:  Andrew Bird recorded at Ted 2010 in Long Beach, California, February, 2010 . Bird: "I can see it all from here. I can see everything from here"
+   KEYWORDS: ted, 2010, california, beach, andrew
+----------------------------------------

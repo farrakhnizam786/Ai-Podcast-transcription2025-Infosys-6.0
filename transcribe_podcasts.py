@@ -10,14 +10,12 @@ import soundfile as sf
 from pathlib import Path
 from tqdm import tqdm
 
-# Configuration
-INPUT_DIR = r"D:\farrakh important\internship_project infosys\podcast_data\processed_audio"
-OUTPUT_DIR = r"D:\farrakh important\internship_project infosys\podcast_data\transcripts"
-SUMMARY_DIR = r"D:\farrakh important\internship_project infosys\podcast_data\short_summary"
+INPUT_DIR = r"D:\farrakh important\internship_project infosys\data\processed"
+OUTPUT_DIR = r"D:\farrakh important\internship_project infosys\data\transcripts"
+SUMMARY_DIR = r"D:\farrakh important\internship_project infosys\data\summaries"
 MODEL_SIZE = "base"
 
 def check_ffmpeg():
-    """Checks if FFmpeg is installed and accessible."""
     if not shutil.which("ffmpeg"):
         print("\nCRITICAL ERROR: FFmpeg is not found in your system PATH.")
         print("Whisper requires FFmpeg to run.")
@@ -25,7 +23,6 @@ def check_ffmpeg():
     print("FFmpeg detected.")
 
 def save_transcript(result, file_stem, output_dir):
-    """Saves readable text and structured JSON with timestamps."""
     txt_path = output_dir / f"{file_stem}.txt"
     with open(txt_path, "w", encoding="utf-8") as f:
         f.write(result["text"].strip())
@@ -35,7 +32,6 @@ def save_transcript(result, file_stem, output_dir):
         json.dump(result, f, indent=4)
 
 def generate_summary(text):
-    """Generates abstractive summary using Hugging Face or extractive fallback."""
     try:
         from transformers import pipeline
         import logging
@@ -60,7 +56,6 @@ def generate_summary(text):
         return text[:1000] + "..."
 
 def save_summary(summary, file_stem):
-    """Saves the summary to the summary directory."""
     summary_path = Path(SUMMARY_DIR)
     summary_path.mkdir(parents=True, exist_ok=True)
     
@@ -71,7 +66,6 @@ def save_summary(summary, file_stem):
     print(f"   Summary saved to: {file_path}")
 
 def interactive_summary_mode(output_dir):
-    """User-driven summary generation for specific files."""
     print("\n--- Interactive Summary Mode ---")
     
     while True:
@@ -121,11 +115,9 @@ def transcribe_all():
         return
 
     success_count = 0
-    skipped_count = 0
 
     for i, audio_file in enumerate(audio_files, 1):
         print(f"\n[{i}/{len(audio_files)}] Processing: {audio_file.name}")
-        json_file = output_path / f"{audio_file.stem}.json"
         
         try:
             audio_info = sf.info(str(audio_file))
@@ -134,24 +126,16 @@ def transcribe_all():
             total_duration_sec = 0
 
         try:
-            if json_file.exists():
-                print(f"   Skip: Found existing transcript.")
-                skipped_count += 1
-                with open(json_file, "r", encoding="utf-8") as f:
-                    data = json.load(f)
-                    last_timestamp = data["segments"][-1]["end"] if "segments" in data and data["segments"] else 0
-            else:
-                print("   Transcribing...")
-                start_time = time.time()
-                result = model.transcribe(str(audio_file), fp16=False)
-                save_transcript(result, audio_file.stem, output_path)
-                
-                duration = time.time() - start_time
-                print(f"   Done in {duration:.2f}s.")
-                success_count += 1
-                last_timestamp = result["segments"][-1]["end"] if "segments" in result and result["segments"] else 0
+            print("   Transcribing...")
+            start_time = time.time()
+            result = model.transcribe(str(audio_file), fp16=False)
+            save_transcript(result, audio_file.stem, output_path)
+            
+            duration = time.time() - start_time
+            print(f"   Done in {duration:.2f}s.")
+            success_count += 1
+            last_timestamp = result["segments"][-1]["end"] if "segments" in result and result["segments"] else 0
 
-            # Coverage Check
             if total_duration_sec > 0:
                 coverage_pct = min((last_timestamp / total_duration_sec) * 100, 100.0)
                 print(f"   Quality Check: {coverage_pct:.1f}% coverage.")
@@ -162,7 +146,7 @@ def transcribe_all():
             print(f"\nError handling {audio_file.name}: {e}")
 
     print("\nProcessing Finished.")
-    print(f"New: {success_count} | Existing: {skipped_count}")
+    print(f"Processed: {success_count} files")
     interactive_summary_mode(output_path)
 
 if __name__ == "__main__":

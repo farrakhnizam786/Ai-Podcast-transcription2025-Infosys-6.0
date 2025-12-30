@@ -1,11 +1,11 @@
 === KEYWORDS FOR: 1001 ===
-song (0.24)
-world world (0.21)
-systems (0.17)
-weather systems (0.17)
-weather (0.17)
-world (0.15)
-kind (0.12)
-ring (0.10)
-sound (0.10)
-bird (0.10)
+song
+world world
+systems
+weather systems
+weather
+world
+kind
+ring
+sound
+bird
