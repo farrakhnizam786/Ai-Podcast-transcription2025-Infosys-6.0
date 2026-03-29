@@ -1,0 +1,1339 @@
+[
+    {
+        "start": 0.0,
+        "end": 12.08,
+        "text": "Ted Talks are recorded live at the Ted Conference and partner events.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 12.08,
+        "end": 15.08,
+        "text": "This episode features educator Tony Porter.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 15.08,
+        "end": 16.6,
+        "text": "Here's Tony Porter.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 16.6,
+        "end": 24.36,
+        "text": "Hello folks, I'm Tony Porter from a call to men.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 24.36,
+        "end": 29.16,
+        "text": "I want to talk with you about the development of boys to men and the role we as men and",
+        "score": 0.0772,
+        "label": "Positive"
+    },
+    {
+        "start": 29.16,
+        "end": 34.84,
+        "text": "women play in that development and also its impact and influence on the experience of",
+        "score": 0.34,
+        "label": "Positive"
+    },
+    {
+        "start": 34.84,
+        "end": 35.84,
+        "text": "women.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 35.84,
+        "end": 41.4,
+        "text": "So I grew up in New York City between Harlem and the Bronx.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 41.4,
+        "end": 45.6,
+        "text": "Growing up as a boy we was taught that men had to be tough, had to be strong, had to be",
+        "score": 0.5423,
+        "label": "Positive"
+    },
+    {
+        "start": 45.6,
+        "end": 52.92,
+        "text": "courageous, dominating, no pain, no emotions with the exception of anger and definitely",
+        "score": -0.7579,
+        "label": "Negative"
+    },
+    {
+        "start": 52.92,
+        "end": 54.44,
+        "text": "no fear.",
+        "score": -0.6597,
+        "label": "Negative"
+    },
+    {
+        "start": 54.44,
+        "end": 60.599999999999994,
+        "text": "The men in charge, which means women and not, that men leave and you should just follow",
+        "score": 0.0382,
+        "label": "Neutral"
+    },
+    {
+        "start": 60.599999999999994,
+        "end": 62.76,
+        "text": "and just do what we say.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 62.76,
+        "end": 69.72,
+        "text": "That men are superior, women are inferior, that men are strong, women are weak, that women",
+        "score": 0.296,
+        "label": "Positive"
+    },
+    {
+        "start": 69.72,
+        "end": 78.44,
+        "text": "are less valued, property of men and objects, particularly sexual objects.",
+        "score": 0.3832,
+        "label": "Positive"
+    },
+    {
+        "start": 79.16,
+        "end": 86.67999999999999,
+        "text": "I've later come to know that to be the collective socialization of men better known as",
+        "score": 0.4404,
+        "label": "Positive"
+    },
+    {
+        "start": 86.67999999999999,
+        "end": 87.84,
+        "text": "the man box.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 87.84,
+        "end": 94.72,
+        "text": "So this man box has in it all the ingredients of how we define what it means to be a man.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 94.72,
+        "end": 99.12,
+        "text": "Now I also want to say without a doubt there are some wonderful, wonderful, absolutely",
+        "score": 0.8693,
+        "label": "Positive"
+    },
+    {
+        "start": 99.12,
+        "end": 102.64,
+        "text": "wonderful things about being a man.",
+        "score": 0.5719,
+        "label": "Positive"
+    },
+    {
+        "start": 102.64,
+        "end": 110.28,
+        "text": "At the same time there's some stuff that's just straight up twisted and we really need",
+        "score": 0.2263,
+        "label": "Positive"
+    },
+    {
+        "start": 110.28,
+        "end": 117.72,
+        "text": "to begin to challenge, look at it and really get into process of deconstructing, redefining",
+        "score": 0.0772,
+        "label": "Positive"
+    },
+    {
+        "start": 117.72,
+        "end": 122.32,
+        "text": "what we come to know as manhood.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 122.32,
+        "end": 124.64,
+        "text": "This is my two at home, Kendall and Jay.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 124.64,
+        "end": 127.76,
+        "text": "They're 11 and 12, Kendall's 15 months over in Jay.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 127.76,
+        "end": 132.0,
+        "text": "There's a period of time you know with my wife, her name is Tammy and I, we just got real",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 132.0,
+        "end": 137.12,
+        "text": "busy with Bamboon, Kendall and Jay.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 137.12,
+        "end": 142.56,
+        "text": "And when they were about five and six, four and five, you know, Jay could come to me,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 142.56,
+        "end": 146.28,
+        "text": "it didn't matter, it come to me crying, you know, it didn't matter what she was crying",
+        "score": -0.7467,
+        "label": "Negative"
+    },
+    {
+        "start": 146.28,
+        "end": 151.2,
+        "text": "about, she can get on my knees, she can snop my sleeve up, just cry, cry it out, daddy",
+        "score": -0.7351,
+        "label": "Negative"
+    },
+    {
+        "start": 151.2,
+        "end": 153.92000000000002,
+        "text": "got you, that's all that's important.",
+        "score": 0.2023,
+        "label": "Positive"
+    },
+    {
+        "start": 153.92000000000002,
+        "end": 158.88,
+        "text": "Now Kendall on the other hand, like I said he's only 15 months older than her, he come",
+        "score": 0.6908,
+        "label": "Positive"
+    },
+    {
+        "start": 158.88,
+        "end": 159.88,
+        "text": "to me crying.",
+        "score": -0.4767,
+        "label": "Negative"
+    },
+    {
+        "start": 160.24,
+        "end": 164.76,
+        "text": "It's like soon as I would hear him crying, a clock would go off.",
+        "score": -0.1531,
+        "label": "Negative"
+    },
+    {
+        "start": 164.76,
+        "end": 169.6,
+        "text": "You know, I would give the boy probably about 30 seconds, which means by the time he got",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 169.6,
+        "end": 173.6,
+        "text": "to me, I was already saying things like why are you crying?",
+        "score": -0.1531,
+        "label": "Negative"
+    },
+    {
+        "start": 173.6,
+        "end": 178.84,
+        "text": "Hold your head up, look at me, explain to me what's wrong, tell me what's wrong, I can't",
+        "score": -0.7351,
+        "label": "Negative"
+    },
+    {
+        "start": 178.84,
+        "end": 181.56,
+        "text": "understand you why you're crying.",
+        "score": -0.4767,
+        "label": "Negative"
+    },
+    {
+        "start": 181.56,
+        "end": 187.24,
+        "text": "And out of my own frustration of my role and responsibility of building him up as a",
+        "score": -0.4767,
+        "label": "Negative"
+    },
+    {
+        "start": 187.24,
+        "end": 192.72,
+        "text": "man to fit into these guidelines and these structures that are defining this man box,",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 192.72,
+        "end": 197.72,
+        "text": "I would find myself saying things like just go in your room, just going to go in your",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 197.72,
+        "end": 206.0,
+        "text": "room, sit down, get yourself together and come back and talk to me when you can talk",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 206.0,
+        "end": 208.84,
+        "text": "to me like what?",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 208.84,
+        "end": 213.0,
+        "text": "Like a man and he's five years old.",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 213.56,
+        "end": 218.88,
+        "text": "As I grow in life, I would say to myself, my God, what's wrong with me?",
+        "score": -0.25,
+        "label": "Negative"
+    },
+    {
+        "start": 218.88,
+        "end": 220.72,
+        "text": "What am I doing?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 220.72,
+        "end": 221.72,
+        "text": "Why would I do this?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 221.72,
+        "end": 229.44,
+        "text": "And I think back to my father, there was a time in my life where we had a very trouble",
+        "score": -0.4576,
+        "label": "Negative"
+    },
+    {
+        "start": 229.44,
+        "end": 232.2,
+        "text": "experience in our family.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 232.2,
+        "end": 236.0,
+        "text": "My brother Henry, he died tragically when we was teenagers.",
+        "score": -0.8074,
+        "label": "Negative"
+    },
+    {
+        "start": 236.0,
+        "end": 239.76,
+        "text": "We lived in New York City as I said, we lived in the Bronx at the time.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 239.76,
+        "end": 245.28,
+        "text": "And the burial was a place called Long Island, and it was about two hours outside of the",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 245.28,
+        "end": 247.28,
+        "text": "city.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 247.28,
+        "end": 253.39999999999998,
+        "text": "And as we were preparing to come back from the burial, the cars stopped at the bathroom,",
+        "score": -0.2263,
+        "label": "Negative"
+    },
+    {
+        "start": 253.39999999999998,
+        "end": 257.44,
+        "text": "let folks take care of themselves for the long ride back to the city.",
+        "score": 0.4939,
+        "label": "Positive"
+    },
+    {
+        "start": 257.44,
+        "end": 261.03999999999996,
+        "text": "And the limousine empties out, my mother and my sister, my auntie, they all get out, but",
+        "score": -0.09,
+        "label": "Negative"
+    },
+    {
+        "start": 261.03999999999996,
+        "end": 264.03999999999996,
+        "text": "my father and I stayed in the limousine.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 264.03999999999996,
+        "end": 268.03999999999996,
+        "text": "And no sooner than the women got out, he burst out crying.",
+        "score": -0.6486,
+        "label": "Negative"
+    },
+    {
+        "start": 269.76,
+        "end": 274.0,
+        "text": "He didn't want to cry in front of me, but he knew he wasn't going to make it back to",
+        "score": 0.1695,
+        "label": "Positive"
+    },
+    {
+        "start": 274.0,
+        "end": 279.03999999999996,
+        "text": "the city and would better me than to allow himself to express these feelings and emotions",
+        "score": 0.5859,
+        "label": "Positive"
+    },
+    {
+        "start": 279.03999999999996,
+        "end": 280.44,
+        "text": "in front of the women.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 280.44,
+        "end": 288.32,
+        "text": "And this is a man who ten minutes ago had just put his teenage son in the ground, something",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 288.32,
+        "end": 292.4,
+        "text": "I just can't even imagine.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 292.4,
+        "end": 298.96,
+        "text": "The thing that sticks with me the most is that he was apologizing to me for crying in front",
+        "score": -0.5267,
+        "label": "Negative"
+    },
+    {
+        "start": 298.96,
+        "end": 299.96,
+        "text": "of me.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 299.96,
+        "end": 306.4,
+        "text": "And at the same time he was also giving me props, lifting me up for not crying.",
+        "score": 0.6065,
+        "label": "Positive"
+    },
+    {
+        "start": 306.4,
+        "end": 312.4,
+        "text": "You know, I come to also look at this as this fear that we have of men, this fear that",
+        "score": -0.8176,
+        "label": "Negative"
+    },
+    {
+        "start": 312.4,
+        "end": 317.84,
+        "text": "just have us paralyzed, holding us hostage to this man box.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 317.84,
+        "end": 323.76,
+        "text": "I can remember speaking to a 12 year old boy, a football player, and I asked him, I said,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 323.76,
+        "end": 329.15999999999997,
+        "text": "how would you feel if in front of all the players your coach told you you were playing like",
+        "score": 0.5106,
+        "label": "Positive"
+    },
+    {
+        "start": 329.15999999999997,
+        "end": 330.15999999999997,
+        "text": "a girl?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 330.15999999999997,
+        "end": 334.0,
+        "text": "And I expected him to say something like, I'll be sad, I'll be mad, I'll be angry",
+        "score": -0.7964,
+        "label": "Negative"
+    },
+    {
+        "start": 334.0,
+        "end": 335.0,
+        "text": "or something like that.",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 335.0,
+        "end": 341.71999999999997,
+        "text": "No, the boy said to me, the boy said to me, it would destroy me.",
+        "score": -0.6908,
+        "label": "Negative"
+    },
+    {
+        "start": 341.71999999999997,
+        "end": 350.12,
+        "text": "And I said to myself, God, if it would destroy him to be called a girl, what are we then",
+        "score": -0.34,
+        "label": "Negative"
+    },
+    {
+        "start": 350.12,
+        "end": 359.12,
+        "text": "teaching him about girls?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 359.12,
+        "end": 363.72,
+        "text": "It took me back to time when I was about 12 years old.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 363.72,
+        "end": 367.2,
+        "text": "I grew up in Tenement buildings, you know, in the inner city, and at this time we were",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 367.2,
+        "end": 368.2,
+        "text": "living in the Bronx.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 368.2,
+        "end": 371.6,
+        "text": "And in the building next to where I lived, there was a guy named Johnny.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 371.6,
+        "end": 376.08,
+        "text": "He was about 16 years old, and we were all about 12 years old, younger guys, and he was",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 376.08,
+        "end": 378.04,
+        "text": "hanging out with all his younger guys.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 378.04,
+        "end": 379.96000000000004,
+        "text": "And this guy, he was up to a lot of no good.",
+        "score": 0.1779,
+        "label": "Positive"
+    },
+    {
+        "start": 379.96000000000004,
+        "end": 381.76000000000005,
+        "text": "He was a kind of kid with parents who have to one.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 381.76000000000005,
+        "end": 385.32,
+        "text": "The was his 16 year old boy, no, these 12 year old boys.",
+        "score": -0.296,
+        "label": "Negative"
+    },
+    {
+        "start": 385.32,
+        "end": 388.12,
+        "text": "And he did spend a lot of time up to no good, he was a trouble kid.",
+        "score": -0.25,
+        "label": "Negative"
+    },
+    {
+        "start": 388.12,
+        "end": 390.68,
+        "text": "You know, his mother had died from a heroin overdose.",
+        "score": -0.7783,
+        "label": "Negative"
+    },
+    {
+        "start": 390.68,
+        "end": 393.20000000000005,
+        "text": "He's being raised by his grandmother.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 393.20000000000005,
+        "end": 395.0,
+        "text": "His father wasn't on the set.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 395.0,
+        "end": 396.52000000000004,
+        "text": "His grandmother had two jobs.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 396.52000000000004,
+        "end": 398.6,
+        "text": "He was home alone a lot.",
+        "score": -0.25,
+        "label": "Negative"
+    },
+    {
+        "start": 398.6,
+        "end": 402.96000000000004,
+        "text": "But I gotta tell you, we young guys, we looked up to this dude, man.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 402.96000000000004,
+        "end": 404.68,
+        "text": "He was cool.",
+        "score": 0.3182,
+        "label": "Positive"
+    },
+    {
+        "start": 404.68,
+        "end": 405.68,
+        "text": "He was fine.",
+        "score": 0.2023,
+        "label": "Positive"
+    },
+    {
+        "start": 406.04,
+        "end": 407.08,
+        "text": "That's what the sister said.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 407.08,
+        "end": 409.32,
+        "text": "He was fine, right?",
+        "score": 0.2023,
+        "label": "Positive"
+    },
+    {
+        "start": 409.32,
+        "end": 411.24,
+        "text": "He was having sex.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 411.24,
+        "end": 413.24,
+        "text": "You know, we all looked up to him.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 413.24,
+        "end": 416.6,
+        "text": "So one day I'm out in front of the house doing something, just playing around doing something.",
+        "score": 0.2023,
+        "label": "Positive"
+    },
+    {
+        "start": 416.6,
+        "end": 417.52,
+        "text": "I don't know what.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 417.52,
+        "end": 418.52,
+        "text": "He looks out his window.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 418.52,
+        "end": 419.52,
+        "text": "He calls me upstairs.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 419.52,
+        "end": 420.52,
+        "text": "He said, they have.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 420.52,
+        "end": 421.72,
+        "text": "They call me Anthony grown up as a kid.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 421.72,
+        "end": 423.84000000000003,
+        "text": "Anthony, come on upstairs.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 423.84000000000003,
+        "end": 425.36,
+        "text": "Johnny, call, you go.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 425.36,
+        "end": 427.88,
+        "text": "So I run right upstairs.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 427.88,
+        "end": 431.16,
+        "text": "As the open the door, he says to me, do you want some?",
+        "score": 0.0772,
+        "label": "Positive"
+    },
+    {
+        "start": 431.16,
+        "end": 432.88,
+        "text": "Now I immediately knew what he meant.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 432.88,
+        "end": 437.08,
+        "text": "Because for me growing up at that time and our relationship with this man box, do you want",
+        "score": 0.25,
+        "label": "Positive"
+    },
+    {
+        "start": 437.08,
+        "end": 438.08,
+        "text": "some men?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 438.08,
+        "end": 441.15999999999997,
+        "text": "One or two things, sex or drugs.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 441.15999999999997,
+        "end": 443.15999999999997,
+        "text": "And we weren't doing drugs.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 443.15999999999997,
+        "end": 449.0,
+        "text": "Now my box, my card, my man box card was immediately in jeopardy.",
+        "score": -0.4767,
+        "label": "Negative"
+    },
+    {
+        "start": 449.0,
+        "end": 450.0,
+        "text": "Two things.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 450.0,
+        "end": 451.68,
+        "text": "One, I never had sex.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 451.68,
+        "end": 453.6,
+        "text": "We don't talk about that as men.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 453.6,
+        "end": 457.44,
+        "text": "You only tell your dearest closest friends, we want to seek for life the first time you",
+        "score": 0.7906,
+        "label": "Positive"
+    },
+    {
+        "start": 457.44,
+        "end": 458.44,
+        "text": "had sex.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 458.44,
+        "end": 461.4,
+        "text": "For everybody else, we go around like we've been having sex since we used to.",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 461.4,
+        "end": 466.35999999999996,
+        "text": "They ain't no first time.",
+        "score": 0.2235,
+        "label": "Positive"
+    },
+    {
+        "start": 466.35999999999996,
+        "end": 469.4,
+        "text": "The other thing I couldn't tell him is that I didn't want any.",
+        "score": -0.0572,
+        "label": "Negative"
+    },
+    {
+        "start": 469.4,
+        "end": 470.4,
+        "text": "You know, that's even worse.",
+        "score": -0.4767,
+        "label": "Negative"
+    },
+    {
+        "start": 470.4,
+        "end": 472.32,
+        "text": "We spoke all the way to be on the prowl.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 472.32,
+        "end": 475.08,
+        "text": "Women are objects, especially sexual objects.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 475.08,
+        "end": 478.15999999999997,
+        "text": "So anyway, I couldn't tell many of that.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 478.15999999999997,
+        "end": 480.08,
+        "text": "So like my mother would say, make a long story short.",
+        "score": 0.4201,
+        "label": "Positive"
+    },
+    {
+        "start": 480.08,
+        "end": 483.23999999999995,
+        "text": "I just simply said to Johnny, yes, he told me going his room.",
+        "score": 0.4019,
+        "label": "Positive"
+    },
+    {
+        "start": 483.23999999999995,
+        "end": 487.35999999999996,
+        "text": "I go in his room on his bed is a girl from the neighborhood named Sheila.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 487.35999999999996,
+        "end": 488.79999999999995,
+        "text": "She's 16 years old.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 488.79999999999995,
+        "end": 490.67999999999995,
+        "text": "She's new.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 490.68,
+        "end": 495.52,
+        "text": "She's what I know today to be mentally ill, higher functioning at times than others.",
+        "score": -0.4215,
+        "label": "Negative"
+    },
+    {
+        "start": 495.52,
+        "end": 499.2,
+        "text": "We had a whole choice worth inappropriate names for her.",
+        "score": 0.2263,
+        "label": "Positive"
+    },
+    {
+        "start": 499.2,
+        "end": 502.92,
+        "text": "Anyway, Johnny had just gotten through having sex with her.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 502.92,
+        "end": 506.48,
+        "text": "He actually raped her, but he would say he had sex with her because while Sheila never",
+        "score": -0.4215,
+        "label": "Negative"
+    },
+    {
+        "start": 506.48,
+        "end": 511.2,
+        "text": "said, no, she also never said yes.",
+        "score": -0.5358,
+        "label": "Negative"
+    },
+    {
+        "start": 511.2,
+        "end": 513.2,
+        "text": "So he was offering me the opportunity to do the same.",
+        "score": 0.4215,
+        "label": "Positive"
+    },
+    {
+        "start": 513.2,
+        "end": 515.6,
+        "text": "So when I go in the room, I close the door.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 515.6,
+        "end": 516.6,
+        "text": "Folks, I'm petrified.",
+        "score": -0.5423,
+        "label": "Negative"
+    },
+    {
+        "start": 517.32,
+        "end": 520.44,
+        "text": "I stand with my back to the door so Johnny can't bust in the room and see that I'm not",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 520.44,
+        "end": 521.44,
+        "text": "doing anything.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 521.44,
+        "end": 525.08,
+        "text": "And I stand there long enough that I could have actually done something.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 525.08,
+        "end": 527.24,
+        "text": "So now I'm no longer trying to figure out what I'm going to do.",
+        "score": -0.3535,
+        "label": "Negative"
+    },
+    {
+        "start": 527.24,
+        "end": 529.8000000000001,
+        "text": "I'm trying to figure out how I'm going to get out of this room.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 529.8000000000001,
+        "end": 533.84,
+        "text": "So in my 12 years of wisdom, I zip my pants down.",
+        "score": 0.5267,
+        "label": "Positive"
+    },
+    {
+        "start": 533.84,
+        "end": 535.96,
+        "text": "I walk out into the living room.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 535.96,
+        "end": 541.36,
+        "text": "And lo and behold, me while I was in the room with Sheila, Johnny was back at the window",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 541.36,
+        "end": 543.1600000000001,
+        "text": "calling guys up.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 543.1600000000001,
+        "end": 544.76,
+        "text": "So now I was a living room full of guys.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 544.76,
+        "end": 547.52,
+        "text": "Like, you know, like the waiting room in the doctor's office.",
+        "score": 0.6124,
+        "label": "Positive"
+    },
+    {
+        "start": 547.52,
+        "end": 549.92,
+        "text": "And they asked me how was it?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 549.92,
+        "end": 552.48,
+        "text": "And I say to them, it was good.",
+        "score": 0.4404,
+        "label": "Positive"
+    },
+    {
+        "start": 552.48,
+        "end": 556.52,
+        "text": "And I zip my pants up in front of them and I head for the door.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 556.52,
+        "end": 560.48,
+        "text": "And I say this old remorse and I was feeling tremendous amount of remorse at that time, but",
+        "score": -0.2144,
+        "label": "Negative"
+    },
+    {
+        "start": 560.48,
+        "end": 561.48,
+        "text": "I was conflicting.",
+        "score": -0.4019,
+        "label": "Negative"
+    },
+    {
+        "start": 561.48,
+        "end": 564.6,
+        "text": "Because while I was feeling remorse, I was excited because I didn't get caught.",
+        "score": 0.2023,
+        "label": "Positive"
+    },
+    {
+        "start": 564.6,
+        "end": 567.76,
+        "text": "But I knew I felt bad about what was happening.",
+        "score": -0.6956,
+        "label": "Negative"
+    },
+    {
+        "start": 567.76,
+        "end": 571.68,
+        "text": "This fear getting outside the man box totally enveloped me.",
+        "score": -0.4939,
+        "label": "Negative"
+    },
+    {
+        "start": 571.68,
+        "end": 579.3199999999999,
+        "text": "I was way more important to me about me and my man box card than about Sheila and what",
+        "score": 0.2716,
+        "label": "Positive"
+    },
+    {
+        "start": 579.3199999999999,
+        "end": 582.52,
+        "text": "was happening to her.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 582.52,
+        "end": 586.0799999999999,
+        "text": "So collectively, we as men are taught to have less value in women.",
+        "score": 0.2748,
+        "label": "Positive"
+    },
+    {
+        "start": 586.0799999999999,
+        "end": 588.4,
+        "text": "The view is properly in the objects of men.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 588.4,
+        "end": 592.4,
+        "text": "We see that as an equation that equals violence against women.",
+        "score": -0.6249,
+        "label": "Negative"
+    },
+    {
+        "start": 592.4,
+        "end": 598.0,
+        "text": "We as men, good men, the large majority of men, we operate on the foundation of this",
+        "score": 0.4404,
+        "label": "Positive"
+    },
+    {
+        "start": 598.0,
+        "end": 599.64,
+        "text": "whole collective socialization.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 599.64,
+        "end": 602.8,
+        "text": "We kind of see ourselves separate, but we're very much a part of it.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 602.8,
+        "end": 608.28,
+        "text": "You see, we have to come to understand that less value, probably no abjectification, is",
+        "score": 0.044,
+        "label": "Neutral"
+    },
+    {
+        "start": 608.28,
+        "end": 611.04,
+        "text": "the foundation and the violence can't happen without it.",
+        "score": -0.6249,
+        "label": "Negative"
+    },
+    {
+        "start": 611.04,
+        "end": 615.64,
+        "text": "So we're very much a part of the solution as well as the problem.",
+        "score": 0.1779,
+        "label": "Positive"
+    },
+    {
+        "start": 615.64,
+        "end": 619.8,
+        "text": "The Center for Disease Control says that men's violence against women is at epidemic",
+        "score": -0.6249,
+        "label": "Negative"
+    },
+    {
+        "start": 619.8,
+        "end": 620.8,
+        "text": "proportions.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 620.8,
+        "end": 624.84,
+        "text": "It's the number one health concern for women in this country and abroad.",
+        "score": 0.0772,
+        "label": "Positive"
+    },
+    {
+        "start": 624.84,
+        "end": 629.12,
+        "text": "So quickly, I'd like to just say, you know, this is my love of my life.",
+        "score": 0.7884,
+        "label": "Positive"
+    },
+    {
+        "start": 629.12,
+        "end": 634.5600000000001,
+        "text": "My daughter, Jay, the world I envision for her, how do I want men to be acting in behaving?",
+        "score": 0.0772,
+        "label": "Positive"
+    },
+    {
+        "start": 634.5600000000001,
+        "end": 635.72,
+        "text": "I need you on board.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 635.72,
+        "end": 637.12,
+        "text": "I need you with me.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 637.12,
+        "end": 642.2,
+        "text": "I need you working with me and me working with you on how we raise our sons and teach them",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 642.2,
+        "end": 643.44,
+        "text": "to be men.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 643.44,
+        "end": 645.8,
+        "text": "That is okay to not be dominating.",
+        "score": 0.4191,
+        "label": "Positive"
+    },
+    {
+        "start": 645.8,
+        "end": 648.48,
+        "text": "That is okay to have feelings and emotions.",
+        "score": 0.2263,
+        "label": "Positive"
+    },
+    {
+        "start": 648.48,
+        "end": 650.48,
+        "text": "That is okay to promote equality.",
+        "score": 0.5423,
+        "label": "Positive"
+    },
+    {
+        "start": 650.48,
+        "end": 653.76,
+        "text": "That is okay to have women who are just friends and that's it.",
+        "score": 0.6124,
+        "label": "Positive"
+    },
+    {
+        "start": 653.76,
+        "end": 656.2,
+        "text": "That is okay to be whole.",
+        "score": 0.2263,
+        "label": "Positive"
+    },
+    {
+        "start": 656.2,
+        "end": 661.6,
+        "text": "That my liberation as a man is tied to your liberation as a woman.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 661.6,
+        "end": 665.24,
+        "text": "I remember asking a nine-year-old boy.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 665.24,
+        "end": 670.24,
+        "text": "I asked a nine-year-old boy, what would life be like for you if you didn't have to adhere",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 670.24,
+        "end": 671.56,
+        "text": "to this man box?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 671.56,
+        "end": 674.0,
+        "text": "He said to me, I would be free.",
+        "score": 0.5106,
+        "label": "Positive"
+    },
+    {
+        "start": 674.0,
+        "end": 675.0,
+        "text": "Thank you folks.",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 675.0,
+        "end": 694.84,
+        "text": "That was Tony Porter recorded at Ted Women in Washington, DC, December, 2010.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 694.84,
+        "end": 697.64,
+        "text": "For more information on Ted, visit Ted.com.",
+        "score": 0.0,
+        "label": "Neutral"
+    }
+]

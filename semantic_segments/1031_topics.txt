@@ -1,0 +1,348 @@
+=== TOPIC ANALYSIS: 1031 ===
+
+Detected 69 major topics.
+
+🔹 TOPIC 1 [00:00 - 00:12]:  Ted Talks are recorded live at the Ted Conference and partn...
+   SUMMARY:  Ted Talks are recorded live at the Ted Conference and partner events . Ted Talks will be broadcast live at Ted Talks on October 31 at 8 p.m. ET on CNN.com Live .
+   KEYWORDS: ted, partner, live, events, conference
+----------------------------------------
+
+🔹 TOPIC 2 [00:12 - 00:24]:  This episode features educator Tony Porter 
+   SUMMARY:  This episode features educator Tony Porter . Here's Tony Porter from a call to men. Here's the latest episode of this week's episode of "Men's Call to Men" at 10 p.m. ET .
+   KEYWORDS: tony, porter, folks, episode, educator
+----------------------------------------
+
+🔹 TOPIC 3 [00:24 - 00:35]:  I want to talk with you about the development of boys to me...
+   SUMMARY:  I want to talk with you about the development of boys to men and the role we as men and women play in that development . Also discuss the impact and influence on the experience of women .
+   KEYWORDS: women, men, development, impact, experience
+----------------------------------------
+
+🔹 TOPIC 4 [00:35 - 00:52]:  "I grew up in New York City between Harlem and the Bronx
+   SUMMARY:  "I grew up in New York City between Harlem and the Bronx. Growing up as a boy we was taught that men had to be tough," he says . "We was taught to be courageous, dominating, dominating and no pain, no emotions"
+   KEYWORDS: courageous, city, bronx, boy, anger
+----------------------------------------
+
+🔹 TOPIC 5 [00:52 - 01:02]:  The men in charge, which means women and not, that men leav...
+   SUMMARY:  The men in charge, which means women and not, that men leave and you should just follow, just do what we say. no fear. No fear. Men in charge . No fear .
+   KEYWORDS: men, just, follow, fear, charge
+----------------------------------------
+
+🔹 TOPIC 6 [01:02 - 01:18]:  That men are superior and women are inferior, that men are ...
+   SUMMARY:  That men are superior and women are inferior, that men are strong, women are weak, that women are less valued, property of men and objects, particularly sexual objects . That women are property and property, especially sexual objects, is what men say .
+   KEYWORDS: women, men, objects, property, inferior
+----------------------------------------
+
+🔹 TOPIC 7 [01:19 - 01:57]:  There are some wonderful, wonderful, absolutely wonderful t...
+   SUMMARY:  There are some wonderful, wonderful, absolutely wonderful things about being a man . But there's some stuff that's just straight up twisted and we really need to challenge, look at it and really get into process of deconstructing, redefining .
+   KEYWORDS: man, wonderful, really, box, challenge
+----------------------------------------
+
+🔹 TOPIC 8 [01:57 - 02:31]:  This is my two at home, Kendall and Jay
+   SUMMARY:  This is my two at home, Kendall and Jay. They're 11 and 12, Kendall's 15 months over in Jay. There's a period of time you know with my wife, her name is Tammy and I, we just got real busy with Bamboon . And when they were about five and six, four and five, you know, Jay could come to me crying, it didn't matter .
+   KEYWORDS: know, jay, kendall, come, didn
+----------------------------------------
+
+🔹 TOPIC 9 [02:31 - 02:39]:  Kendall is only 15 months older than her brother 
+   SUMMARY:  Kendall is only 15 months older than her brother . She says he cried when she was crying, 'I got you, that's all that's important. got you,' she said . Kendall's brother is also 15 months old, but he's not the same age as her .
+   KEYWORDS: hand, got, crying, come, 15
+----------------------------------------
+
+🔹 TOPIC 10 [02:40 - 02:49]:  "It's like soon as I would hear him crying, a clock would g...
+   SUMMARY:  "It's like soon as I would hear him crying, a clock would go off. You know, I would give the boy probably about 30 seconds, which means by the time he got, he would be crying."
+   KEYWORDS: got, crying, clock, boy, 30
+----------------------------------------
+
+🔹 TOPIC 11 [02:49 - 03:01]:  to me, I was already saying things like why are you crying?...
+   SUMMARY:  to me, I was already saying things like why are you crying? Hold your head up, look at me, explain to me what is wrong, tell me what's wrong, I can't understand you why you're crying .
+   KEYWORDS: wrong, crying, like, head, explain
+----------------------------------------
+
+🔹 TOPIC 12 [03:01 - 03:33]:  "I would find myself saying things like just go in your roo...
+   SUMMARY:  "I would find myself saying things like just go in your room, just going in your . room, sit down, get yourself together and come back to talk to me when you can talk to . me like a man and he's five years old," he says .
+   KEYWORDS: man, like, talk, room, just
+----------------------------------------
+
+🔹 TOPIC 13 [03:33 - 03:40]:  As I grow in life, I would say to myself, my God, what is w...
+   SUMMARY:  As I grow in life, I would say to myself, my God, what is wrong with me? What am I doing? I would ask God for help, and I would think, "What am I am doing?"
+   KEYWORDS: say, life, grow, god, doing
+----------------------------------------
+
+🔹 TOPIC 14 [03:40 - 03:49]:  "Why would I do this? And I think back to my father, there ...
+   SUMMARY:  "Why would I do this? And I think back to my father, there was a time in my life where we had a very trouble," she says . "There was a very time in his life where he had trouble. Why would he do this?"
+   KEYWORDS: trouble, time, think, life, father
+----------------------------------------
+
+🔹 TOPIC 15 [03:49 - 03:56]:  My brother Henry, he died tragically when we were teenagers
+   SUMMARY:  My brother Henry, he died tragically when we were teenagers. experience in our family . experience in family . My brother died tragically in a car crash when he was 16 years old. My sister died when they were teenagers .
+   KEYWORDS: henry, family, experience, died, brother
+----------------------------------------
+
+🔹 TOPIC 16 [03:56 - 04:05]:  The burial was a place called Long Island, and it was about...
+   SUMMARY:  The burial was a place called Long Island, and it was about two hours outside of New York City . We lived in the Bronx at the time, and the burial was in Long Island .
+   KEYWORDS: lived, city, called, burial, bronx
+----------------------------------------
+
+🔹 TOPIC 17 [04:05 - 04:13]:  As we were preparing to come back from the burial, the cars...
+   SUMMARY:  As we were preparing to come back from the burial, the cars stopped at the bathroom . And as we were . preparing to . come back, the . cars stopped in the bathroom, stopping at the . bathroom .
+   KEYWORDS: come, city, cars, burial, bathroom
+----------------------------------------
+
+🔹 TOPIC 18 [04:13 - 04:28]:  "Let folks take care of themselves for the long ride back t...
+   SUMMARY:  "Let folks take care of themselves for the long ride back to the city. And the limousine empties out, my mother and my sister, my auntie, they all get out, but my father and I stayed . And no sooner than the women got out, he burst out crying .
+   KEYWORDS: limousine, crying, care, burst, auntie
+----------------------------------------
+
+🔹 TOPIC 19 [04:29 - 04:39]:  "He didn't want to cry in front of me, but he knew he wasn'...
+   SUMMARY:  "He didn't want to cry in front of me, but he knew he wasn't going to make it back to the city and would better me than to allow himself to express these feelings and emotions," she said .
+   KEYWORDS: emotions, didn, city, better, allow
+----------------------------------------
+
+🔹 TOPIC 20 [04:39 - 04:48]:  Ten minutes ago, a man had just put his teenage son in the ...
+   SUMMARY:  Ten minutes ago, a man had just put his teenage son in the ground in front of the women . And this is a man who ten minutes ago had just killed his son, something he had just done ten minutes earlier .
+   KEYWORDS: minutes, man, just, ground, ago
+----------------------------------------
+
+🔹 TOPIC 21 [04:48 - 04:58]:  The thing that sticks with me the most is that he was apolo...
+   SUMMARY:  The thing that sticks with me the most is that he was apologizing to me for crying in front of me . I just can't even imagine. The thing I'm doing is that I'm not sure what happened to him, and I'm so sad about it .
+   KEYWORDS: sticks, just, imagine, crying, apologizing
+----------------------------------------
+
+🔹 TOPIC 22 [04:58 - 05:06]:  of me
+   SUMMARY:  of me. And at the same time he was also giving me props, lifting me up for not crying. of me, he also gave me props . of me . Of me. He also gave her props, she said . of her .
+   KEYWORDS: time, props, lifting, giving, crying
+----------------------------------------
+
+🔹 TOPIC 23 [05:06 - 05:17]:  CNN
+   SUMMARY:  CNN.com: "I come to also look at this as this fear that we have of men" "Fear that just have us paralyzed, holding us hostage to this man box," she says .
+   KEYWORDS: fear, hostage, holding, come, box
+----------------------------------------
+
+🔹 TOPIC 24 [05:17 - 05:34]:  I can remember speaking to a 12-year-old boy, a football pl...
+   SUMMARY:  I can remember speaking to a 12-year-old boy, a football player, and I asked him, how would you feel if in front of all the players your coach told you you were playing like a girl? And I expected him to say something like, I'll be sad, angry, sad, mad, angry .
+   KEYWORDS: ll, like, coach, angry, 12
+----------------------------------------
+
+🔹 TOPIC 25 [05:34 - 05:50]:  No, the boy said to me, the girl said to her, it would dest...
+   SUMMARY:  No, the boy said to me, the girl said to her, it would destroy me. or something like that. No, I said to myself, God, if it . would destroy him to be called a girl, what are we then?
+   KEYWORDS: said, destroy, boy, girl, called
+----------------------------------------
+
+🔹 TOPIC 26 [05:50 - 06:07]:  "It took me back to time when I was about 12 years old
+   SUMMARY:  "It took me back to time when I was about 12 years old. I grew up in Tenement buildings, you know, in the inner city, and at this time we were . teaching him about girls," she says .
+   KEYWORDS: time, grew, city, buildings, 12
+----------------------------------------
+
+🔹 TOPIC 27 [06:07 - 06:08]: Topic 27
+   SUMMARY: Summary unavailable
+   KEYWORDS: living, bronx
+----------------------------------------
+
+🔹 TOPIC 28 [06:08 - 06:19]:  In the building next to where I lived, there was a guy name...
+   SUMMARY:  In the building next to where I lived, there was a guy named Johnny. He was about 16 years old, and we were all about 12 years old . He was hanging out with all his younger guys. And this guy, he was up to a lot of no good .
+   KEYWORDS: younger, years, old, guys, guy
+----------------------------------------
+
+🔹 TOPIC 29 [06:19 - 06:28]:  The was his 16 year old boy, no, these 12 year old boys
+   SUMMARY:  The was his 16 year old boy, no, these 12 year old boys. And he did spend a lot of time up to no good, he was a trouble kid. He was a kind of kid with parents who have to one .
+   KEYWORDS: year, old, kid, boys, 12
+----------------------------------------
+
+🔹 TOPIC 30 [06:28 - 06:35]:  His mother had died from a heroin overdose 
+   SUMMARY:  His mother had died from a heroin overdose . He's being raised by his grandmother . His father wasn't on the set. He was raising him up as a child. He's now raising him with his grandmother.
+   KEYWORDS: know, heroin, grandmother, father, died
+----------------------------------------
+
+🔹 TOPIC 31 [06:35 - 06:42]:  "We young guys, we looked up to this dude, man
+   SUMMARY:  "We young guys, we looked up to this dude, man. His grandmother had two jobs. He was home alone a lot. But I gotta tell you, we look up to him, man."
+   KEYWORDS: home, guys, grandmother, gotta, dude
+----------------------------------------
+
+🔹 TOPIC 32 [06:42 - 06:44]: Topic 32
+   SUMMARY: Summary unavailable
+   KEYWORDS: cool
+----------------------------------------
+
+🔹 TOPIC 33 [06:44 - 06:47]:  He was fine
+   SUMMARY:  He was fine. That's what the sister said . He's fine, she says . That's according to the sister of the victim . She says he's fine. He was just fine .
+   KEYWORDS: sister, said, fine
+----------------------------------------
+
+🔹 TOPIC 34 [06:47 - 06:51]:  He was fine, right? He was having sex
+   SUMMARY:  He was fine, right? He was having sex. He was just fine . He had sex . He was in bed with someone else . He's fine, he's fine now. He's having sex .
+   KEYWORDS: sex, right, having, fine
+----------------------------------------
+
+🔹 TOPIC 35 [06:51 - 06:56]:  You know, we all looked up to him
+   SUMMARY:  You know, we all looked up to him. So one day I'm out in front of the house doing something, just playing around doing something . So one of those things happened to happen .
+   KEYWORDS: doing, know, just, house, day
+----------------------------------------
+
+🔹 TOPIC 36 [06:56 - 06:58]:  He looks out his window
+   SUMMARY:  He looks out his window. I don't know what. He looks like he's looking for something to do . He looks at the window. It's not clear what . He's looking to do something, he says .
+   KEYWORDS: window, looks, know, don
+----------------------------------------
+
+🔹 TOPIC 37 [06:58 - 06:59]: Topic 37
+   SUMMARY: Summary unavailable
+   KEYWORDS: upstairs, calls
+----------------------------------------
+
+🔹 TOPIC 38 [06:59 - 07:01]:  He said, "They call me Anthony grown up as a kid
+   SUMMARY:  He said, "They call me Anthony grown up as a kid. They call me grown up" He said they have. He said: "They have. They have. Called me Anthony"
+   KEYWORDS: said, kid, grown, anthony
+----------------------------------------
+
+🔹 TOPIC 39 [07:01 - 07:05]:  Anthony, come on upstairs
+   SUMMARY:  Anthony, come on upstairs. Johnny, call, you go. Anthony . Johnny, come upstairs. Anthony, call . Johnny . Johnny. Anthony. Johnny. Johnny . Call, come downstairs. Anthony,. Johnny, go upstairs.
+   KEYWORDS: upstairs, johnny, come, anthony
+----------------------------------------
+
+🔹 TOPIC 40 [07:05 - 07:12]:  As the open the door, he says to me, do you want some? Now ...
+   SUMMARY:  As the open the door, he says to me, do you want some? Now I immediately knew what he meant. So I run right upstairs . So I ran right upstairs. As the door was open, he asked me to get some .
+   KEYWORDS: open, meant, knew, immediately, door
+----------------------------------------
+
+🔹 TOPIC 41 [07:12 - 07:17]:  "Because for me growing up growing up, our relationship wit...
+   SUMMARY:  "Because for me growing up growing up, our relationship with this man box, do you want?" she asks . "For me growing growing up ... I want to talk about my relationship with the man box," she says .
+   KEYWORDS: time, relationship, man, growing, box
+----------------------------------------
+
+🔹 TOPIC 42 [07:17 - 07:29]:  some men? One or two things, sex or drugs 
+   SUMMARY:  some men? One or two things, sex or drugs . And we weren't doing drugs. Now my box, my card, my man box card was immediately in jeopardy . Now my . box, his card, was immediately put in jeopardy. some men?" he asks .
+   KEYWORDS: drugs, box, card, immediately, doing
+----------------------------------------
+
+🔹 TOPIC 43 [07:29 - 07:30]: Topic 43
+   SUMMARY: Summary unavailable
+   KEYWORDS: things
+----------------------------------------
+
+🔹 TOPIC 44 [07:30 - 07:33]:  "We don't talk about that as men
+   SUMMARY:  "We don't talk about that as men. One, I never had sex. We don't ... talk about sex as men," she says . "I never had sexual relations," she adds. "I don't want to talk about it as men."
+   KEYWORDS: talk, sex, men, don
+----------------------------------------
+
+🔹 TOPIC 45 [07:33 - 07:41]:  You only tell your dearest closest friends, we want to seek...
+   SUMMARY:  You only tell your dearest closest friends, we want to seek for life the first time you had sex . For everybody else, we go around like we've been having sex since we used to .
+   KEYWORDS: sex, having, everybody, dearest, closest
+----------------------------------------
+
+🔹 TOPIC 46 [07:41 - 07:50]:  The other thing I couldn't tell him is that I didn't want a...
+   SUMMARY:  The other thing I couldn't tell him is that I didn't want any. You know, that's even worse. They ain't no first time. They're not the first time .
+   KEYWORDS: tell, know, didn, couldn, ain
+----------------------------------------
+
+🔹 TOPIC 47 [07:50 - 07:55]:  We spoke all the way to be on the prowl
+   SUMMARY:  We spoke all the way to be on the prowl. Women are objects, especially sexual objects. We spoke to you all at the top of the list. We speak to you to be a sexual object. We're not afraid of it. We want to know if you want to date someone else .
+   KEYWORDS: objects, spoke, sexual, prowl, especially
+----------------------------------------
+
+🔹 TOPIC 48 [07:55 - 07:58]:  "I couldn't tell many of that
+   SUMMARY:  "I couldn't tell many of that. So anyway, I couldn't say many of the things," she says . "I'm not sure what happened to me," she adds . "But I'm glad to have a lot of things to do with my life," she said .
+   KEYWORDS: tell, couldn
+----------------------------------------
+
+🔹 TOPIC 49 [07:58 - 08:07]:  Johnny told me to go in his room on his bed is a girl from ...
+   SUMMARY:  Johnny told me to go in his room on his bed is a girl from the neighborhood named Sheila . Sheila. So like my mother would say, make a long story short. I just simply said to Johnny, yes, he told me going his room. I go in .
+   KEYWORDS: room, just, going, girl, bed
+----------------------------------------
+
+🔹 TOPIC 50 [08:07 - 08:10]: Topic 50
+   SUMMARY: Summary unavailable
+   KEYWORDS: years, old, new, 16
+----------------------------------------
+
+🔹 TOPIC 51 [08:10 - 08:31]:  Johnny had just gotten through having sex with Sheila, but ...
+   SUMMARY:  Johnny had just gotten through having sex with Sheila, but he would say he had sex with her because while Sheila never said, no, she also never said yes . Sheila's what I know today to be mentally ill, higher functioning than others .
+   KEYWORDS: sex, said, having, functioning, actually
+----------------------------------------
+
+🔹 TOPIC 52 [08:31 - 08:36]:  'I'm petrified
+   SUMMARY:  'I'm petrified. So when I go in the room, I close the door. So he was offering me the opportunity to do the same. Folks, I'm ... petrified," she said .
+   KEYWORDS: opportunity, offering, folks, door, close
+----------------------------------------
+
+🔹 TOPIC 53 [08:37 - 08:41]:  I stand with my back to the door so Johnny can't bust in th...
+   SUMMARY:  I stand with my back to the door so Johnny can't bust in the room and see that I'm not doing anything . I stand by the door to the room so Johnny doesn't see that he's doing anything, he says .
+   KEYWORDS: room, johnny, door, doing, bust
+----------------------------------------
+
+🔹 TOPIC 54 [08:41 - 08:55]:  "I stand there long enough that I could have actually done ...
+   SUMMARY:  "I stand there long enough that I could have actually done something," she says . "So in my 12 years of wisdom, I zip my pants down. I walk out into the living room. And I walk .
+   KEYWORDS: trying, room, going, figure, living
+----------------------------------------
+
+🔹 TOPIC 55 [08:55 - 09:07]:  "Johnny was back at the window calling guys up
+   SUMMARY:  "Johnny was back at the window calling guys up. So now I was a living room full of guys. Like, you know, like the waiting room in the doctor's office," he says .
+   KEYWORDS: room, like, guys, doctor, calling
+----------------------------------------
+
+🔹 TOPIC 56 [09:07 - 09:16]:  'I zip my pants up in front of them and I head for the door
+   SUMMARY:  'I zip my pants up in front of them and I head for the door. And they asked me how was it? And I say to them, it was good. And I zip my . pants up . And then I head out of the door . And I tell them, "It was good"
+   KEYWORDS: pants, head, good, door, asked
+----------------------------------------
+
+🔹 TOPIC 57 [09:16 - 09:24]:  "I was feeling tremendous amount of remorse at that time, b...
+   SUMMARY:  "I was feeling tremendous amount of remorse at that time, but I was conflicting. Because while I was feeling remorse, I was excited because I didn't get caught. And I say this old remorse," he says .
+   KEYWORDS: remorse, feeling, excited, conflicting, caught
+----------------------------------------
+
+🔹 TOPIC 58 [09:24 - 09:39]:  This fear getting outside the man box totally enveloped me
+   SUMMARY:  This fear getting outside the man box totally enveloped me. But I knew I felt bad about what was happening. I was way more important to me about me and my man box card than about Sheila and what .
+   KEYWORDS: man, box, fear, card, bad
+----------------------------------------
+
+🔹 TOPIC 59 [09:39 - 09:58]:  The view is properly in the objects of men
+   SUMMARY:  The view is properly in the objects of men. We see that as an equation that equals violence against women. was happening to her . So collectively, we as men are taught to have less value in women. We as men, good men, we operate on the foundation of this .
+   KEYWORDS: men, women, good, equation, collectively
+----------------------------------------
+
+🔹 TOPIC 60 [09:58 - 10:02]:  "We kind of see ourselves separate, but we're very much a p...
+   SUMMARY:  "We kind of see ourselves separate, but we're very much a part of it. whole collective socialization. We kind of think we're separate from each other, but are very much of it," she says .
+   KEYWORDS: socialization, separate, kind, collective
+----------------------------------------
+
+🔹 TOPIC 61 [10:02 - 10:08]:  You see, we have to come to understand that less value, pro...
+   SUMMARY:  You see, we have to come to understand that less value, probably no abjectification, is less value . Less value is less than abjectment, and there is no abjection, is "less value"
+   KEYWORDS: value, understand, probably, come, abjectification
+----------------------------------------
+
+🔹 TOPIC 62 [10:08 - 10:15]:  "Violence can't happen without it
+   SUMMARY:  "Violence can't happen without it. So we're very much a part of the solution as well as the problem," he says . The foundation and the foundation is the foundation of the violence, he adds .
+   KEYWORDS: violence, solution, problem, happen, foundation
+----------------------------------------
+
+🔹 TOPIC 63 [10:15 - 10:20]:  The Center for Disease Control says men's violence against ...
+   SUMMARY:  The Center for Disease Control says men's violence against women is at epidemic proportions . Men's violence is at an epidemic, according to the CDC . Women's rights groups say men are being targeted for violence against them in the U.S.
+   KEYWORDS: men, epidemic, disease, control, center
+----------------------------------------
+
+🔹 TOPIC 64 [10:20 - 10:29]:  It's the number one health concern for women in this countr...
+   SUMMARY:  It's the number one health concern for women in this country and abroad . So quickly, I'd like to just say, you know, this is my love of life. It's a love of my life .
+   KEYWORDS: just, health, country, concern, abroad
+----------------------------------------
+
+🔹 TOPIC 65 [10:29 - 10:42]:  My daughter, Jay, the world I envision for her, how do I wa...
+   SUMMARY:  My daughter, Jay, the world I envision for her, how do I want men to be acting in behaving? I need you on board, she says . "I need you working with me and me working with you on how we raise our sons and teach them"
+   KEYWORDS: need, working, daughter, board, acting
+----------------------------------------
+
+🔹 TOPIC 66 [10:42 - 10:56]:  That's okay to not be dominating
+   SUMMARY:  That's okay to not be dominating. to be men. That is okay to have feelings and emotions. That's not okay to promote equality. It's OK to have women who are just friends and that's it. That’s okay to be whole. That means that women are not dominating. It means that they are not just friends or just friends .
+   KEYWORDS: okay, feelings, equality, emotions, dominating
+----------------------------------------
+
+🔹 TOPIC 67 [10:56 - 11:10]:  I remember asking a nine-year-old boy, what would life be l...
+   SUMMARY:  I remember asking a nine-year-old boy, what would life be like for you if you didn't have to adhere to gender norms . That my liberation as a man is tied to your liberation, she says .
+   KEYWORDS: year, old, liberation, boy, asking
+----------------------------------------
+
+🔹 TOPIC 68 [11:10 - 11:14]:  to this man box? He said to me, I would be free
+   SUMMARY:  to this man box? He said to me, I would be free. He said I would have been free. To be free, he said . He said, 'I would be a free man. I would never be free'
+   KEYWORDS: said, man, free, box
+----------------------------------------
+
+🔹 TOPIC 69 [11:14 - 11:37]:  That was Tony Porter recorded at Ted Women in Washington, D...
+   SUMMARY:  That was Tony Porter recorded at Ted Women in Washington, DC, December, 2010 . For more information on Ted, visit Ted.com. Thank you folks. For more of the latest from CNN.com: http://www.cnn.com/TEDW.com .
+   KEYWORDS: ted, folks, dc, com, 2010
+----------------------------------------

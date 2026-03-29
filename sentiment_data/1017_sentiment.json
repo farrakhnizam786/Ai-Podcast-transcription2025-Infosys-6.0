@@ -1,0 +1,2284 @@
+[
+    {
+        "start": 0.0,
+        "end": 12.8,
+        "text": "10 Talks to Recorded Live at the Ted Conference and Partner Events.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 12.8,
+        "end": 17.16,
+        "text": "This episode features conflict negotiator and author William Uri.",
+        "score": -0.3182,
+        "label": "Negative"
+    },
+    {
+        "start": 17.16,
+        "end": 18.96,
+        "text": "This talk contains powerful visuals.",
+        "score": 0.4215,
+        "label": "Positive"
+    },
+    {
+        "start": 18.96,
+        "end": 21.32,
+        "text": "Download the video at Ted.com.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 21.32,
+        "end": 23.32,
+        "text": "Here's William Uri.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 23.32,
+        "end": 30.76,
+        "text": "Well, the subject of difficult negotiation reminds me of one of my favorite stories from",
+        "score": 0.3818,
+        "label": "Positive"
+    },
+    {
+        "start": 30.76,
+        "end": 35.96,
+        "text": "the Middle East of a man who left to his three sons, 17 camels.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 35.96,
+        "end": 37.72,
+        "text": "And to the first sunny left, half the camels.",
+        "score": 0.4215,
+        "label": "Positive"
+    },
+    {
+        "start": 37.72,
+        "end": 40.480000000000004,
+        "text": "To the second sunny left, a third of the camels.",
+        "score": 0.4215,
+        "label": "Positive"
+    },
+    {
+        "start": 40.480000000000004,
+        "end": 42.519999999999996,
+        "text": "And to the youngest sunny left, a ninth of the camels.",
+        "score": 0.4215,
+        "label": "Positive"
+    },
+    {
+        "start": 42.519999999999996,
+        "end": 44.56,
+        "text": "Well, three sons got into a negotiation.",
+        "score": 0.2732,
+        "label": "Positive"
+    },
+    {
+        "start": 44.56,
+        "end": 46.96,
+        "text": "17 doesn't divide by two.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 46.96,
+        "end": 48.519999999999996,
+        "text": "It doesn't divide by three.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 48.519999999999996,
+        "end": 50.24,
+        "text": "It doesn't divide by nine.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 50.24,
+        "end": 55.88,
+        "text": "The ratherly temper started to get strained, finally in desperation they went and they consulted",
+        "score": -0.8176,
+        "label": "Negative"
+    },
+    {
+        "start": 55.88,
+        "end": 57.56,
+        "text": "a wise old woman.",
+        "score": 0.4767,
+        "label": "Positive"
+    },
+    {
+        "start": 57.56,
+        "end": 60.940000000000005,
+        "text": "The wise old woman thought about their problem for a long time and finally she came back and",
+        "score": 0.1027,
+        "label": "Positive"
+    },
+    {
+        "start": 60.940000000000005,
+        "end": 64.88,
+        "text": "said, well, I don't know if I can help you, but at least if you want, you can have my",
+        "score": 0.431,
+        "label": "Positive"
+    },
+    {
+        "start": 64.88,
+        "end": 65.88,
+        "text": "camel.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 65.88,
+        "end": 67.92,
+        "text": "So then they had 18 camels.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 67.92,
+        "end": 70.68,
+        "text": "The first son took his half, half of 18 is nine.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 70.68,
+        "end": 73.56,
+        "text": "The second son took his third, a third of 18 is six.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 73.56,
+        "end": 75.16,
+        "text": "The youngest son took his ninth.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 75.16,
+        "end": 77.48,
+        "text": "A ninth of 18 is two.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 77.48,
+        "end": 79.76,
+        "text": "They get 17.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 79.76,
+        "end": 81.56,
+        "text": "They had one camel left over.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 81.56,
+        "end": 85.16,
+        "text": "They gave it back to the wise old woman.",
+        "score": 0.4767,
+        "label": "Positive"
+    },
+    {
+        "start": 85.16,
+        "end": 90.24000000000001,
+        "text": "Now if you think about that story for a moment, I think it resembles a lot of the difficult",
+        "score": -0.3612,
+        "label": "Negative"
+    },
+    {
+        "start": 90.24000000000001,
+        "end": 91.92,
+        "text": "negotiations we get involved in.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 91.92,
+        "end": 95.12,
+        "text": "They start off like 17 camels, no way to resolve it.",
+        "score": 0.4404,
+        "label": "Positive"
+    },
+    {
+        "start": 95.12,
+        "end": 100.0,
+        "text": "Somehow what we need to do is step back from those situations, like that wise old woman,",
+        "score": 0.6808,
+        "label": "Positive"
+    },
+    {
+        "start": 100.0,
+        "end": 105.0,
+        "text": "look at the situation through fresh eyes and come up with an 18th camel.",
+        "score": 0.3182,
+        "label": "Positive"
+    },
+    {
+        "start": 105.0,
+        "end": 109.84,
+        "text": "Now finding that 18th camel in the world's conflict has been my life passion.",
+        "score": 0.1779,
+        "label": "Positive"
+    },
+    {
+        "start": 109.84,
+        "end": 113.04,
+        "text": "I basically see humanity a bit like those three brothers.",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 113.04,
+        "end": 115.24,
+        "text": "We're all one family.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 115.24,
+        "end": 120.08,
+        "text": "We know that scientifically, thanks to the communications revolution, all the tribes",
+        "score": 0.4404,
+        "label": "Positive"
+    },
+    {
+        "start": 120.08,
+        "end": 125.76,
+        "text": "on the planet, all 15,000 tribes are in touch with each other.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 125.76,
+        "end": 127.84,
+        "text": "And it's a big family reunion.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 127.84,
+        "end": 131.8,
+        "text": "And yet like many family reunions, it's not all peace and light.",
+        "score": -0.09,
+        "label": "Negative"
+    },
+    {
+        "start": 131.8,
+        "end": 133.76,
+        "text": "There's a lot of conflict.",
+        "score": -0.3182,
+        "label": "Negative"
+    },
+    {
+        "start": 133.76,
+        "end": 137.12,
+        "text": "And the question is, how do we deal with our differences?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 137.12,
+        "end": 142.07999999999998,
+        "text": "How do we deal with our deepest differences, given the human propensity for conflict, and",
+        "score": -0.3182,
+        "label": "Negative"
+    },
+    {
+        "start": 142.07999999999998,
+        "end": 146.64,
+        "text": "the human genius at devising weapons of enormous destruction?",
+        "score": -0.765,
+        "label": "Negative"
+    },
+    {
+        "start": 146.64,
+        "end": 148.32,
+        "text": "That's the question.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 148.32,
+        "end": 155.32,
+        "text": "As I've spent the last better part of three decades, almost four, traveling the world,",
+        "score": 0.4404,
+        "label": "Positive"
+    },
+    {
+        "start": 155.32,
+        "end": 161.76,
+        "text": "trying to work, getting involved in conflicts, ranging from Yugoslavia to the Middle East,",
+        "score": -0.3818,
+        "label": "Negative"
+    },
+    {
+        "start": 161.76,
+        "end": 166.64,
+        "text": "to Chechnya, to Venezuela, some of the most difficult conflicts on the face of the planet,",
+        "score": -0.688,
+        "label": "Negative"
+    },
+    {
+        "start": 166.64,
+        "end": 168.95999999999998,
+        "text": "I've been asking myself that question.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 168.95999999999998,
+        "end": 172.32,
+        "text": "And I think I've found in some ways what is the secret to peace?",
+        "score": 0.5423,
+        "label": "Positive"
+    },
+    {
+        "start": 172.32,
+        "end": 175.16,
+        "text": "It's actually surprisingly simple.",
+        "score": 0.296,
+        "label": "Positive"
+    },
+    {
+        "start": 175.16,
+        "end": 178.39999999999998,
+        "text": "It's not easy, but it's simple.",
+        "score": -0.1786,
+        "label": "Negative"
+    },
+    {
+        "start": 178.39999999999998,
+        "end": 179.39999999999998,
+        "text": "It's not even new.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 179.39999999999998,
+        "end": 183.0,
+        "text": "It's maybe one of our most ancient human heritages.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 183.0,
+        "end": 185.88,
+        "text": "The secret to peace is us.",
+        "score": 0.5423,
+        "label": "Positive"
+    },
+    {
+        "start": 185.88,
+        "end": 191.72,
+        "text": "It's us who act as a surrounding community around any conflict, who can play a construction",
+        "score": 0.0258,
+        "label": "Neutral"
+    },
+    {
+        "start": 191.72,
+        "end": 193.16,
+        "text": "of a destructive role.",
+        "score": -0.6124,
+        "label": "Negative"
+    },
+    {
+        "start": 193.16,
+        "end": 197.16,
+        "text": "Let me give you just a story, an example.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 197.16,
+        "end": 201.6,
+        "text": "About 20 years ago, I was in South Africa working with the parties in that conflict, and",
+        "score": 0.1027,
+        "label": "Positive"
+    },
+    {
+        "start": 201.6,
+        "end": 207.36,
+        "text": "I had an extra month, so I spent some time living with several groups of sun, bushmen.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 207.36,
+        "end": 211.6,
+        "text": "I was curious about them, about the way in which they resolve conflict.",
+        "score": 0.3818,
+        "label": "Positive"
+    },
+    {
+        "start": 211.6,
+        "end": 215.72,
+        "text": "Because after all, they're, within living memory, they were hunters and gatherers, living",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 215.72,
+        "end": 220.4,
+        "text": "pretty much like our ancestors, lived for maybe 99% of the human story.",
+        "score": 0.6908,
+        "label": "Positive"
+    },
+    {
+        "start": 220.4,
+        "end": 224.08,
+        "text": "And all the men have these poise and arrows that they use for hunting.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 224.08,
+        "end": 225.28,
+        "text": "Absolutely fatal.",
+        "score": -0.5849,
+        "label": "Negative"
+    },
+    {
+        "start": 225.28,
+        "end": 227.08,
+        "text": "So how do they deal with their differences?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 227.08,
+        "end": 233.76,
+        "text": "Well, what I learned is, whenever tempers rise in those communities, someone goes and hides",
+        "score": -0.2263,
+        "label": "Negative"
+    },
+    {
+        "start": 233.76,
+        "end": 235.8,
+        "text": "the poise and arrows out in the bush.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 235.8,
+        "end": 241.64000000000001,
+        "text": "And then everyone sits around in a circle like this, and they sit and they talk.",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 241.64000000000001,
+        "end": 242.64000000000001,
+        "text": "And they talk.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 242.64000000000001,
+        "end": 248.04000000000002,
+        "text": "It may take two days, three days, four days, but they don't rest until they find a resolution,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 248.04000000000002,
+        "end": 250.16,
+        "text": "or better yet a reconciliation.",
+        "score": 0.4404,
+        "label": "Positive"
+    },
+    {
+        "start": 250.16,
+        "end": 254.79999999999998,
+        "text": "And if tempers are still too high, then they send someone off to visit some relatives.",
+        "score": -0.3182,
+        "label": "Negative"
+    },
+    {
+        "start": 254.79999999999998,
+        "end": 256.28,
+        "text": "There's a cooling off period.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 256.28,
+        "end": 261.24,
+        "text": "Well, that system is, I think, probably a system that kept us alive to this point, given",
+        "score": 0.5719,
+        "label": "Positive"
+    },
+    {
+        "start": 261.24,
+        "end": 264.15999999999997,
+        "text": "our human tendencies.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 264.15999999999997,
+        "end": 267.32,
+        "text": "That system, I call the third side.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 267.32,
+        "end": 271.12,
+        "text": "Because if you think about it, normally, when we think of conflict, when we describe it,",
+        "score": -0.3182,
+        "label": "Negative"
+    },
+    {
+        "start": 271.12,
+        "end": 272.32,
+        "text": "there's always two sides.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 272.32,
+        "end": 276.76,
+        "text": "You know, it's Arabs, or it's Israelis, labor, or it's management, husband, or wife,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 276.76,
+        "end": 278.8,
+        "text": "or publicans, or as Democrats.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 278.8,
+        "end": 283.0,
+        "text": "But what we don't often see is that there's always a third side.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 283.0,
+        "end": 285.24,
+        "text": "And the third side of the conflict is us.",
+        "score": -0.3182,
+        "label": "Negative"
+    },
+    {
+        "start": 285.24,
+        "end": 286.64,
+        "text": "It's the surrounding community.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 286.64,
+        "end": 289.92,
+        "text": "It's the friends, the allies, the family members, the neighbors.",
+        "score": 0.4767,
+        "label": "Positive"
+    },
+    {
+        "start": 289.92,
+        "end": 293.56,
+        "text": "And we complain incredibly constructive role.",
+        "score": -0.3612,
+        "label": "Negative"
+    },
+    {
+        "start": 293.56,
+        "end": 299.56,
+        "text": "Perhaps the most fundamental way in which the third side can help is to remind the parties",
+        "score": 0.6597,
+        "label": "Positive"
+    },
+    {
+        "start": 299.56,
+        "end": 301.48,
+        "text": "of what's really at stake.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 301.48,
+        "end": 305.2,
+        "text": "You know, for the sake of the kids, for the sake of the family, for the sake of the community,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 305.2,
+        "end": 310.15999999999997,
+        "text": "for the sake of the future, let's stop fighting for a moment and start talking.",
+        "score": -0.5719,
+        "label": "Negative"
+    },
+    {
+        "start": 310.15999999999997,
+        "end": 315.71999999999997,
+        "text": "Because the thing is, when we're involved in conflict, it's very easy to lose perspective.",
+        "score": -0.2665,
+        "label": "Negative"
+    },
+    {
+        "start": 315.71999999999997,
+        "end": 317.84,
+        "text": "It's very easy to react.",
+        "score": 0.4927,
+        "label": "Positive"
+    },
+    {
+        "start": 317.84,
+        "end": 320.64,
+        "text": "Human beings were reaction machines.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 320.64,
+        "end": 327.68,
+        "text": "And as the saying goes, when angry, you will make the best speech you will ever regret.",
+        "score": -0.2263,
+        "label": "Negative"
+    },
+    {
+        "start": 327.68,
+        "end": 330.52,
+        "text": "And so the third side reminds us of that.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 330.52,
+        "end": 335.32,
+        "text": "The third side helps us go to the balcony, which is a metaphor for a place of perspective",
+        "score": 0.3818,
+        "label": "Positive"
+    },
+    {
+        "start": 335.32,
+        "end": 337.91999999999996,
+        "text": "where we can keep our eyes on the prize.",
+        "score": 0.5106,
+        "label": "Positive"
+    },
+    {
+        "start": 337.91999999999996,
+        "end": 341.59999999999997,
+        "text": "Let me tell you a little story from my own negotiating experience.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 341.59999999999997,
+        "end": 347.32,
+        "text": "Some years ago, I was involved as a facilitator in some very tough talks between the leaders",
+        "score": -0.2006,
+        "label": "Negative"
+    },
+    {
+        "start": 347.32,
+        "end": 350.56,
+        "text": "of Russia and the leaders of Chechnya.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 350.56,
+        "end": 353.24,
+        "text": "There was a war going on, as you know.",
+        "score": -0.5994,
+        "label": "Negative"
+    },
+    {
+        "start": 353.24,
+        "end": 359.2,
+        "text": "And we met in the Hague, in the Peace Palace, in the same room where the Yugoslav war crimes",
+        "score": -0.1027,
+        "label": "Negative"
+    },
+    {
+        "start": 359.2,
+        "end": 361.2,
+        "text": "tribunal was taking place.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 361.2,
+        "end": 365.96,
+        "text": "And the talks got off to a rather rocky start when the vice president of Chechnya began",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 365.96,
+        "end": 369.96,
+        "text": "by pointing at the Russians and said, you should stay right here in your seats because",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 369.96,
+        "end": 372.84,
+        "text": "you're going to be on trial for war crimes.",
+        "score": -0.5994,
+        "label": "Negative"
+    },
+    {
+        "start": 372.84,
+        "end": 376.0,
+        "text": "And then he went on and he turned to me and said, you're an American.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 376.0,
+        "end": 379.36,
+        "text": "Look at what you Americans are doing in Puerto Rico.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 379.36,
+        "end": 380.88,
+        "text": "And my mind started racing.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 380.88,
+        "end": 382.68,
+        "text": "Well, Puerto Rico, what do I know about Puerto Rico?",
+        "score": 0.2732,
+        "label": "Positive"
+    },
+    {
+        "start": 382.68,
+        "end": 384.68,
+        "text": "I started reacting.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 384.68,
+        "end": 387.76,
+        "text": "But then I tried to remember to go to the balcony.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 387.76,
+        "end": 392.52,
+        "text": "And then when he paused and everyone looked at me for a response, from a balcony perspective,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 392.52,
+        "end": 397.4,
+        "text": "I was able to thank him for his remarks and say, I appreciate your criticism of my country",
+        "score": 0.3182,
+        "label": "Positive"
+    },
+    {
+        "start": 397.4,
+        "end": 402.88,
+        "text": "and I take it as a sign that we're among friends and can speak candidly to one another.",
+        "score": 0.4767,
+        "label": "Positive"
+    },
+    {
+        "start": 402.88,
+        "end": 405.71999999999997,
+        "text": "And what we're here to do is not to talk about Puerto Rico or the past.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 405.71999999999997,
+        "end": 409.98,
+        "text": "We're here to do just to see if we can figure out a way to stop the suffering in the blood",
+        "score": -0.6486,
+        "label": "Negative"
+    },
+    {
+        "start": 409.98,
+        "end": 411.88,
+        "text": "shed in Chechnya.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 411.88,
+        "end": 414.52,
+        "text": "The conversation got back on track.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 414.52,
+        "end": 419.0,
+        "text": "That's the role of the third side is to help the parties go to the balcony.",
+        "score": 0.6597,
+        "label": "Positive"
+    },
+    {
+        "start": 419.0,
+        "end": 421.47999999999996,
+        "text": "Now let me take you for a moment.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 421.47999999999996,
+        "end": 424.91999999999996,
+        "text": "What's wide the regard as the world's most difficult conflict, and the most impossible",
+        "score": -0.6566,
+        "label": "Negative"
+    },
+    {
+        "start": 424.91999999999996,
+        "end": 427.12,
+        "text": "conflict is the Middle East.",
+        "score": -0.3182,
+        "label": "Negative"
+    },
+    {
+        "start": 427.12,
+        "end": 430.15999999999997,
+        "text": "Question is, where's the third side there?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 430.15999999999997,
+        "end": 432.64,
+        "text": "How could we possibly go to the balcony?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 432.64,
+        "end": 437.12,
+        "text": "Now I don't pretend to have an answer to the Middle East conflict, but I think I've",
+        "score": -0.1285,
+        "label": "Negative"
+    },
+    {
+        "start": 437.12,
+        "end": 442.96,
+        "text": "got a first step, literally a first step, something that any one of us could do as third",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 442.96,
+        "end": 443.96,
+        "text": "step.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 443.96,
+        "end": 445.91999999999996,
+        "text": "Let me just ask you one question first.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 445.91999999999996,
+        "end": 452.76,
+        "text": "How many of you in the last years have ever found yourself worrying about the Middle East",
+        "score": -0.34,
+        "label": "Negative"
+    },
+    {
+        "start": 452.76,
+        "end": 454.76,
+        "text": "and wondering what anyone could do?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 454.76,
+        "end": 456.79999999999995,
+        "text": "Just out of curiosity, how many of you?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 456.79999999999995,
+        "end": 459.88,
+        "text": "Okay, so the great majority of us.",
+        "score": 0.7414,
+        "label": "Positive"
+    },
+    {
+        "start": 459.88,
+        "end": 461.52,
+        "text": "And here it's so far away.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 461.52,
+        "end": 464.4,
+        "text": "Why do we pay so much attention to this conflict?",
+        "score": -0.4633,
+        "label": "Negative"
+    },
+    {
+        "start": 464.4,
+        "end": 466.0,
+        "text": "Is it the number of deaths?",
+        "score": 0.0772,
+        "label": "Positive"
+    },
+    {
+        "start": 466.0,
+        "end": 469.96,
+        "text": "There are a hundred times more people who die in a conflict in Africa than in the Middle",
+        "score": -0.7553,
+        "label": "Negative"
+    },
+    {
+        "start": 469.96,
+        "end": 470.96,
+        "text": "East.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 470.96,
+        "end": 476.71999999999997,
+        "text": "It's because of the story, because we feel personally involved in that story.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 476.71999999999997,
+        "end": 480.88,
+        "text": "Whether we're Christians, Muslims, or Jews, religious or non-religious, we feel we have",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 480.88,
+        "end": 482.59999999999997,
+        "text": "a personal stake in it.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 482.59999999999997,
+        "end": 483.59999999999997,
+        "text": "Stories matter.",
+        "score": 0.0258,
+        "label": "Neutral"
+    },
+    {
+        "start": 483.59999999999997,
+        "end": 485.52,
+        "text": "As an anthropologist, I know that.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 485.52,
+        "end": 490.28,
+        "text": "Stories are what we use to transmit knowledge, to give meaning to our lives.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 490.28,
+        "end": 491.56,
+        "text": "That's what we tell here at TED.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 491.56,
+        "end": 493.47999999999996,
+        "text": "We tell stories.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 493.47999999999996,
+        "end": 494.47999999999996,
+        "text": "Stories are the key.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 494.47999999999996,
+        "end": 500.88,
+        "text": "And so my question is, yes, let's try and resolve the politics there in the Middle",
+        "score": 0.6486,
+        "label": "Positive"
+    },
+    {
+        "start": 500.88,
+        "end": 501.88,
+        "text": "East.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 501.88,
+        "end": 504.32,
+        "text": "But let's also take a look at the story.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 504.32,
+        "end": 506.76,
+        "text": "Let's try to get it the root of what it's all about.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 506.76,
+        "end": 508.71999999999997,
+        "text": "Let's see if we can apply the third side to it.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 508.71999999999997,
+        "end": 509.96,
+        "text": "What would that mean?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 509.96,
+        "end": 511.92,
+        "text": "What is the story there?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 511.92,
+        "end": 516.68,
+        "text": "Now as anthropologists, we know that every culture has an origin story.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 516.68,
+        "end": 518.76,
+        "text": "What's the origin story of the Middle East?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 518.76,
+        "end": 525.64,
+        "text": "In a phrase, it's 4,000 years ago, a man and his family walked across the Middle East",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 525.64,
+        "end": 529.04,
+        "text": "and the world has never been the same since.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 529.04,
+        "end": 532.52,
+        "text": "That man, of course, was Abraham.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 532.52,
+        "end": 536.1999999999999,
+        "text": "And what he stood for was unity, the unity of the family.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 536.1999999999999,
+        "end": 538.0799999999999,
+        "text": "He's the father of his soul.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 538.0799999999999,
+        "end": 540.5999999999999,
+        "text": "But it's not just what he stood for, it's what his message was.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 540.5999999999999,
+        "end": 546.4,
+        "text": "His basic message was unity too, the interconnectedness of it all, the unity of it all.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 546.4,
+        "end": 551.5999999999999,
+        "text": "And his basic value was respect, was kindness towards strangers.",
+        "score": 0.8176,
+        "label": "Positive"
+    },
+    {
+        "start": 551.5999999999999,
+        "end": 555.24,
+        "text": "That's what he's known for, his hospitality.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 555.24,
+        "end": 560.8,
+        "text": "So in that sense, he's the symbolic third side of the Middle East.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 560.8,
+        "end": 565.52,
+        "text": "He's the one who reminds us that we're all part of a greater whole.",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 565.52,
+        "end": 569.5600000000001,
+        "text": "Now how would you now think about that for a moment?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 569.5600000000001,
+        "end": 572.52,
+        "text": "We today we face the scourge of terrorism.",
+        "score": -0.6808,
+        "label": "Negative"
+    },
+    {
+        "start": 572.52,
+        "end": 574.72,
+        "text": "What is terrorism?",
+        "score": -0.6808,
+        "label": "Negative"
+    },
+    {
+        "start": 574.72,
+        "end": 580.48,
+        "text": "Terrorism is basically taking an innocent stranger and treating them as an enemy whom you kill",
+        "score": -0.9081,
+        "label": "Negative"
+    },
+    {
+        "start": 580.48,
+        "end": 582.8,
+        "text": "in order to create fear.",
+        "score": -0.2732,
+        "label": "Negative"
+    },
+    {
+        "start": 582.8,
+        "end": 585.12,
+        "text": "What's the opposite of terrorism?",
+        "score": -0.6808,
+        "label": "Negative"
+    },
+    {
+        "start": 585.12,
+        "end": 589.96,
+        "text": "It's taking an innocent stranger and treating them as a friend whom you welcome into your",
+        "score": 0.8225,
+        "label": "Positive"
+    },
+    {
+        "start": 589.96,
+        "end": 596.8,
+        "text": "home in order to sow and create understanding or respect or love.",
+        "score": 0.8555,
+        "label": "Positive"
+    },
+    {
+        "start": 596.8,
+        "end": 602.92,
+        "text": "So what if then you took the story of Abraham, which is a third side story?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 602.92,
+        "end": 608.6,
+        "text": "What if that could be actually an, because Abraham stands for hospitality?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 608.6,
+        "end": 611.72,
+        "text": "What if that could be an antidote to terrorism?",
+        "score": -0.6808,
+        "label": "Negative"
+    },
+    {
+        "start": 611.72,
+        "end": 615.5600000000001,
+        "text": "What if that could be a vaccine against religious intolerance?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 615.5600000000001,
+        "end": 618.08,
+        "text": "How would you bring that story to life?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 618.08,
+        "end": 621.0,
+        "text": "Now it's not enough just to tell a story.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 621.0,
+        "end": 622.32,
+        "text": "That's powerful.",
+        "score": 0.4215,
+        "label": "Positive"
+    },
+    {
+        "start": 622.32,
+        "end": 624.24,
+        "text": "But people need to experience the story.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 624.24,
+        "end": 626.32,
+        "text": "They need to be able to live the story.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 626.32,
+        "end": 627.64,
+        "text": "How would you do that?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 627.64,
+        "end": 629.84,
+        "text": "And that was my thinking of, how would you do that?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 629.84,
+        "end": 632.24,
+        "text": "And that's what comes to the first step here.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 632.24,
+        "end": 636.84,
+        "text": "Because the simple way to do that is you go for a walk.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 636.84,
+        "end": 640.24,
+        "text": "You go for a walk in the footsteps of Abraham.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 640.24,
+        "end": 643.16,
+        "text": "You retrace the footsteps of Abraham.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 643.16,
+        "end": 646.6800000000001,
+        "text": "Because walking has a real power.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 646.6800000000001,
+        "end": 649.52,
+        "text": "As an anthropologist, walking is what made us human.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 649.52,
+        "end": 650.5600000000001,
+        "text": "Walking, it's funny.",
+        "score": 0.4404,
+        "label": "Positive"
+    },
+    {
+        "start": 650.5600000000001,
+        "end": 656.4,
+        "text": "When you walk, you walk side by side in the same common direction.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 656.4,
+        "end": 664.76,
+        "text": "Now if I were to come to you face to face and come this close to you, you would feel threatened.",
+        "score": -0.4588,
+        "label": "Negative"
+    },
+    {
+        "start": 664.76,
+        "end": 670.48,
+        "text": "But if I walk shoulder to shoulder, even touching shoulders, it's no problem.",
+        "score": -0.7469,
+        "label": "Negative"
+    },
+    {
+        "start": 670.48,
+        "end": 672.04,
+        "text": "Who fights why they walk?",
+        "score": -0.4019,
+        "label": "Negative"
+    },
+    {
+        "start": 672.04,
+        "end": 677.48,
+        "text": "That's why negotiations often when things get tough, people go for walks in the woods.",
+        "score": -0.128,
+        "label": "Negative"
+    },
+    {
+        "start": 677.48,
+        "end": 682.88,
+        "text": "So the idea came to me of what about inspiring a path?",
+        "score": 0.4215,
+        "label": "Positive"
+    },
+    {
+        "start": 682.88,
+        "end": 683.68,
+        "text": "A route?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 683.68,
+        "end": 684.8,
+        "text": "Think the silk route?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 684.8,
+        "end": 690.76,
+        "text": "Think the Appalachian Trail that followed in the footsteps of Abraham.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 690.76,
+        "end": 691.88,
+        "text": "People said, that's crazy.",
+        "score": -0.34,
+        "label": "Negative"
+    },
+    {
+        "start": 691.88,
+        "end": 694.68,
+        "text": "You can't retrace the footsteps of Abraham.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 694.68,
+        "end": 696.92,
+        "text": "You can't cross all these borders.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 696.92,
+        "end": 702.1999999999999,
+        "text": "It goes across 10 different countries in the Middle East because it unites them all.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 702.1999999999999,
+        "end": 703.8,
+        "text": "And so we studied the idea at Harvard.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 703.8,
+        "end": 705.3599999999999,
+        "text": "We did our due diligence.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 705.3599999999999,
+        "end": 709.4799999999999,
+        "text": "And then a few years ago, a group of us, about 25 of us, from 10 different countries, decided",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 709.4799999999999,
+        "end": 711.92,
+        "text": "to see if we could retrace the footsteps of Abraham.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 711.92,
+        "end": 717.8399999999999,
+        "text": "Going from his visual birthplace in the city of Urfa in southern Turkey, northern Mesopotamia.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 717.8399999999999,
+        "end": 723.3199999999999,
+        "text": "And we then took a bus and took some walks and went to Haran where in the Bible he sets",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 723.32,
+        "end": 724.8000000000001,
+        "text": "off on his journey.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 724.8000000000001,
+        "end": 729.8000000000001,
+        "text": "Then we crossed the border into Syria, went to Aleppo, which turns out his name after Abraham.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 729.8000000000001,
+        "end": 733.84,
+        "text": "We went to Damascus, which has a long history associated with Abraham.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 733.84,
+        "end": 741.72,
+        "text": "We then came to Northern Jordan, to Jerusalem, which is all about Abraham, to Bethlehem,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 741.72,
+        "end": 745.12,
+        "text": "and finally to the place where he's buried in Hebron.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 745.12,
+        "end": 747.44,
+        "text": "So effectively, we went from womb to tomb.",
+        "score": 0.4927,
+        "label": "Positive"
+    },
+    {
+        "start": 747.44,
+        "end": 748.44,
+        "text": "We showed it could be done.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 748.44,
+        "end": 750.48,
+        "text": "It was an amazing journey.",
+        "score": 0.5859,
+        "label": "Positive"
+    },
+    {
+        "start": 750.48,
+        "end": 752.0400000000001,
+        "text": "Let me ask you a question.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 752.04,
+        "end": 756.8,
+        "text": "How many of you have had the experience of being in a strange neighborhood or strange",
+        "score": -0.3818,
+        "label": "Negative"
+    },
+    {
+        "start": 756.8,
+        "end": 764.64,
+        "text": "land and a total stranger, perfect stranger, comes up to you and shows you some kindness,",
+        "score": 0.7717,
+        "label": "Positive"
+    },
+    {
+        "start": 764.64,
+        "end": 767.9599999999999,
+        "text": "maybe invite you into their home, gives you a drink, gives you a coffee, gives you a meal?",
+        "score": 0.1531,
+        "label": "Positive"
+    },
+    {
+        "start": 767.9599999999999,
+        "end": 771.0799999999999,
+        "text": "Let me give you a very bad experience.",
+        "score": -0.5849,
+        "label": "Negative"
+    },
+    {
+        "start": 771.0799999999999,
+        "end": 774.12,
+        "text": "That's the essence of the Abraham path.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 774.12,
+        "end": 777.04,
+        "text": "That's what you discover as you go into these villages, in the Middle East, where you",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 777.04,
+        "end": 781.56,
+        "text": "expect hostility, and you get the most amazing hospitality.",
+        "score": 0.1513,
+        "label": "Positive"
+    },
+    {
+        "start": 781.56,
+        "end": 785.4399999999999,
+        "text": "People associated with Abraham, and the name of Father Ibrahim, let me go off for you",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 785.4399999999999,
+        "end": 786.4399999999999,
+        "text": "some food.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 786.4399999999999,
+        "end": 791.16,
+        "text": "So, what we discovered is that Abraham is not just a figure out of a book for those people.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 791.16,
+        "end": 792.16,
+        "text": "He's alive.",
+        "score": 0.3818,
+        "label": "Positive"
+    },
+    {
+        "start": 792.16,
+        "end": 794.3199999999999,
+        "text": "He's a living presence.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 794.3199999999999,
+        "end": 800.04,
+        "text": "And to make a long story short, in the last couple of years now, thousands of people have",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 800.04,
+        "end": 806.4399999999999,
+        "text": "begun to walk parts of the path of Abraham in the Middle East, enjoying the hospitality",
+        "score": 0.5267,
+        "label": "Positive"
+    },
+    {
+        "start": 806.4399999999999,
+        "end": 807.88,
+        "text": "of the people there.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 807.88,
+        "end": 813.96,
+        "text": "They'd begun to walk in Israel, in Palestine, in Jordan, in Turkey, in Syria.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 813.96,
+        "end": 815.56,
+        "text": "That's an amazing experience.",
+        "score": 0.5859,
+        "label": "Positive"
+    },
+    {
+        "start": 815.56,
+        "end": 820.32,
+        "text": "Men, women, young people, old people, more women than men, actually, interestingly.",
+        "score": 0.4019,
+        "label": "Positive"
+    },
+    {
+        "start": 820.32,
+        "end": 826.0,
+        "text": "For those who can't walk, who are unable to get there right now, people started to organize",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 826.0,
+        "end": 828.24,
+        "text": "walks in cities in their own communities.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 828.24,
+        "end": 832.52,
+        "text": "In Cincinnati, for instance, they organized a walk from a church to a mosque to a synagogue",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 832.52,
+        "end": 834.52,
+        "text": "and then all had an Abrahamic meal together.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 834.52,
+        "end": 836.24,
+        "text": "It was Abraham path day.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 836.24,
+        "end": 840.22,
+        "text": "In S\u00e3o Paulo, Brazil, it's become an annual event for thousands of people to run in a",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 840.22,
+        "end": 844.28,
+        "text": "virtual Abraham path run, uniting the different communities.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 844.28,
+        "end": 845.6800000000001,
+        "text": "The media love it.",
+        "score": 0.6369,
+        "label": "Positive"
+    },
+    {
+        "start": 845.6800000000001,
+        "end": 847.24,
+        "text": "They really adore it.",
+        "score": 0.5984,
+        "label": "Positive"
+    },
+    {
+        "start": 847.24,
+        "end": 853.4,
+        "text": "They lavish attention on it because it's visual and it spreads the idea, this idea of Abraham",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 853.4,
+        "end": 857.24,
+        "text": "at a hospitality of kindness towards strangers.",
+        "score": 0.4588,
+        "label": "Positive"
+    },
+    {
+        "start": 857.24,
+        "end": 861.84,
+        "text": "And just a couple of weeks ago, there was an NPR story on it.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 861.84,
+        "end": 869.6,
+        "text": "Last month, there was a piece in the Guardian, in the Manchester Guardian, about two whole",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 869.6,
+        "end": 871.6,
+        "text": "pages.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 871.6,
+        "end": 877.84,
+        "text": "And they quoted a villager who said, this walk connects us to the world.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 877.84,
+        "end": 880.6,
+        "text": "He said it was like a light that went on in our lives.",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 880.6,
+        "end": 882.5600000000001,
+        "text": "It brought us hope.",
+        "score": 0.4404,
+        "label": "Positive"
+    },
+    {
+        "start": 882.5600000000001,
+        "end": 884.72,
+        "text": "And so that's what it's about.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 884.72,
+        "end": 886.36,
+        "text": "But it's not just about psychology.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 886.36,
+        "end": 888.2,
+        "text": "It's about economics.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 888.2,
+        "end": 891.36,
+        "text": "Because as people walk, they spend money.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 891.52,
+        "end": 897.64,
+        "text": "This woman right here, Umachmad, is a woman who lives on the path in northern Jordan.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 897.64,
+        "end": 899.28,
+        "text": "She's desperately poor.",
+        "score": -0.6908,
+        "label": "Negative"
+    },
+    {
+        "start": 899.28,
+        "end": 900.52,
+        "text": "She's partially blind.",
+        "score": -0.4019,
+        "label": "Negative"
+    },
+    {
+        "start": 900.52,
+        "end": 902.8000000000001,
+        "text": "Her husband can't work.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 902.8000000000001,
+        "end": 905.28,
+        "text": "She's got seven kids.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 905.28,
+        "end": 907.88,
+        "text": "But one she can do is cook.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 907.88,
+        "end": 912.5600000000001,
+        "text": "And so she's begun to cook for some groups of walkers who come through the village and",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 912.5600000000001,
+        "end": 913.88,
+        "text": "have a meal in her home.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 913.88,
+        "end": 914.84,
+        "text": "They sit on the floor.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 914.84,
+        "end": 917.4,
+        "text": "She doesn't even have a tablecloth.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 917.4,
+        "end": 922.28,
+        "text": "She makes the most delicious food that's fresh from the herbs in the surrounding countryside.",
+        "score": 0.7425,
+        "label": "Positive"
+    },
+    {
+        "start": 922.28,
+        "end": 924.4399999999999,
+        "text": "And so more and more walkers have come.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 924.4399999999999,
+        "end": 928.3199999999999,
+        "text": "And lately, she's begun to earn an income to support her family.",
+        "score": 0.4019,
+        "label": "Positive"
+    },
+    {
+        "start": 928.3199999999999,
+        "end": 935.12,
+        "text": "And so she told our team there, she said, you have made me visible in a village where",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 935.12,
+        "end": 939.0799999999999,
+        "text": "people were once ashamed to look at me.",
+        "score": -0.4767,
+        "label": "Negative"
+    },
+    {
+        "start": 939.0799999999999,
+        "end": 940.92,
+        "text": "That's the potential of the Abraham path.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 940.92,
+        "end": 945.12,
+        "text": "There are literally hundreds of those kind of communities across the Middle East, across",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 945.12,
+        "end": 947.28,
+        "text": "the path.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 947.28,
+        "end": 950.52,
+        "text": "The potential is basically to change the game.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 950.52,
+        "end": 952.6,
+        "text": "And to change the game, you have to change the frame.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 952.6,
+        "end": 961.12,
+        "text": "The way we see things, to change the frame from hostility to hospitality, from terrorism",
+        "score": -0.8442,
+        "label": "Negative"
+    },
+    {
+        "start": 961.12,
+        "end": 962.12,
+        "text": "to tourism.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 962.12,
+        "end": 967.0,
+        "text": "And in that sense, the Abraham path is a game changer.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 967.0,
+        "end": 968.68,
+        "text": "Let me just show you one thing.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 968.68,
+        "end": 972.68,
+        "text": "I have a little acorn here that I picked up while I was walking on the path earlier",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 972.68,
+        "end": 974.48,
+        "text": "this year.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 974.48,
+        "end": 978.36,
+        "text": "Now the acorn is associated with the oak tree, of course, grows into an oak tree, which",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 978.36,
+        "end": 980.48,
+        "text": "is associated with Abraham.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 980.48,
+        "end": 982.48,
+        "text": "The path right now is like an acorn.",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 982.48,
+        "end": 984.5600000000001,
+        "text": "It's still in its early phase.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 984.5600000000001,
+        "end": 986.08,
+        "text": "What would the oak tree look like?",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 986.08,
+        "end": 990.16,
+        "text": "Well, I think back to my childhood, a good part of which I spent after being born here",
+        "score": 0.6124,
+        "label": "Positive"
+    },
+    {
+        "start": 990.16,
+        "end": 992.96,
+        "text": "in Chicago, I spent in Europe.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 992.96,
+        "end": 1001.32,
+        "text": "If you had been in the ruins of, say, London in 1945, or Berlin, and you had said 60 years",
+        "score": -0.4404,
+        "label": "Negative"
+    },
+    {
+        "start": 1001.32,
+        "end": 1006.0,
+        "text": "from now, this is going to be the most peaceful, prosperous part of the planet.",
+        "score": 0.7828,
+        "label": "Positive"
+    },
+    {
+        "start": 1006.0,
+        "end": 1009.24,
+        "text": "People would have thought you were certifiably insane.",
+        "score": -0.4019,
+        "label": "Negative"
+    },
+    {
+        "start": 1009.24,
+        "end": 1015.2,
+        "text": "But they did it thanks to a common identity, Europe, and a common economy.",
+        "score": 0.5927,
+        "label": "Positive"
+    },
+    {
+        "start": 1015.2,
+        "end": 1020.2800000000001,
+        "text": "So my question is, if it could be done in Europe, why not in the Middle East?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1020.2800000000001,
+        "end": 1025.88,
+        "text": "Why not thanks to a common identity, which is a story of Abraham, and thanks to a common",
+        "score": -0.5875,
+        "label": "Negative"
+    },
+    {
+        "start": 1025.88,
+        "end": 1030.3200000000002,
+        "text": "economy that would be based in good part on tourism?",
+        "score": 0.4404,
+        "label": "Positive"
+    },
+    {
+        "start": 1030.32,
+        "end": 1037.08,
+        "text": "So let me conclude then by saying that in the last 35 years, as I've worked in some",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1037.08,
+        "end": 1042.0,
+        "text": "of the most dangerous, difficult, and intractable conflicts around the planet, I have yet to",
+        "score": -0.8304,
+        "label": "Negative"
+    },
+    {
+        "start": 1042.0,
+        "end": 1047.48,
+        "text": "see one conflict that I felt could not be transformed.",
+        "score": -0.3182,
+        "label": "Negative"
+    },
+    {
+        "start": 1047.48,
+        "end": 1051.52,
+        "text": "It's not easy, of course, but it's possible.",
+        "score": -0.1786,
+        "label": "Negative"
+    },
+    {
+        "start": 1051.52,
+        "end": 1053.52,
+        "text": "It was done in South Africa.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1053.52,
+        "end": 1055.48,
+        "text": "It was done in Northern Ireland.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1055.48,
+        "end": 1057.0,
+        "text": "It could be done anywhere.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1057.0,
+        "end": 1059.6799999999998,
+        "text": "It simply depends on us.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1059.68,
+        "end": 1062.96,
+        "text": "It depends on us taking the third side.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1062.96,
+        "end": 1066.8400000000001,
+        "text": "So let me invite you to consider taking the third side.",
+        "score": 0.2177,
+        "label": "Positive"
+    },
+    {
+        "start": 1066.8400000000001,
+        "end": 1070.76,
+        "text": "Even as a very small step, we're about to take a break in a moment.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1070.76,
+        "end": 1076.5600000000002,
+        "text": "Just go up to someone who's from a different culture, a different country, a different ethnicity,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1076.5600000000002,
+        "end": 1080.76,
+        "text": "some difference, and engage them in a conversation, listen to them.",
+        "score": 0.34,
+        "label": "Positive"
+    },
+    {
+        "start": 1080.76,
+        "end": 1082.4,
+        "text": "That's a third side act.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1082.4,
+        "end": 1084.64,
+        "text": "That's walking Abraham's path.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1084.64,
+        "end": 1088.8400000000001,
+        "text": "After a TED talk, why not a TED walk?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1088.84,
+        "end": 1093.1999999999998,
+        "text": "So let me just leave you with three things.",
+        "score": -0.0516,
+        "label": "Negative"
+    },
+    {
+        "start": 1093.1999999999998,
+        "end": 1098.52,
+        "text": "One is the secret to peace is the third side.",
+        "score": 0.5423,
+        "label": "Positive"
+    },
+    {
+        "start": 1098.52,
+        "end": 1101.0,
+        "text": "The third side is us.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1101.0,
+        "end": 1108.08,
+        "text": "Each of us, with a single step, can take the world, can bring the world a step closer",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1108.08,
+        "end": 1110.52,
+        "text": "to peace.",
+        "score": 0.5423,
+        "label": "Positive"
+    },
+    {
+        "start": 1110.52,
+        "end": 1116.12,
+        "text": "There's an old African proverb that goes, when spider webs unite, they can halt even the",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1116.12,
+        "end": 1117.84,
+        "text": "lion.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1117.84,
+        "end": 1125.04,
+        "text": "If we're able to unite our third side webs of peace, we can even halt the lion of war.",
+        "score": -0.1027,
+        "label": "Negative"
+    },
+    {
+        "start": 1125.04,
+        "end": 1131.3999999999999,
+        "text": "Thank you very much.",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 1131.3999999999999,
+        "end": 1137.36,
+        "text": "That was William Urie recorded at TEDx Midwest in Chicago, Illinois, October 2010.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1137.36,
+        "end": 1139.8799999999999,
+        "text": "For more information on TED, visit TED.com.",
+        "score": 0.0,
+        "label": "Neutral"
+    }
+]
