@@ -1,0 +1,548 @@
+=== TOPIC ANALYSIS: 1092 ===
+
+Detected 109 major topics.
+
+🔹 TOPIC 1 [00:00 - 00:14]:  10 Talks Are Recorded Live at the Ted Conference 
+   SUMMARY:  10 Talks Are Recorded Live at the Ted Conference . This episode features cognitive scientist Deb Roy . Deb Roy is a cognitive scientist . 10 Talks are recorded live at the TED Conference in New York City .
+   KEYWORDS: episode, deb, conference, cognitive, 10
+----------------------------------------
+
+🔹 TOPIC 2 [00:14 - 00:18]:  This talk contains powerful visuals 
+   SUMMARY:  This talk contains powerful visuals . Download the video at Ted.com. Use this video to help you understand today's featured news stories . At the bottom of the page, please share your thoughts with us on CNN iReport .
+   KEYWORDS: talk, powerful, download, contains, com
+----------------------------------------
+
+🔹 TOPIC 3 [00:18 - 00:29]:  Deb Roy: Imagine if you could record everything you said, e...
+   SUMMARY:  Deb Roy: Imagine if you could record everything you said, everything you did . Here's Deb Roy. Imagine if she could record your life. Everything you said or did. Here is Deb Roy .
+   KEYWORDS: record, life, imagine, did, deb
+----------------------------------------
+
+🔹 TOPIC 4 [00:29 - 00:37]:  Available in a perfect memory store at your fingertips 
+   SUMMARY:  Available in a perfect memory store at your fingertips . So you could go back and find memorable moments and relive them . Available in an online store at the fingertips. Available in the world's best memory store .
+   KEYWORDS: moments, memory, memorable, fingertips, available
+----------------------------------------
+
+🔹 TOPIC 5 [00:37 - 00:45]:  Or sift through traces of time and discover patterns in you...
+   SUMMARY:  Or sift through traces of time and discover patterns in your own life that previously had gone undiscovered . Or discover patterns of time that previously went undiscovered. Or find patterns in yourself yourself that have never been discovered .
+   KEYWORDS: previously, patterns, life, gone, discover
+----------------------------------------
+
+🔹 TOPIC 6 [00:45 - 00:54]:  This is my wife and collaborator, Rupal
+   SUMMARY:  This is my wife and collaborator, Rupal. Well, that's exactly the journey that my family began five and a half years ago. This is the journey we began five years ago .
+   KEYWORDS: family, exactly, collaborator, began, ago
+----------------------------------------
+
+🔹 TOPIC 7 [00:54 - 01:08]:  We walked into the house with our first child, our beautifu...
+   SUMMARY:  We walked into the house with our first child, our beautiful baby boy . And we walked into a house with a very special home video recording system. And on this day, this moment, we walked .
+   KEYWORDS: walked, house, child, boy, baby
+----------------------------------------
+
+🔹 TOPIC 8 [01:08 - 01:14]: Topic 8
+   SUMMARY: Summary unavailable
+   KEYWORDS: thank, hey, baby
+----------------------------------------
+
+🔹 TOPIC 9 [01:14 - 01:22]:  OK
+   SUMMARY:  OK. This moment and thousands of other moments special for us . CNN.com will feature iReport.com's top 10 most recent news stories . Please submit your best photos of the day with us on CNN iReport .
+   KEYWORDS: thousands, special, ok, moments, moment
+----------------------------------------
+
+🔹 TOPIC 10 [01:22 - 01:29]:  In every room in the house, if you looked up, you'd see a c...
+   SUMMARY:  In every room in the house, if you looked up, you'd see a camera and a microphone . were captured in our home because in every room, we'd see cameras and microphones .
+   KEYWORDS: looked, house, home, captured, camera
+----------------------------------------
+
+🔹 TOPIC 11 [01:29 - 01:42]:  If you look down, you get a bird's eye view of the room 
+   SUMMARY:  If you look down, you get a bird's eye view of the room . Here's our living room, the baby bedroom, kitchen, dining room, and the rest of the house .
+   KEYWORDS: room, eye, bird, bedroom, baby
+----------------------------------------
+
+🔹 TOPIC 12 [01:42 - 01:46]:  All of these fed into a disc array that fed into an array t...
+   SUMMARY:  All of these fed into a disc array that fed into an array that could be used to create a mosaic mosaic . The mosaic was created by a team of engineers and engineers at the University of California .
+   KEYWORDS: fed, disc, array
+----------------------------------------
+
+🔹 TOPIC 13 [01:46 - 01:57]:  This is a continuous capture of a day in our home as we mov...
+   SUMMARY:  This is a continuous capture of a day in our home as we move from sunlight morning through incandescent evening . This is the first time we have been able to fly through our home in a continuous way .
+   KEYWORDS: evening, designed, day, continuous, capture
+----------------------------------------
+
+🔹 TOPIC 14 [01:57 - 02:06]:  Over the course of three years, we recorded eight to 10 hou...
+   SUMMARY:  Over the course of three years, we recorded eight to 10 hours a day . and finally lights out for the day . Over the years, the project was set up in New York City, New York .
+   KEYWORDS: day, hours, finally, course, 10
+----------------------------------------
+
+🔹 TOPIC 15 [02:06 - 02:13]:  A quarter million hours of multi-track audio and video has ...
+   SUMMARY:  A quarter million hours of multi-track audio and video has been recorded in the U.S. amassing roughly a quarter of a million hours . So you're looking at a piece of what the team has done, and what it has been called a "work of art"
+   KEYWORDS: million, looking, hours, audio, amassing
+----------------------------------------
+
+🔹 TOPIC 16 [02:13 - 02:16]:  is, by far, the largest home video collection ever made 
+   SUMMARY:  is, by far, the largest home video collection ever made . is by far the largest video collection in the world . is . by far-by-passing the world's largest collection of home video .
+   KEYWORDS: video, largest, home, far, collection
+----------------------------------------
+
+🔹 TOPIC 17 [02:16 - 02:25]:  "I think that's clear
+   SUMMARY:  "I think that's clear. And what this data represents for our family at a personal level," she says . She says. "And what it represents for us is clear. I think that."
+   KEYWORDS: personal, level, family, data, clear
+----------------------------------------
+
+🔹 TOPIC 18 [02:25 - 02:36]:  The impact has already been immense and we're still learnin...
+   SUMMARY:  The impact has already been immense and we're still learning its value . Countless moments of unsolicited natural moments, not posed moments, are captured there . The impact of the social network's social media network is immense .
+   KEYWORDS: moments, impact, immense, countless, captured
+----------------------------------------
+
+🔹 TOPIC 19 [02:36 - 02:40]:  "We're starting to learn how to discover them and find them...
+   SUMMARY:  "We're starting to learn how to discover them and find them," says CNN.com's John Sutter . Sutter: "We need to know how to find them. And we need to be able to identify them"
+   KEYWORDS: starting, learn, discover
+----------------------------------------
+
+🔹 TOPIC 20 [02:40 - 02:47]:  The project was to use this kind of natural longitudinal da...
+   SUMMARY:  The project was to use this kind of natural longitudinal data . But there's also a scientific reason that drove this project, which was to be done with the data . The project is based on the data from a study conducted by the University of Minnesota .
+   KEYWORDS: natural, longitudinal, kind, drove, data
+----------------------------------------
+
+🔹 TOPIC 21 [02:47 - 02:52]:  to understand the process of how a child learns language, t...
+   SUMMARY:  to understand the process of how a child learns language, that child being my son. to understand how it is . to understand, that's how I'm going to help my son learn language . To understand how language learning is part of the learning process, read the book .
+   KEYWORDS: child, son, process, learns, language
+----------------------------------------
+
+🔹 TOPIC 22 [02:52 - 02:58]:  Many privacy provisions were put in place to protect everyo...
+   SUMMARY:  Many privacy provisions were put in place to protect everyone, including the public, from privacy . And so with many privacy provisions put into place, privacy provisions have been put together to protect the public . Privacy is a key part of the privacy protections in the U.S.
+   KEYWORDS: provisions, protect, privacy, place
+----------------------------------------
+
+🔹 TOPIC 23 [02:58 - 03:12]:  "We made elements of the data available to my trusted resea...
+   SUMMARY:  "We made elements of the data available to my trusted research team at MIT so we could start teasing apart patterns in this massive data set, trying to understand" who's recorded in the data .
+   KEYWORDS: data, massive, elements, available, apart
+----------------------------------------
+
+🔹 TOPIC 24 [03:12 - 03:36]:  This is a very everyday pattern of life in the kitchen, in ...
+   SUMMARY:  This is a very everyday pattern of life in the kitchen, in order to convert this opaque 90,000 hours of video into something . We're looking at one of the first things we started to do. the influence of social environments on language acquisition.
+   KEYWORDS: kitchen, convert, acquisition, 90, 000
+----------------------------------------
+
+🔹 TOPIC 25 [03:36 - 03:50]:  Motion analysis is used to pull out as we move through spac...
+   SUMMARY:  Motion analysis is used to pull out as we move through space and through time, what we call space-time worms . And this has become a part of our toolkit for being able to look and see .
+   KEYWORDS: time, space, motion, analysis, able
+----------------------------------------
+
+🔹 TOPIC 26 [03:50 - 03:58]:  Where the activities are in the data
+   SUMMARY:  Where the activities are in the data. where the activities were in the . data. And with it, trace the patterns of in particular where my son moved throughout the home. where . the . home .
+   KEYWORDS: particular, moved, home, data, activities
+----------------------------------------
+
+🔹 TOPIC 27 [03:58 - 04:33]:  We've now transcribed well over 7 million words of our home...
+   SUMMARY:  We've now transcribed well over 7 million words of our home transcripts . So we could focus our transcription efforts, all the speech environment around my son, all of the words that he heard from myself, my wife, our nanny, and over time the words he began to produce .
+   KEYWORDS: words, time, ve, speech, data
+----------------------------------------
+
+🔹 TOPIC 28 [04:33 - 05:01]:  Toddler's first words: Gaga to mean water 
+   SUMMARY:  Toddler's first words: Gaga to mean water . Toddler slowly learns to approximate the proper adult form of water . We're going to cruise through half a year in 40 seconds in about 40 seconds .
+   KEYWORDS: year, water, half, form, birthday
+----------------------------------------
+
+🔹 TOPIC 29 [05:01 - 05:56]:  Gaga to water
+   SUMMARY:  Gaga to water. Okay, okay, okay. Okay. Okay . Okay,okay, okay . Okay. okay. Gaga . Okay . Gaga . Gaga is going to water . Gaga. Gaga is in the middle of the song .
+   KEYWORDS: okay, water, gaga
+----------------------------------------
+
+🔹 TOPIC 30 [05:56 - 06:00]: Topic 30
+   SUMMARY: Summary unavailable
+   KEYWORDS: water, learn, just, didn
+----------------------------------------
+
+🔹 TOPIC 31 [06:00 - 06:16]:  Each word he learned to produce by his second birthday was ...
+   SUMMARY:  Each word he learned to produce by his second birthday was 503 . This is a map of the words he learned in chronological order . We've identified each of the 503 words that he learned by his birthday .
+   KEYWORDS: learned, chronological, birthday, 503, 24
+----------------------------------------
+
+🔹 TOPIC 32 [06:16 - 06:18]: Topic 32
+   SUMMARY: Summary unavailable
+   KEYWORDS: talker, early
+----------------------------------------
+
+🔹 TOPIC 33 [06:18 - 06:20]:  CNN
+   SUMMARY:  CNN.com will feature iReporter photos in a weekly Travel Snapshots gallery . Please submit your best shots at CNN iReport.com/Travel next Friday for a new gallery of snapshots of the world's best travel destinations .
+   KEYWORDS: started, analyze
+----------------------------------------
+
+🔹 TOPIC 34 [06:20 - 06:23]:  Why were certain words born before others? We ask you to ex...
+   SUMMARY:  Why were certain words born before others? We ask you to explain why they were born before other words were born . We also ask why certain words were created before others were born, and why were certain to be born .
+   KEYWORDS: words, certain, born
+----------------------------------------
+
+🔹 TOPIC 35 [06:23 - 06:30]:  This is one of the first results that came out of our study...
+   SUMMARY:  This is one of the first results that came out of our study a little over a year ago that really surprised us. This is a really surprising result, says Dr. John Sutter .
+   KEYWORDS: results, really, little, came, ago
+----------------------------------------
+
+🔹 TOPIC 36 [06:30 - 06:40]:  The way to interpret this apparently simple graph is on the...
+   SUMMARY:  The way to interpret this apparently simple graph is on the vertical is the indication of how complex caregiver utterances are based on the length of utterances . The vertical line indicates how complex a caregiver's utterances is based on how complex it is .
+   KEYWORDS: utterances, graph, caregiver, based, apparently
+----------------------------------------
+
+🔹 TOPIC 37 [06:40 - 06:48]:  All of the data we aligned based on the following idea
+   SUMMARY:  All of the data we aligned based on the following idea. And the vertical axis is time. And all the data is time . We aligned the data based on an idea. The vertical axis was time .
+   KEYWORDS: following, data, based, axis, aligned
+----------------------------------------
+
+🔹 TOPIC 38 [06:48 - 06:56]:  Every time my son would learn a word, we would trace back a...
+   SUMMARY:  Every time my son would learn a word, we would trace back and look at all of the language he heard that contained that word . Every time he learned a new word, his parents would look back at all the language that contained it .
+   KEYWORDS: word, look, language, heard, contained
+----------------------------------------
+
+🔹 TOPIC 39 [06:56 - 07:04]:  The caregiver speaks with systematically systematically, th...
+   SUMMARY:  The caregiver speaks with systematically systematically, the researchers say . And we would plot the relative length of the utterances, they would plot . And what we found was this curious phenomena that caregiver speak with systematically .
+   KEYWORDS: plot, phenomena, length, curious, caregiver
+----------------------------------------
+
+🔹 TOPIC 40 [07:04 - 07:11]:  Aims to make language as simple as possible, and then slowl...
+   SUMMARY:  Aims to make language as simple as possible, and then slowly a sandback up in complexity . dip to a minimum, make language simple, then slowly up complexity up to a higher level of complexity. dip to minimum, making language simple to a maximum, then sandback to complexity .
+   KEYWORDS: minimum, making, language, dip, complexity
+----------------------------------------
+
+🔹 TOPIC 41 [07:11 - 07:39]:  The amazing thing was that that bounce, that dip, lined up ...
+   SUMMARY:  The amazing thing was that that bounce, that dip, lined up almost precisely with when each word was born, word after word systematically . So it appears that all three primary caregivers, myself, my wife and our nanny, were systematically restructuring our language to meet the moment of the birth of a word .
+   KEYWORDS: word, systematically, language, bounce, amazing
+----------------------------------------
+
+🔹 TOPIC 42 [07:39 - 07:58]:  The implications of this, there are many, but one I just wa...
+   SUMMARY:  The implications of this, there are many, but one I just want to point out is that there must be amazing feedback loops. It's not, of course, my son is learning from his linguistic environment, but the environment is . That environment, people, are in these tight feedback loops and creating a kind of scaffolding .
+   KEYWORDS: environment, loops, learning, feedback, creating
+----------------------------------------
+
+🔹 TOPIC 43 [07:58 - 08:10]:  We're now looking at, think of this as a dollhouse cut away...
+   SUMMARY:  We're now looking at, think of this as a dollhouse cut away of our house. that has not been noticed until now. But that's looking at the speech context, what about the visual context?
+   KEYWORDS: looking, context, dollhouse, cut, away
+----------------------------------------
+
+🔹 TOPIC 44 [08:10 - 08:15]:  We've taken those circular fish islands, cameras, and we've...
+   SUMMARY:  We've taken those circular fish islands, cameras, and we've done some optical correction . We've also taken some of the fish islands and added some of their own optical correction to them . We have a new set of cameras, cameras and cameras .
+   KEYWORDS: ve, fish, correction, circular, cameras
+----------------------------------------
+
+🔹 TOPIC 45 [08:15 - 08:25]:  This is a moment, one moment, captured across multiple came...
+   SUMMARY:  This is a moment, one moment, captured across multiple cameras . And then we can bring it into a three-dimensional life. So welcome to my home. This is the moment I captured .
+   KEYWORDS: moment, dimensional, captured, cameras, bring
+----------------------------------------
+
+🔹 TOPIC 46 [08:25 - 08:42]:  The reason we did this is to create the ultimate memory mac...
+   SUMMARY:  The reason we did this is to create the ultimate memory machine where you can go back and interactively fly around and then breathe video life into this system . What I'm going to do is give you an accelerated view of 30 minutes, again, of just life in the living room .
+   KEYWORDS: life, did, breathe, accelerated, 30
+----------------------------------------
+
+🔹 TOPIC 47 [08:42 - 08:52]:  That's me and my son on the floor
+   SUMMARY:  That's me and my son on the floor. And there's video analytics that are tracking our movements. My son is leaving red ink. I'm leaving green ink. That's what I'm doing here .
+   KEYWORDS: son, leaving, ink, green, analytics
+----------------------------------------
+
+🔹 TOPIC 48 [08:52 - 09:00]:  We're now in the couch looking out through the window at ca...
+   SUMMARY:  We're now in the couch looking out through the window at cars passing by and finally my son playing in a walking toy by himself . We're looking at the window as cars pass by .
+   KEYWORDS: passing, looking, finally, couch, cars
+----------------------------------------
+
+🔹 TOPIC 49 [09:00 - 09:08]:  We turn time into the vertical axis and we open up for a vi...
+   SUMMARY:  We turn time into the vertical axis and we open up for a view of these interaction . Now we freeze the action 30 minutes. We turn the time into a vertical axis . We open up a view for the view of the interaction .
+   KEYWORDS: interaction, freeze, axis, action, 30
+----------------------------------------
+
+🔹 TOPIC 50 [09:08 - 09:10]: Topic 50
+   SUMMARY: Summary unavailable
+   KEYWORDS: ve, traces, left, just
+----------------------------------------
+
+🔹 TOPIC 51 [09:10 - 09:22]:  These little knots of two colors of thread we call social h...
+   SUMMARY:  These little knots of two colors of thread we call social hotspots. And we see these amazing structures. The spiral thread we called a solo hotspot. And these little knots are called socialhotspots.
+   KEYWORDS: thread, knots, hotspot, colors, amazing
+----------------------------------------
+
+🔹 TOPIC 52 [09:22 - 09:30]:  We think that these patterns affect the way language is lea...
+   SUMMARY:  We think that these patterns affect the way language is learned . What we'd like to do is start understanding the interaction between these patterns and language learning patterns . And we think we can start understanding these patterns in the language we learn .
+   KEYWORDS: like, learned, language, interaction, affect
+----------------------------------------
+
+🔹 TOPIC 53 [09:30 - 09:44]:  The structure of when words are heard affects when they're ...
+   SUMMARY:  The structure of when words are heard affects when they're learned, says author . So in other words, the relationship between words and what they're about in the world . And the language that my son is exposed to to see if we can predict how we can .
+   KEYWORDS: words, learned, heard, exposed, affects
+----------------------------------------
+
+🔹 TOPIC 54 [09:44 - 09:51]:  "In this video, again, my son is being traced out
+   SUMMARY:  "In this video, again, my son is being traced out. So here's how we're approaching this," says father . "I'm being ... being ... traced out," he says in the video .
+   KEYWORDS: video, traced, son, approaching
+----------------------------------------
+
+🔹 TOPIC 55 [09:51 - 09:56]:  He's leaving red ink behind and there's our nanny by the do...
+   SUMMARY:  He's leaving red ink behind and there's our nanny by the door. Do you want water? Do you need water? He says. He's left red ink on the floor . He says there's a nanny behind the door, but she wants water .
+   KEYWORDS: red, nanny, leaving, ink, door
+----------------------------------------
+
+🔹 TOPIC 56 [09:56 - 10:00]: Topic 56
+   SUMMARY: Summary unavailable
+   KEYWORDS: right
+----------------------------------------
+
+🔹 TOPIC 57 [10:00 - 10:17]:  She offers water and off goes the two worms over to the kit...
+   SUMMARY:  She offers water and off goes the two worms over to the kitchen to get water . And what we've done is use the word water to tag that moment, that bit of activity . And now we take the power of data and take every time my son ever heard the word "water"
+   KEYWORDS: water, word, heard, bit, activity
+----------------------------------------
+
+🔹 TOPIC 58 [10:17 - 10:20]: Topic 58
+   SUMMARY: Summary unavailable
+   KEYWORDS: saw, context
+----------------------------------------
+
+🔹 TOPIC 59 [10:20 - 10:33]:  The data is used to map a landscape in which water and wate...
+   SUMMARY:  The data is used to map a landscape in which water and water co-occurred with each other . And what this data leaves in its wake is a landscape. And we use it to penetrate through the video and find every activity trace that can be traced to water .
+   KEYWORDS: leaves, landscape, instance, data, activity
+----------------------------------------
+
+🔹 TOPIC 60 [10:33 - 10:36]:  This is the word scape for the word water 
+   SUMMARY:  This is the word scape for the word water . We call these wordscapes. This is a wordscape for water. We call it 'wordscapes' The word scapes are a wordscape for water .
+   KEYWORDS: word, wordscapes, water, scape
+----------------------------------------
+
+🔹 TOPIC 61 [10:36 - 10:39]:  Most of the action is in the kitchen
+   SUMMARY:  Most of the action is in the kitchen. And you can see most of the fun in the family's kitchen . It's not the first time the family has been together since 2010 . The family is currently in the process of getting married in New York City .
+   KEYWORDS: kitchen, action
+----------------------------------------
+
+🔹 TOPIC 62 [10:39 - 10:45]:  That's where those big peaks are over to the left 
+   SUMMARY:  That's where those big peaks are over to the left . And just for contrast, we can do this with any word. That's not the same thing. It's where the big peaks were over the left. We can also do this in any word .
+   KEYWORDS: peaks, left, just, contrast, big
+----------------------------------------
+
+🔹 TOPIC 63 [10:45 - 10:57]:  We can take the word buy as in goodbye
+   SUMMARY:  We can take the word buy as in goodbye. And we're now zoomed in over the entrance to the house . And we look and we find, as you'd expect, a contrast in the landscape .
+   KEYWORDS: word, buy, goodbye, entrance, contrast
+----------------------------------------
+
+🔹 TOPIC 64 [10:57 - 11:05]:  We're using these structures to start predicting the order ...
+   SUMMARY:  We're using these structures to start predicting the order of language acquisition. occurs much more in a structured way. So we're using . these structures . to start . predicting the . order of . language acquisition, we hope to use the structures to help predict language acquisition patterns .
+   KEYWORDS: predicting, order, occurs, language, acquisition
+----------------------------------------
+
+🔹 TOPIC 65 [11:05 - 11:08]:  "That's sort of ongoing work now
+   SUMMARY:  "That's sort of ongoing work now. And that's ... ongoing work," she says . She says she hopes to continue to work on the project in the U.S. and around the world .
+   KEYWORDS: work, sort, ongoing
+----------------------------------------
+
+🔹 TOPIC 66 [11:08 - 11:12]:  In my lab, which we're peering into now at MIT, this is at ...
+   SUMMARY:  In my lab, which we're peering into now at MIT, this is at the media lab, this has become a media lab . In his lab, he says, "this has become more like a lab" at MIT .
+   KEYWORDS: lab, peering, mit, media
+----------------------------------------
+
+🔹 TOPIC 67 [11:12 - 11:26]:  Philip DeCamp, Ronnie Kubat, and Brandon Royer are three of...
+   SUMMARY:  Philip DeCamp, Ronnie Kubat, and Brandon Royer are three of the key people in this project . Philip has been a close collaborator on all the visualizations you're seeing . This is Philip's favorite way of videographing just about any space .
+   KEYWORDS: philip, favorite, collaborator, close, brandon
+----------------------------------------
+
+🔹 TOPIC 68 [11:26 - 11:32]:  Michael Fleischman was another PhD student in my lab who wo...
+   SUMMARY:  Michael Fleischman was another PhD student in my lab who worked with me on this home . Michael Fleischerman was also a PhD student at the time . He was a student in his lab at the beginning of his PhD career .
+   KEYWORDS: phd, michael, lab, home, fleischman
+----------------------------------------
+
+🔹 TOPIC 69 [11:32 - 11:45]:  Video analysis can be used to understand how language conne...
+   SUMMARY:  Video analysis can be used to understand how language connects to events which provide common ground for language . The same idea, we can take the same idea to analyze language, video analysis, as well as analysis of language .
+   KEYWORDS: language, events, common, analyzing, analysis
+----------------------------------------
+
+🔹 TOPIC 70 [11:45 - 11:54]:  Out of your home, Deb says, and we can apply it to the worl...
+   SUMMARY:  Out of your home, Deb says, and we can apply it to the world of public media . And so our effort took on an expected turn. out of your house, Deb, and into your home .
+   KEYWORDS: home, expected, effort, deb, apply
+----------------------------------------
+
+🔹 TOPIC 71 [11:54 - 12:18]:  We've started analyzing television content using the same p...
+   SUMMARY:  We've started analyzing television content using the same principles, analyzing event structure of a TV signal, episodes of shows, commercials, all of the components that make up the event structure . Think of mass media as providing common ground .
+   KEYWORDS: structure, event, analyzing, components, common
+----------------------------------------
+
+🔹 TOPIC 72 [12:18 - 12:22]:  Satellite dishes pull in and analyze a good part of all the...
+   SUMMARY:  Satellite dishes pull in and analyze a good part of all the TV . Satellite dishes are now pulling in and analyzing a lot of the TV shows . And we're now with satellite dishes pulling in to analyze all of our TV .
+   KEYWORDS: satellite, pulling, good, dishes, analyzing
+----------------------------------------
+
+🔹 TOPIC 73 [12:22 - 12:29]:  U
+   SUMMARY:  U.S. being watched in the United States. And you don't have to now go and instrument living rooms with microphones to get people's conversations. Being watched is not a problem, it's a problem for the government, it says .
+   KEYWORDS: microphones, living, instrument, don, conversations
+----------------------------------------
+
+🔹 TOPIC 74 [12:29 - 12:37]:  We just tune in to publicly available social media feeds
+   SUMMARY:  We just tune in to publicly available social media feeds. So we pull in about three billion comments a month. We just watch about 3 billion times a month, we're pulling in three billion .
+   KEYWORDS: just, feeds, comments, billion, available
+----------------------------------------
+
+🔹 TOPIC 75 [12:37 - 12:45]:  "You have the event structure, the common ground that the w...
+   SUMMARY:  "You have the event structure, the common ground that the words are about coming out of the television feeds. And then the magic happens. You have the events structure, you have the . common ground . That's what you need to be able to get the words out of your mouth . And then you have a common ground, the words come out of television feeds .
+   KEYWORDS: ground, feeds, event, common, coming
+----------------------------------------
+
+🔹 TOPIC 76 [12:45 - 12:55]:  This is actually real data you're looking at from our data ...
+   SUMMARY:  This is actually real data you're looking at from our data are processing . You've got the conversations that are about that, those topics . And through semantic analysis, you've got to understand that .
+   KEYWORDS: data, got, conversations, analysis, actually
+----------------------------------------
+
+🔹 TOPIC 77 [12:55 - 13:05]:  Each yellow line is showing a link being made between a com...
+   SUMMARY:  Each yellow line is showing a link being made between a comment in the wild and a piece of event structure coming out of the television signal . The yellow line shows a link between the comment and the structure coming from the TV signal .
+   KEYWORDS: link, line, event, comment, coming
+----------------------------------------
+
+🔹 TOPIC 78 [13:05 - 13:27]:  The same idea now can be built up
+   SUMMARY:  The same idea now can be built up. And we get this wordscape, except now words are not assembled in my living room. Instead the context, the common ground, the activities are the content on television that's driving the conversations. And so what we're seeing here, these skyscrapers now are .
+   KEYWORDS: content, commentary, built, assembled, activities
+----------------------------------------
+
+🔹 TOPIC 79 [13:27 - 13:38]:  Rather than, for example, measuring content based on how ma...
+   SUMMARY:  Rather than, for example, measuring content based on how many people people are watching on television . Same concept, but looking at communication dynamics in a different, very different sphere. on television. So fundamentally, rather than, it's looking at content .
+   KEYWORDS: different, content, concept, communication, based
+----------------------------------------
+
+🔹 TOPIC 80 [13:38 - 14:07]:  This is a subset of data from our database, just 50,000 out...
+   SUMMARY:  This is a subset of data from our database, just 50,000 out of several million, and the social graph that connects them through publicly available sources . Just like we can look at feedback cycles and dynamics in a family, we can now open up the same concepts and look at much larger groups of people .
+   KEYWORDS: look, just, data, concepts, 000
+----------------------------------------
+
+🔹 TOPIC 81 [14:07 - 14:19]:  "If you put them on one plane, a second plane is where the ...
+   SUMMARY:  "If you put them on one plane, a second plane is where the content lives," says CNN.com . "We have the programs and the sporting events and the commercials and all of the content is where it lives," she says .
+   KEYWORDS: plane, link, events, content, commercials
+----------------------------------------
+
+🔹 TOPIC 82 [14:19 - 14:40]:  Each of the links that you're seeing rendered here is an ac...
+   SUMMARY:  Each of the links that you're seeing rendered here is an actual connection made between something someone said and a piece of content . And there are again, now tens of millions of these links that give us the connective structures that tie them together make a content graph .
+   KEYWORDS: links, content, connective, connection, actual
+----------------------------------------
+
+🔹 TOPIC 83 [14:40 - 14:48]:  We can now start to probe the structure of social graphs an...
+   SUMMARY:  We can now start to probe the structure of social graphs and how they relate to content . And we can now begin to explore the structure in interesting ways. We need to find out how social graphs relate to each other and their content .
+   KEYWORDS: relate, probe, interesting, graphs, content
+----------------------------------------
+
+🔹 TOPIC 84 [14:48 - 15:02]:  We trace the path of one piece of content that drives someo...
+   SUMMARY:  We trace the path of one piece of content that drives someone to comment on it . And then we follow where that comment goes and look at the entire social graph that becomes activated . So if we, for example, trace the paths of one comment, we can find out where it goes and how it goes .
+   KEYWORDS: comment, entire, drives, content, activated
+----------------------------------------
+
+🔹 TOPIC 85 [15:02 - 15:07]:  And then trace back to see the relationship between that so...
+   SUMMARY:  And then trace back to see the relationship between that social graph and content . The social graph is a social network of people who post photos and videos on social media . And trace back the social graph to see how the content is connected to the social network .
+   KEYWORDS: trace, social, relationship, graph, content
+----------------------------------------
+
+🔹 TOPIC 86 [15:07 - 15:13]:  We call this a co-viewing clique, a virtual living room, if...
+   SUMMARY:  We call this a co-viewing clique, a virtual living room, if you will. Very interesting structure becomes visible. We call it a virtual clique . We call them a 'virtual living room' with a virtual view of the world .
+   KEYWORDS: structure, room, living, interesting, clique
+----------------------------------------
+
+🔹 TOPIC 87 [15:13 - 15:30]:  A piece of content and event causes someone to talk
+   SUMMARY:  A piece of content and event causes someone to talk. They talk to other people that drives tune in behavior back into mass media. And you have these cycles that drive the overall behavior. And there are fascinating dynamics that play.
+   KEYWORDS: talk, behavior, drive, content, causes
+----------------------------------------
+
+🔹 TOPIC 88 [15:30 - 15:37]:  "Another example, very different
+   SUMMARY:  "Another example, very different. Another actual person in our database and we're finding at least hundreds of not thousands" "Another actual person" is "another actual person," says CNN.com's John Sutter .
+   KEYWORDS: finding, example, different, database, actual
+----------------------------------------
+
+🔹 TOPIC 89 [15:37 - 15:45]:  This is a pro amateur or pro-am media critic who has this h...
+   SUMMARY:  This is a pro amateur or pro-am media critic who has this high fan outrace. of these . of these, we've given this person a name. This is an amateur or media critic .
+   KEYWORDS: pro, high, fan, critic, amateur
+----------------------------------------
+
+🔹 TOPIC 90 [15:45 - 15:57]:  A lot of people are following this person, very influential
+   SUMMARY:  A lot of people are following this person, very influential. And they have a propensity to talk about what's on TV. So this person is a key link in connecting mass media and social media together .
+   KEYWORDS: person, media, key, influential, connecting
+----------------------------------------
+
+🔹 TOPIC 91 [15:57 - 16:22]:  President Obama's State of the Union address from just a fe...
+   SUMMARY:  President Obama's State of the Union address from just a few weeks ago is the most engaging piece of content . The engagement properties of this content are truly remarkable, says CNN.com's John Sutter .
+   KEYWORDS: piece, content, look, data, ago
+----------------------------------------
+
+🔹 TOPIC 92 [16:22 - 16:34]:  A nation exploding in conversation in real time in response...
+   SUMMARY:  A nation exploding in conversation in real time in response to what's on the broadcast . Through all of these lines are flowing unstructured language, we can x-ray, says CNN iReporter .
+   KEYWORDS: flowing, exploding, course, conversation, broadcast
+----------------------------------------
+
+🔹 TOPIC 93 [16:34 - 16:44]:  Real time pulse of a nation, real time sense of the social ...
+   SUMMARY:  Real time pulse of a nation, real time sense of the social reactions and the different circuits in the social graph being activated by content. and get a real time pulse. and real time . sense of social reactions . and get real time. sense of . the social . reactions .
+   KEYWORDS: time, social, real, graph, activated
+----------------------------------------
+
+🔹 TOPIC 94 [16:44 - 16:59]:  As our world becomes increasingly instrumented, we have the...
+   SUMMARY:  As our world becomes increasingly instrumented, we have the capabilities to collect and connect the dots between what people are saying and the context they're saying in . So to summarize, the idea is this, as our world .
+   KEYWORDS: saying, dots, connect, collect, capabilities
+----------------------------------------
+
+🔹 TOPIC 95 [16:59 - 17:06]:  "What's emerging is an ability to see new social structures...
+   SUMMARY:  "What's emerging is an ability to see new social structures and dynamics that have previously not been seen," says CNN.com.com's John Sutter . "What is emerging is a new social structure that has previously been not seen"
+   KEYWORDS: previously, new, emerging, dynamics, ability
+----------------------------------------
+
+🔹 TOPIC 96 [17:06 - 17:13]:  "It's like building a microscope or a telescope and reveali...
+   SUMMARY:  "It's like building a microscope or a telescope and revealing new structures about our own behavior around communication," says the author of the book . It's like a microscope and a telescope, it reveals new structures of communication, he says .
+   KEYWORDS: microscope, like, communication, building, behavior
+----------------------------------------
+
+🔹 TOPIC 97 [17:13 - 17:24]:  I think the implications here are profound, whether it's fo...
+   SUMMARY:  I think the implications here are profound, whether it's for science, for commerce, for government, for society . And perhaps most of all, for us as individuals. And I think, perhaps most, all of us, are individuals .
+   KEYWORDS: profound, individuals, implications, government, commerce
+----------------------------------------
+
+🔹 TOPIC 98 [17:24 - 17:34]:  President Obama's son was looking over his shoulder as he p...
+   SUMMARY:  President Obama's son was looking over his shoulder as he prepared to speak to CNN.com . He said he asked his son to watch the clips he was going to show to you today. And so just to return to my son, when I was preparing this talk, he was looking at my son .
+   KEYWORDS: looking, just, going, clips, asked
+----------------------------------------
+
+🔹 TOPIC 99 [17:34 - 17:49]:  "Isn't it amazing this entire database, all these recording...
+   SUMMARY:  "Isn't it amazing this entire database, all these recordings, I'm going to hand up to you and to your sister who arrived two years later," she said . "I went on to reflect, isn't it ... it's amazing," she added .
+   KEYWORDS: going, entire, database, arrived, amazing
+----------------------------------------
+
+🔹 TOPIC 100 [17:49 - 17:58]:  "You guys are going to be able to go back and re-experience...
+   SUMMARY:  "You guys are going to be able to go back and re-experience moments that you could never with your biological memory possibly remember the way you can now," says CNN.com's John Sutter .
+   KEYWORDS: guys, going, experience, biological, able
+----------------------------------------
+
+🔹 TOPIC 101 [17:58 - 18:02]:  "I thought, one of my thinking is, he's five years old, he ...
+   SUMMARY:  "I thought, one of my thinking is, he's five years old, he does, he doesn't understand this," she says . "He's five-year-old. He's not going to understand this. And I thought one of his thinking is that he does," she said .
+   KEYWORDS: thought, thinking, old, going, does
+----------------------------------------
+
+🔹 TOPIC 102 [18:02 - 18:13]:  He looked up to me and said, so that when I grow up, I can ...
+   SUMMARY:  He looked up to me and said, so that when I grow up, I can show this to my kids . And I thought, wow, this is powerful stuff. And just as I was having that thought, he looked up at me .
+   KEYWORDS: thought, looked, just, having, grow
+----------------------------------------
+
+🔹 TOPIC 103 [18:13 - 18:26]:  This is our, the first time our son took more than two step...
+   SUMMARY:  This is our, the first time our son took more than two steps at once, captured on film . So I want to leave you with one last memorable moment from our family, this is our first step .
+   KEYWORDS: memorable, leave, film, family, captured
+----------------------------------------
+
+🔹 TOPIC 104 [18:26 - 18:30]:  "I really want you to focus on something as I take you thro...
+   SUMMARY:  "I really want you to focus on something as I take you through. And I really want to . focus on what I say to you as I tell you to do," says CNN.com .
+   KEYWORDS: want, really, focus
+----------------------------------------
+
+🔹 TOPIC 105 [18:30 - 18:37]:  "My mother is in the kitchen cooking and of all places in t...
+   SUMMARY:  "My mother is in the kitchen cooking and of all places in the hallway, I realize he's," she says . "It's a cluttered environment, it's natural life," she adds .
+   KEYWORDS: kitchen, hallway, environment, cooking, cluttered
+----------------------------------------
+
+🔹 TOPIC 106 [18:37 - 18:51]:  Listen very carefully about three steps in
+   SUMMARY:  Listen very carefully about three steps in. about to do it. He's about to take more than two steps in . So you hear me encouraging him, realizing what's happening and then the magic happens. He realizes something, magic is happening.
+   KEYWORDS: steps, magic, happening, happens, encouraging
+----------------------------------------
+
+🔹 TOPIC 107 [18:51 - 19:04]:  The most amazing feedback loop of all kicks in and he takes...
+   SUMMARY:  The most amazing feedback loop of all kicks in and he takes a breath in and whispers, wow, wow . And instinctively I echo, I echo back the same. And the most amazing . feedback loop kicks in .
+   KEYWORDS: echo, instinctively, feedback, breath, amazing
+----------------------------------------
+
+🔹 TOPIC 108 [19:04 - 19:14]:  Let's fly back in time to that memorable moment 
+   SUMMARY:  Let's fly back in time to that memorable moment . Hey, can you do it? We'll fly back to that famous moment. Let's go back to the moment. Can you fly back?
+   KEYWORDS: moment, memorable, let, hey, fly
+----------------------------------------
+
+🔹 TOPIC 109 [19:14 - 19:48]:  Deb Roy recorded at Ted 2011 in Long Beach, California, Mar...
+   SUMMARY:  Deb Roy recorded at Ted 2011 in Long Beach, California, March 2011 . For more information on Ted, visit Ted.com. Boy, can you do it? My eyes are walking.
+   KEYWORDS: ted, 2011, com, boy, beach
+----------------------------------------

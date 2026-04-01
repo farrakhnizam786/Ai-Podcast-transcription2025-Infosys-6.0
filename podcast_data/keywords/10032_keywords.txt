@@ -2,10 +2,10 @@
 fly
 brain
 light
-critic
 cells
 actor
+critic
 neurons
-turn
 flies
+turn
 electrical

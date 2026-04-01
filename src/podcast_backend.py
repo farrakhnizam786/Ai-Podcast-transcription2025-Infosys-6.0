@@ -20,14 +20,17 @@ from nltk.sentiment import SentimentIntensityAnalyzer
 warnings.filterwarnings("ignore")
 
 def setup_directories(base_dir):
+    # Convert to Path object for safety
+    base_path = Path(base_dir)
+    
     dirs = {
-        "audio": os.path.join(base_dir, "audio"),
-        "processed": os.path.join(base_dir, "processed_audio"),
-        "transcripts": os.path.join(base_dir, "transcripts"),
-        "summary": os.path.join(base_dir, "short_summary"),
-        "topics": os.path.join(base_dir, "semantic_segments"),
-        "keywords": os.path.join(base_dir, "keywords"),
-        "sentiment": os.path.join(base_dir, "sentiment_data")
+        "audio": base_path / "audio",
+        "processed": base_path / "processed_audio",
+        "transcripts": base_path / "transcripts",
+        "summary": base_path / "short_summary",
+        "topics": base_path / "semantic_segments",
+        "keywords": base_path / "keywords",
+        "sentiment": base_path / "sentiment_data"
     }
     for d in dirs.values():
         os.makedirs(d, exist_ok=True)
@@ -57,6 +60,7 @@ def format_time(seconds):
     return f"{minutes:02d}:{secs:02d}"
 
 def extract_keywords_text(text, top_n=5):
+    """Extract keywords from a single text block (used for topics)."""
     try:
         vectorizer = TfidfVectorizer(stop_words='english', max_features=top_n)
         tfidf_matrix = vectorizer.fit_transform([text])
@@ -74,11 +78,12 @@ def extract_keywords_text(text, top_n=5):
 def preprocess_audio(input_path, output_path):
     target_sr = 16000
     try:
-        y, sr = librosa.load(input_path, sr=target_sr, mono=True)
-        # Normalize
+        # Load with librosa (handles mp3, m4a, wav)
+        y, sr = librosa.load(str(input_path), sr=target_sr, mono=True)
+        # Normalize volume
         if np.max(np.abs(y)) > 0:
             y = y / np.max(np.abs(y))
-        sf.write(output_path, y, sr)
+        sf.write(str(output_path), y, sr)
         return True
     except Exception as e:
         print(f"Error preprocessing: {e}")
@@ -92,13 +97,15 @@ def transcribe_and_summarize(audio_path, transcript_path, summary_path, model_si
     model = whisper.load_model(model_size, device=device)
     result = model.transcribe(str(audio_path), fp16=False)
     
-    # Save Transcript
-    with open(transcript_path.replace('.json', '.txt'), "w", encoding="utf-8") as f:
+    # Save Transcript (TXT)
+    with open(str(transcript_path).replace('.json', '.txt'), "w", encoding="utf-8") as f:
         f.write(result["text"].strip())
+    
+    # Save Transcript (JSON)
     with open(transcript_path, "w", encoding="utf-8") as f:
         json.dump(result, f, indent=4)
         
-    # Generate Summary
+    # Generate Global Summary
     text = result["text"]
     summary = "Summary could not be generated."
     try:
@@ -110,6 +117,7 @@ def transcribe_and_summarize(audio_path, transcript_path, summary_path, model_si
         if word_count < 30:
             summary = clean_text
         else:
+            # Dynamic length based on input size
             dynamic_max = int(min(150, word_count * 0.8))
             dynamic_min = int(min(50, dynamic_max * 0.5))
             dynamic_max = max(10, dynamic_max)
@@ -134,29 +142,33 @@ def analyze_sentiment(transcript_path, output_path):
     setup_nltk()
     sia = SentimentIntensityAnalyzer()
     
-    with open(transcript_path, "r", encoding="utf-8") as f:
-        data = json.load(f)
-    
-    if "segments" not in data:
-        return
+    try:
+        with open(transcript_path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        
+        if "segments" not in data:
+            return
 
-    timeline = []
-    for segment in data["segments"]:
-        text = segment["text"].strip()
-        scores = sia.polarity_scores(text)
-        comp = scores['compound']
-        label = "Positive" if comp >= 0.05 else "Negative" if comp <= -0.05 else "Neutral"
-        
-        timeline.append({
-            "start": segment["start"],
-            "end": segment["end"],
-            "text": text,
-            "score": comp,
-            "label": label
-        })
-        
-    with open(output_path, "w", encoding="utf-8") as f:
-        json.dump(timeline, f, indent=4)
+        timeline = []
+        for segment in data["segments"]:
+            text = segment["text"].strip()
+            scores = sia.polarity_scores(text)
+            comp = scores['compound']
+            label = "Positive" if comp >= 0.05 else "Negative" if comp <= -0.05 else "Neutral"
+            
+            timeline.append({
+                "start": segment["start"],
+                "end": segment["end"],
+                "text": text,
+                "score": comp,
+                "label": label
+            })
+            
+        with open(output_path, "w", encoding="utf-8") as f:
+            json.dump(timeline, f, indent=4)
+            
+    except Exception as e:
+        print(f"Sentiment Analysis Error: {e}")
 
 # --- 4. KEYWORDS ---
 def extract_keywords(transcript_dir, output_dir):
@@ -167,13 +179,17 @@ def extract_keywords(transcript_dir, output_dir):
     filenames = []
     
     for p in files:
-        with open(p, "r", encoding="utf-8") as f:
-            data = json.load(f)
-            documents.append(data["text"])
-            filenames.append(p.stem)
+        try:
+            with open(p, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                documents.append(data["text"])
+                filenames.append(p.stem)
+        except: pass
             
-    vectorizer = TfidfVectorizer(stop_words='english', ngram_range=(1, 2), max_features=5000)
+    if not documents: return
+
     try:
+        vectorizer = TfidfVectorizer(stop_words='english', ngram_range=(1, 2), max_features=5000)
         tfidf_matrix = vectorizer.fit_transform(documents)
         feature_names = vectorizer.get_feature_names_out()
         
@@ -186,14 +202,14 @@ def extract_keywords(transcript_dir, output_dir):
                 if scores[idx] > 0:
                     keywords.append(f"{feature_names[idx]}")
             
-            out_file = os.path.join(output_dir, f"{filename}_keywords.txt")
+            out_file = Path(output_dir) / f"{filename}_keywords.txt"
             with open(out_file, "w", encoding="utf-8") as f:
                 f.write(f"=== KEYWORDS FOR: {filename} ===\n")
                 f.write("\n".join(keywords))
     except ValueError:
         pass 
 
-# --- 5. TOPIC SEGMENTATION (UPDATED) ---
+# --- 5. TOPIC SEGMENTATION ---
 def segment_topics(transcript_path, output_path):
     setup_nltk()
     
@@ -207,10 +223,10 @@ def segment_topics(transcript_path, output_path):
         if len(segments_raw) < 5:
             with open(output_path, "w", encoding="utf-8") as f:
                 f.write(f"=== TOPIC ANALYSIS: {Path(transcript_path).stem} ===\n")
-                f.write(f"🔹 TOPIC 1: {json_data['text'][:200]}... (Audio too short for multi-topic segmentation)\n")
+                f.write(f"🔹 TOPIC 1 [00:00 - End]: {json_data['text'][:200]}... (Audio too short)\n")
             return
 
-        # Prepare for segmentation
+        # Prepare text for segmentation
         texts = [s['text'] for s in segments_raw]
         WINDOW_SIZE = 2
         SIMILARITY_THRESHOLD = 0.65
@@ -219,7 +235,6 @@ def segment_topics(transcript_path, output_path):
         try:
             tfidf_matrix = vectorizer.fit_transform(texts)
         except ValueError:
-            # Handle empty text
             return
 
         similarities = []
@@ -242,7 +257,7 @@ def segment_topics(transcript_path, output_path):
         
         cut_indices.append(len(segments_raw))
 
-        # Summarizer for topics
+        # Initialize Summarizer
         try:
             summarizer = pipeline("summarization", model="sshleifer/distilbart-cnn-12-6")
         except:
@@ -291,22 +306,23 @@ def segment_topics(transcript_path, output_path):
             
     except Exception as e:
         print(f"Topic Error: {e}")
-        # Fallback
+    
         with open(output_path, "w", encoding="utf-8") as f:
             f.write(f"=== TOPICS (Fallback) ===\nError processing topics: {e}\n")
 
-# --- MASTER PIPELINE ---
+
 def process_new_upload(file_input, base_dir, is_url=False):
+    
     dirs = setup_directories(base_dir)
     
-    # 1. Handle Input (File Object vs URL)
+    
     if is_url:
         url_filename = file_input.split("/")[-1].split("?")[0]
         if not url_filename or not url_filename.endswith(('.mp3', '.wav', '.m4a')):
             url_filename = "downloaded_audio.mp3"
         file_stem = Path(url_filename).stem
         
-        raw_path = os.path.join(dirs["audio"], url_filename)
+        raw_path = dirs["audio"] / url_filename
         try:
             response = requests.get(file_input, stream=True)
             response.raise_for_status()
@@ -317,26 +333,26 @@ def process_new_upload(file_input, base_dir, is_url=False):
             return f"Download failed: {e}"
     else:
         file_stem = Path(file_input.name).stem
-        raw_path = os.path.join(dirs["audio"], file_input.name)
+        raw_path = dirs["audio"] / file_input.name
         with open(raw_path, "wb") as f:
             f.write(file_input.getbuffer())
         
     # 2. Preprocess
-    proc_path = os.path.join(dirs["processed"], f"{file_stem}.wav")
+    proc_path = dirs["processed"] / f"{file_stem}.wav"
     if not preprocess_audio(raw_path, proc_path):
         return "Preprocessing failed."
         
     # 3. Transcribe & Summary
-    trans_path = os.path.join(dirs["transcripts"], f"{file_stem}.json")
-    summ_path = os.path.join(dirs["summary"], f"{file_stem}_summary.txt")
+    trans_path = dirs["transcripts"] / f"{file_stem}.json"
+    summ_path = dirs["summary"] / f"{file_stem}_summary.txt"
     transcribe_and_summarize(proc_path, trans_path, summ_path)
     
     # 4. Sentiment
-    sent_path = os.path.join(dirs["sentiment"], f"{file_stem}_sentiment.json")
+    sent_path = dirs["sentiment"] / f"{file_stem}_sentiment.json"
     analyze_sentiment(trans_path, sent_path)
     
     # 5. Topics
-    top_path = os.path.join(dirs["topics"], f"{file_stem}_topics.txt")
+    top_path = dirs["topics"] / f"{file_stem}_topics.txt"
     segment_topics(trans_path, top_path)
     
     # 6. Update Keywords (Global)

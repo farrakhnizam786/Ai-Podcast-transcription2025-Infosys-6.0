@@ -215,3 +215,10 @@ It does NOT do Math: Notice that app.py mostly just reads the JSON/Text files cr
 
 Visualization: It uses Plotly to take the Sentiment JSON data (Timestamp vs. Score) and draw the interactive green/red chart.
 
+To Run : install : pip install openai-whisper
+
+pip install transformers
+
+pip install librosa soundfile
+
+then : streamlit run app.py

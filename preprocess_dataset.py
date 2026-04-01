@@ -82,28 +82,26 @@ def preprocess_all():
             output_filename = audio_file.stem + ".wav"
             save_path = output_path / output_filename
 
-            # 1. Load Audio
-            # librosa.load automatically resamples (sr=TARGET_SR) and mixes to mono (mono=True)
+
             y, sr = librosa.load(str(audio_file), sr=TARGET_SR, mono=True)
 
-            # 2. Normalize Volume (Optional but recommended)
+    
             if np.max(np.abs(y)) > 0:
                 y = y / np.max(np.abs(y))
 
-            # 3. Save as WAV
+
             sf.write(save_path, y, sr)
             success_count += 1
 
         except Exception as e:
-            print(f"\n❌ Error processing {audio_file.name}: {e}")
+            print(f"\n Error processing {audio_file.name}: {e}")
 
-    print(f"\n🎉 Preprocessing Complete!")
+    print(f"\n Preprocessing Complete!")
     
-    # Updated summary logic since we are no longer skipping
-    print(f"✅ Successfully processed {success_count} files.")
-    print(f"📂 Clean data saved to: {OUTPUT_DIR}")
+    print(f" Successfully processed {success_count} files.")
+    print(f" Clean data saved to: {OUTPUT_DIR}")
     
-    # Only run verification if we actually processed something or want to check
+
     if success_count > 0:
         verify_conversion(audio_files, OUTPUT_DIR)
 

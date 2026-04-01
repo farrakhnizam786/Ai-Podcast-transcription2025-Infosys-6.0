@@ -8,5 +8,7 @@ nltk
 scikit-learn
 transformers
 torch
-requests
 kaggle
+requests
+fpdf
+pyannote.audio

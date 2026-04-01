@@ -3,6 +3,8 @@ data set url
 
  meta data: https://www.kaggle.com/datasets/thegupta/ted-talk?utm_source=chatgpt.com 
 
+ github : https://github.com/springboardmentor13579x-proj/Automated-Podcast-Transcription-and-Topic-Segmentation.git
+
 Pre_processing.py
 Purpose: This module is responsible for standardizing raw podcast audio files into a format optimized for AI transcription models (specifically OpenAI Whisper). It ensures consistency across the dataset and improves model inference speed.
 
@@ -64,3 +66,5 @@ git when update to push update
 1.git add .
 2.git commit -m "Update project files"
 3.git push origin intern-mohd_farrakh
+
+* https://www.geeksforgeeks.org/python/python-testing/    (testing )

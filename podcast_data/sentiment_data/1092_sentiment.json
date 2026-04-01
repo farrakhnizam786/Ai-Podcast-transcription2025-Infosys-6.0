@@ -1,0 +1,1815 @@
+[
+    {
+        "start": 0.0,
+        "end": 11.0,
+        "text": "10 Talks Are Recorded Live at the Ted Conference.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 11.0,
+        "end": 14.44,
+        "text": "This episode features cognitive scientist Deb Roy.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 14.44,
+        "end": 16.28,
+        "text": "This talk contains powerful visuals.",
+        "score": 0.4215,
+        "label": "Positive"
+    },
+    {
+        "start": 16.28,
+        "end": 18.96,
+        "text": "Download the video at Ted.com.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 18.96,
+        "end": 23.8,
+        "text": "Here's Deb Roy.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 23.8,
+        "end": 27.0,
+        "text": "Imagine if you could record your life.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 27.0,
+        "end": 29.68,
+        "text": "Everything you said, everything you did.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 29.68,
+        "end": 33.04,
+        "text": "Available in a perfect memory store at your fingertips.",
+        "score": 0.5719,
+        "label": "Positive"
+    },
+    {
+        "start": 33.04,
+        "end": 37.6,
+        "text": "So you could go back and find memorable moments and relive them.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 37.6,
+        "end": 41.6,
+        "text": "Or sift through traces of time and discover patterns",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 41.6,
+        "end": 45.760000000000005,
+        "text": "in your own life that previously had gone undiscovered.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 45.760000000000005,
+        "end": 50.16,
+        "text": "Well, that's exactly the journey that my family began",
+        "score": 0.2732,
+        "label": "Positive"
+    },
+    {
+        "start": 50.16,
+        "end": 51.8,
+        "text": "five and a half years ago.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 51.8,
+        "end": 54.92,
+        "text": "This is my wife and collaborator, Rupal.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 54.92,
+        "end": 56.64,
+        "text": "And on this day, at this moment, we",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 56.64,
+        "end": 61.4,
+        "text": "walked into the house with our first child, our beautiful baby boy.",
+        "score": 0.5994,
+        "label": "Positive"
+    },
+    {
+        "start": 61.4,
+        "end": 68.64,
+        "text": "And we walked into a house with a very special home video recording system.",
+        "score": 0.4576,
+        "label": "Positive"
+    },
+    {
+        "start": 68.64,
+        "end": 71.64,
+        "text": "Thank you so much.",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 71.64,
+        "end": 74.64,
+        "text": "Hey, baby.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 74.64,
+        "end": 77.84,
+        "text": "OK.",
+        "score": 0.296,
+        "label": "Positive"
+    },
+    {
+        "start": 77.84,
+        "end": 82.24000000000001,
+        "text": "This moment and thousands of other moments special for us",
+        "score": 0.4019,
+        "label": "Positive"
+    },
+    {
+        "start": 82.24000000000001,
+        "end": 85.76,
+        "text": "were captured in our home because in every room in the house,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 85.76,
+        "end": 89.04,
+        "text": "if you looked up, you'd see a camera and a microphone.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 89.04,
+        "end": 93.2,
+        "text": "And if you look down, you get this bird's eye view of the room.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 93.2,
+        "end": 98.84,
+        "text": "Here's our living room, the baby bedroom,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 98.84,
+        "end": 102.68,
+        "text": "kitchen, dining room, and the rest of the house.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 102.68,
+        "end": 106.48,
+        "text": "And all of these fed into a disc array that",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 106.48,
+        "end": 108.60000000000001,
+        "text": "was designed for a continuous capture.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 108.60000000000001,
+        "end": 112.56,
+        "text": "So here we are flying through a day in our home",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 112.56,
+        "end": 117.48,
+        "text": "as we move from sunlight morning through incandescent evening",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 117.48,
+        "end": 121.24000000000001,
+        "text": "and finally lights out for the day.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 121.24000000000001,
+        "end": 126.4,
+        "text": "Over the course of three years, we recorded eight to 10 hours a day,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 126.4,
+        "end": 131.52,
+        "text": "amassing roughly a quarter million hours of multi-track audio and video.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 131.52,
+        "end": 133.64000000000001,
+        "text": "So you're looking at a piece of what",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 133.64000000000001,
+        "end": 136.76,
+        "text": "is, by far, the largest home video collection ever made.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 136.76,
+        "end": 139.24,
+        "text": "I think that's clear.",
+        "score": 0.3818,
+        "label": "Positive"
+    },
+    {
+        "start": 139.24,
+        "end": 145.0,
+        "text": "And what this data represents for our family at a personal level,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 145.0,
+        "end": 149.96,
+        "text": "the impact has already been immense and we're still learning its value.",
+        "score": 0.34,
+        "label": "Positive"
+    },
+    {
+        "start": 149.96,
+        "end": 155.20000000000002,
+        "text": "Countless moments of unsolicited natural moments, not posed moments,",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 155.20000000000002,
+        "end": 156.12,
+        "text": "are captured there.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 156.12,
+        "end": 160.36,
+        "text": "And we're starting to learn how to discover them and find them.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 160.36,
+        "end": 163.64000000000001,
+        "text": "But there's also a scientific reason that drove this project, which",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 163.64000000000001,
+        "end": 167.48000000000002,
+        "text": "was to use this kind of natural longitudinal data",
+        "score": 0.2975,
+        "label": "Positive"
+    },
+    {
+        "start": 167.48,
+        "end": 172.88,
+        "text": "to understand the process of how a child learns language, that child being my son.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 172.88,
+        "end": 178.39999999999998,
+        "text": "And so with many privacy provisions put in place to protect everyone",
+        "score": 0.3818,
+        "label": "Positive"
+    },
+    {
+        "start": 178.39999999999998,
+        "end": 182.92,
+        "text": "who's recorded in the data, we made elements of the data available",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 182.92,
+        "end": 187.79999999999998,
+        "text": "to my trusted research team at MIT so we could start teasing",
+        "score": 0.4215,
+        "label": "Positive"
+    },
+    {
+        "start": 187.79999999999998,
+        "end": 192.95999999999998,
+        "text": "apart patterns in this massive data set, trying to understand",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 192.95999999999998,
+        "end": 196.95999999999998,
+        "text": "the influence of social environments on language acquisition.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 196.96,
+        "end": 200.88,
+        "text": "So we're looking here at one of the first things we started to do.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 200.88,
+        "end": 205.52,
+        "text": "This is my wife and I cooking breakfast in the kitchen.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 205.52,
+        "end": 209.96,
+        "text": "And as we move through space and through time, a very everyday pattern of life",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 209.96,
+        "end": 216.92000000000002,
+        "text": "in the kitchen, in order to convert this opaque 90,000 hours of video into something",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 216.92000000000002,
+        "end": 221.64000000000001,
+        "text": "we can start to see, we use motion analysis to pull out as we move through space",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 221.64000000000001,
+        "end": 224.48000000000002,
+        "text": "and through time, what we call space-time worms.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 224.48,
+        "end": 230.88,
+        "text": "And this has become a part of our toolkit for being able to look and see",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 230.88,
+        "end": 233.28,
+        "text": "where the activities are in the data.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 233.28,
+        "end": 238.39999999999998,
+        "text": "And with it, trace the patterns of in particular where my son moved throughout the home.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 238.39999999999998,
+        "end": 244.23999999999998,
+        "text": "So we could focus our transcription efforts, all the speech environment around my son,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 244.23999999999998,
+        "end": 247.6,
+        "text": "all the words that he heard from myself, my wife, our nanny,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 247.6,
+        "end": 250.39999999999998,
+        "text": "and over time the words he began to produce.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 250.4,
+        "end": 255.76000000000002,
+        "text": "So with that technology and that data and the ability to, with machine assistance,",
+        "score": 0.3182,
+        "label": "Positive"
+    },
+    {
+        "start": 255.76000000000002,
+        "end": 262.48,
+        "text": "transcribe speech, we've now transcribed well over 7 million words of our home transcripts.",
+        "score": 0.2732,
+        "label": "Positive"
+    },
+    {
+        "start": 262.48,
+        "end": 267.12,
+        "text": "And with that, let me take you now for a first tour into the data.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 267.12,
+        "end": 273.88,
+        "text": "So you've all, I'm sure, seen time lapse videos where a flower will blossom as you accelerate time.",
+        "score": 0.3182,
+        "label": "Positive"
+    },
+    {
+        "start": 273.88,
+        "end": 277.92,
+        "text": "I'd like you to now experience the blossoming of a speech form.",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 277.92,
+        "end": 283.6,
+        "text": "My son, soon after his first birthday, would say Gaga to mean water.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 283.6,
+        "end": 290.72,
+        "text": "And over the course of the next half year, he slowly learns to approximate the proper adult form water.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 290.72,
+        "end": 295.24,
+        "text": "So we're going to cruise through half a year in about 40 seconds.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 295.24,
+        "end": 301.92,
+        "text": "No video here so you can focus on the sound, the acoustics of a new kind of trajectory.",
+        "score": -0.296,
+        "label": "Negative"
+    },
+    {
+        "start": 301.92,
+        "end": 304.24,
+        "text": "Gaga to water.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 334.24,
+        "end": 336.08,
+        "text": "Look, kid.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 336.08,
+        "end": 337.84000000000003,
+        "text": "Look, kid.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 337.84000000000003,
+        "end": 338.84000000000003,
+        "text": "Look, cry.",
+        "score": -0.4767,
+        "label": "Negative"
+    },
+    {
+        "start": 338.84000000000003,
+        "end": 340.64,
+        "text": "Look, kid.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 340.64,
+        "end": 343.36,
+        "text": "Look, kid.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 343.36,
+        "end": 345.12,
+        "text": "Look, cry.",
+        "score": -0.4767,
+        "label": "Negative"
+    },
+    {
+        "start": 345.12,
+        "end": 347.36,
+        "text": "Look, kid.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 347.36,
+        "end": 349.36,
+        "text": "Blow her.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 349.36,
+        "end": 351.36,
+        "text": "Are you sure nailed it, didn't they?",
+        "score": 0.3182,
+        "label": "Positive"
+    },
+    {
+        "start": 351.36,
+        "end": 358.36,
+        "text": "Applause.",
+        "score": 0.4215,
+        "label": "Positive"
+    },
+    {
+        "start": 358.36,
+        "end": 362.40000000000003,
+        "text": "So he didn't just learn water over the course of the 24 months,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 362.4,
+        "end": 369.12,
+        "text": "the first two years that we really focused on, this is a map of every word he learned in chronological order.",
+        "score": 0.4391,
+        "label": "Positive"
+    },
+    {
+        "start": 369.12,
+        "end": 376.32,
+        "text": "And because we have full transcripts, we've identified each of the 503 words that he learned to produce by his second birthday.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 376.32,
+        "end": 377.91999999999996,
+        "text": "He was an early talker.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 377.91999999999996,
+        "end": 383.76,
+        "text": "And so we started to analyze why, why were certain words born before others?",
+        "score": 0.2732,
+        "label": "Positive"
+    },
+    {
+        "start": 383.76,
+        "end": 389.96,
+        "text": "This is one of the first results that came out of our study a little over a year ago that really surprised us.",
+        "score": 0.2944,
+        "label": "Positive"
+    },
+    {
+        "start": 389.96,
+        "end": 400.12,
+        "text": "The way to interpret this apparently simple graph is on the vertical is the indication of how complex caregiver utterances are based on the length of utterances.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 400.12,
+        "end": 402.96,
+        "text": "And the vertical axis is time.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 402.96,
+        "end": 408.35999999999996,
+        "text": "And all of the data we aligned based on the following idea.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 408.35999999999996,
+        "end": 416.03999999999996,
+        "text": "Every time my son would learn a word, we would trace back and look at all of the language he heard that contained that word.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 416.03999999999996,
+        "end": 419.59999999999997,
+        "text": "And we would plot the relative length of the utterances.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 419.6,
+        "end": 432.24,
+        "text": "And what we found was this curious phenomena that caregiver speech would systematically dip to a minimum, making language as simple as possible, and then slowly a sand backup in complexity.",
+        "score": 0.3869,
+        "label": "Positive"
+    },
+    {
+        "start": 432.24,
+        "end": 439.8,
+        "text": "And the amazing thing was that that bounce, that dip, lined up almost precisely with when each word was born.",
+        "score": 0.5859,
+        "label": "Positive"
+    },
+    {
+        "start": 439.8,
+        "end": 441.96000000000004,
+        "text": "Word after word systematically.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 441.96,
+        "end": 459.2,
+        "text": "So it appears that all three primary caregivers, myself, my wife and our nanny, were systematically and I would think subconsciously restructuring our language to meet him at the moment of the birth of a word and bring him gently into more complex language.",
+        "score": 0.4588,
+        "label": "Positive"
+    },
+    {
+        "start": 459.2,
+        "end": 466.35999999999996,
+        "text": "And the implications of this, there are many, but one I just want to point out is that there must be amazing feedback loops.",
+        "score": 0.7684,
+        "label": "Positive"
+    },
+    {
+        "start": 466.36,
+        "end": 472.64,
+        "text": "It's not, of course, my son is learning from his linguistic environment, but the environment is learning from him.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 472.64,
+        "end": 481.40000000000003,
+        "text": "That environment, people are in these tight feedback loops and creating a kind of scaffolding that has not been noticed until now.",
+        "score": 0.296,
+        "label": "Positive"
+    },
+    {
+        "start": 481.40000000000003,
+        "end": 485.72,
+        "text": "But that's looking at the speech context, what about the visual context?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 485.72,
+        "end": 490.28000000000003,
+        "text": "We're now looking at, think of this as a dollhouse cut away of our house.",
+        "score": -0.2732,
+        "label": "Negative"
+    },
+    {
+        "start": 490.28,
+        "end": 498.67999999999995,
+        "text": "We've taken those circular fish islands cameras and we've done some optical correction and then we can bring it into three dimensional life.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 498.67999999999995,
+        "end": 501.44,
+        "text": "So welcome to my home.",
+        "score": 0.5095,
+        "label": "Positive"
+    },
+    {
+        "start": 501.44,
+        "end": 505.64,
+        "text": "This is a moment, one moment captured across multiple cameras.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 505.64,
+        "end": 515.68,
+        "text": "The reason we did this is to create the ultimate memory machine where you can go back and interactively fly around and then breathe video life into this system.",
+        "score": 0.2732,
+        "label": "Positive"
+    },
+    {
+        "start": 515.68,
+        "end": 522.3599999999999,
+        "text": "What I'm going to do is give you an accelerated view of 30 minutes, again, of just life in the living room.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 522.3599999999999,
+        "end": 525.5999999999999,
+        "text": "That's me and my son on the floor.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 525.5999999999999,
+        "end": 529.3199999999999,
+        "text": "And there's video analytics that are tracking our movements.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 529.3199999999999,
+        "end": 531.0,
+        "text": "My son is leaving red ink.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 531.0,
+        "end": 532.3599999999999,
+        "text": "I'm leaving green ink.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 532.3599999999999,
+        "end": 540.04,
+        "text": "We're now in the couch looking out through the window at cars passing by and finally my son playing in a walking toy by himself.",
+        "score": 0.2023,
+        "label": "Positive"
+    },
+    {
+        "start": 540.04,
+        "end": 543.0799999999999,
+        "text": "Now we freeze the action 30 minutes.",
+        "score": 0.0516,
+        "label": "Positive"
+    },
+    {
+        "start": 543.08,
+        "end": 550.4000000000001,
+        "text": "We turn time into the vertical axis and we open up for a view of these interaction traces we've just left behind.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 550.4000000000001,
+        "end": 553.44,
+        "text": "And we see these amazing structures.",
+        "score": 0.5859,
+        "label": "Positive"
+    },
+    {
+        "start": 553.44,
+        "end": 558.6800000000001,
+        "text": "These little knots of two colors of thread we call social hotspots.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 558.6800000000001,
+        "end": 562.36,
+        "text": "The spiral thread we call a solo hotspot.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 562.36,
+        "end": 565.48,
+        "text": "And we think that these affect the way language is learned.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 565.48,
+        "end": 572.72,
+        "text": "What we'd like to do is start understanding the interaction between these patterns and the language that my son is exposed to.",
+        "score": 0.296,
+        "label": "Positive"
+    },
+    {
+        "start": 572.72,
+        "end": 579.36,
+        "text": "To see if we can predict how the structure of when words are heard affects when they're learned.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 579.36,
+        "end": 584.8000000000001,
+        "text": "So in other words, the relationship between words and what they're about in the world.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 584.8000000000001,
+        "end": 587.5600000000001,
+        "text": "So here's how we're approaching this.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 587.5600000000001,
+        "end": 591.48,
+        "text": "In this video, again, my son is being traced out.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 591.48,
+        "end": 595.76,
+        "text": "He's leaving red ink behind and there's our nanny by the door.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 595.76,
+        "end": 597.6,
+        "text": "Do you want water?",
+        "score": 0.0772,
+        "label": "Positive"
+    },
+    {
+        "start": 597.6,
+        "end": 598.6,
+        "text": "No.",
+        "score": -0.296,
+        "label": "Negative"
+    },
+    {
+        "start": 598.6,
+        "end": 599.8000000000001,
+        "text": "All right.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 599.8000000000001,
+        "end": 600.76,
+        "text": "No.",
+        "score": -0.296,
+        "label": "Negative"
+    },
+    {
+        "start": 600.76,
+        "end": 602.4,
+        "text": "She offers water.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 602.4,
+        "end": 606.84,
+        "text": "And off go the two worms over to the kitchen to get water.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 606.84,
+        "end": 610.8,
+        "text": "And what we've done is use the word water to tag that moment, that bit of activity.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 610.8,
+        "end": 620.1999999999999,
+        "text": "And now we take the power of data and take every time my son ever heard the word water and the context he saw it in.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 620.1999999999999,
+        "end": 629.12,
+        "text": "And we use it to penetrate through the video and find every activity trace that co-occurred with an instance of water.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 629.12,
+        "end": 633.28,
+        "text": "And what this data leaves in its weight is a landscape.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 633.28,
+        "end": 634.68,
+        "text": "We call these wordscapes.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 634.68,
+        "end": 636.92,
+        "text": "This is the word scape for the word water.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 636.92,
+        "end": 639.04,
+        "text": "And you can see most of the action is in the kitchen.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 639.04,
+        "end": 642.04,
+        "text": "That's where those big peaks are over to the left.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 642.04,
+        "end": 645.16,
+        "text": "And just for contrast, we can do this with any word.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 645.16,
+        "end": 648.76,
+        "text": "We can take the word buy as in goodbye.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 648.76,
+        "end": 651.5600000000001,
+        "text": "And we're now zoomed in over the entrance to the house.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 651.5600000000001,
+        "end": 657.2,
+        "text": "And we look and we find as you expect a contrast in the landscape where the word buy",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 657.2,
+        "end": 659.24,
+        "text": "occurs much more in a structured way.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 659.24,
+        "end": 665.5600000000001,
+        "text": "So we're using these structures to start predicting the order of language acquisition.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 665.5600000000001,
+        "end": 668.2,
+        "text": "And that's sort of ongoing work now.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 668.2,
+        "end": 671.12,
+        "text": "In my lab, which we're peering into now at MIT.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 671.12,
+        "end": 672.48,
+        "text": "This is at the media lab.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 672.48,
+        "end": 676.84,
+        "text": "This has become my favorite way of videographing just about any space.",
+        "score": 0.4588,
+        "label": "Positive"
+    },
+    {
+        "start": 676.84,
+        "end": 682.44,
+        "text": "Three of the key people in this project, Philip DeCamp, Ronnie Kubat, and Brandon Royer, are pictured here.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 682.44,
+        "end": 686.48,
+        "text": "Philip has been a close collaborator on all the visualizations you're seeing.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 686.48,
+        "end": 693.96,
+        "text": "And Michael Fleischman was another PhD student in my lab who worked with me on this home video analysis.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 693.96,
+        "end": 700.6800000000001,
+        "text": "And he made the following observation that just the way that we're analyzing how language connects",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 700.6800000000001,
+        "end": 705.16,
+        "text": "to events which provide common ground for language, that same idea.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 705.16,
+        "end": 710.6,
+        "text": "We can take out of your home, Deb, and we can apply it to the world of public media.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 710.6,
+        "end": 714.32,
+        "text": "And so our effort took on an expected turn.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 714.32,
+        "end": 718.5600000000001,
+        "text": "Think of mass media as providing common ground.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 718.5600000000001,
+        "end": 722.8000000000001,
+        "text": "And you have the recipe for taking this idea to a whole new place.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 722.8000000000001,
+        "end": 731.6800000000001,
+        "text": "We've started analyzing television content using the same principles, analyzing event structure of a TV signal,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 731.6800000000001,
+        "end": 737.72,
+        "text": "episodes of shows, commercials, all of the components that make up the event structure.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 737.72,
+        "end": 743.96,
+        "text": "And we're now with satellite dishes pulling in and analyzing a good part of all the TV being watched in the United States.",
+        "score": 0.6908,
+        "label": "Positive"
+    },
+    {
+        "start": 743.96,
+        "end": 749.4000000000001,
+        "text": "And you don't have to now go and instrument living rooms with microphones to get people's conversations.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 749.4000000000001,
+        "end": 752.32,
+        "text": "You just tune in to publicly available social media feeds.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 752.32,
+        "end": 756.9200000000001,
+        "text": "So we're pulling in about three billion comments a month.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 756.9200000000001,
+        "end": 758.52,
+        "text": "And then the magic happens.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 758.52,
+        "end": 764.88,
+        "text": "You have the event structure, the common ground that the words are about coming out of the television feeds.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 764.88,
+        "end": 769.12,
+        "text": "You've got the conversations that are about that, those topics.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 769.12,
+        "end": 773.8000000000001,
+        "text": "And through semantic analysis, and this is actually real data you're looking at,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 773.8,
+        "end": 781.24,
+        "text": "from our data, our processing, each yellow line is showing a link being made between a comment in the wild",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 781.24,
+        "end": 785.52,
+        "text": "and a piece of event structure coming out of the television signal.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 785.52,
+        "end": 788.7199999999999,
+        "text": "And the same idea now can be built up.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 788.7199999999999,
+        "end": 794.0799999999999,
+        "text": "And we get this wordscape, except now words are not assembled in my living room.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 794.0799999999999,
+        "end": 801.3599999999999,
+        "text": "Instead the context, the common ground, the activities are the content on television that's driving the conversations.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 801.36,
+        "end": 808.52,
+        "text": "And so what we're seeing here, these skyscrapers now, are commentary that are linked to content on television.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 808.52,
+        "end": 813.96,
+        "text": "Same concept, but looking at communication dynamics in a different, very different sphere.",
+        "score": 0.3919,
+        "label": "Positive"
+    },
+    {
+        "start": 813.96,
+        "end": 819.24,
+        "text": "So fundamentally, rather than, for example, measuring content based on how many people are watching,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 819.24,
+        "end": 824.24,
+        "text": "this gives us the basic data for looking at engagement properties of content.",
+        "score": 0.4588,
+        "label": "Positive"
+    },
+    {
+        "start": 824.24,
+        "end": 830.08,
+        "text": "And just like we can look at feedback cycles and dynamics in a family,",
+        "score": 0.5574,
+        "label": "Positive"
+    },
+    {
+        "start": 830.08,
+        "end": 835.5200000000001,
+        "text": "we can now open up the same concepts and look at much larger groups of people.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 835.5200000000001,
+        "end": 841.88,
+        "text": "This is a subset of data from our database, just 50,000 out of several million,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 841.88,
+        "end": 847.64,
+        "text": "and the social graph that connects them through publicly available sources.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 847.64,
+        "end": 852.0400000000001,
+        "text": "And if you put them on one plane, a second plane is where the content lives.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 852.0400000000001,
+        "end": 859.96,
+        "text": "So we have the programs and the sporting events and the commercials and all of the link structures",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 859.96,
+        "end": 863.24,
+        "text": "that tie them together make a content graph.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 863.24,
+        "end": 869.36,
+        "text": "And then the important third dimension, each of the links that you're seeing rendered here",
+        "score": 0.2023,
+        "label": "Positive"
+    },
+    {
+        "start": 869.36,
+        "end": 875.5600000000001,
+        "text": "is an actual connection made between something someone said and a piece of content.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 875.5600000000001,
+        "end": 882.5600000000001,
+        "text": "And there are again, now tens of millions of these links that give us the connective tissue of social graphs",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 882.5600000000001,
+        "end": 885.1600000000001,
+        "text": "and how they relate to content.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 885.1600000000001,
+        "end": 888.52,
+        "text": "And we can now start to probe the structure in interesting ways.",
+        "score": 0.4019,
+        "label": "Positive"
+    },
+    {
+        "start": 888.52,
+        "end": 896.4,
+        "text": "So if we, for example, trace the path of one piece of content that drives someone to comment on it.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 896.4,
+        "end": 902.68,
+        "text": "And then we follow where that comment goes and look at the entire social graph that becomes activated.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 902.68,
+        "end": 907.04,
+        "text": "And then trace back to see the relationship between that social graph and content.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 907.04,
+        "end": 909.64,
+        "text": "Very interesting structure becomes visible.",
+        "score": 0.4576,
+        "label": "Positive"
+    },
+    {
+        "start": 909.64,
+        "end": 913.68,
+        "text": "We call this a co-viewing clique, a virtual living room, if you will.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 913.68,
+        "end": 916.36,
+        "text": "And there are fascinating dynamics that play.",
+        "score": 0.7906,
+        "label": "Positive"
+    },
+    {
+        "start": 916.36,
+        "end": 921.0,
+        "text": "It's not one way, a piece of content and a vent causes someone to talk.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 921.0,
+        "end": 925.88,
+        "text": "They talk to other people that drives tune in behavior back into mass media.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 925.88,
+        "end": 929.8000000000001,
+        "text": "And you have these cycles that drive the overall behavior.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 929.8000000000001,
+        "end": 932.16,
+        "text": "Another example, very different.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 932.16,
+        "end": 937.8000000000001,
+        "text": "Another actual person or database and we're finding at least hundreds of not thousands of these.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 937.8000000000001,
+        "end": 939.6,
+        "text": "We've given this person a name.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 939.6,
+        "end": 945.88,
+        "text": "This is a pro amateur or pro-am media critic who has this high fan outrace.",
+        "score": 0.0516,
+        "label": "Positive"
+    },
+    {
+        "start": 945.88,
+        "end": 948.32,
+        "text": "A lot of people are following this person, very influential.",
+        "score": 0.4927,
+        "label": "Positive"
+    },
+    {
+        "start": 948.32,
+        "end": 951.48,
+        "text": "And they have a propensity to talk about what's on TV.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 951.48,
+        "end": 957.4399999999999,
+        "text": "So this person is a key link in connecting mass media and social media together.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 957.4399999999999,
+        "end": 960.2,
+        "text": "One last example of this data.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 960.2,
+        "end": 963.48,
+        "text": "Sometimes it's actually the piece of content that is special.",
+        "score": 0.4019,
+        "label": "Positive"
+    },
+    {
+        "start": 963.48,
+        "end": 967.32,
+        "text": "So if we go and look at this piece of content,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 967.32,
+        "end": 971.76,
+        "text": "President Obama's State of the Union address from just a few weeks ago,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 971.76,
+        "end": 977.6,
+        "text": "and look at what we find in the same data set at the same scale,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 977.6,
+        "end": 982.08,
+        "text": "the engagement properties of this piece of content are truly remarkable.",
+        "score": 0.8591,
+        "label": "Positive"
+    },
+    {
+        "start": 982.08,
+        "end": 989.0,
+        "text": "A nation exploding in conversation in real time, in response to what's on the broadcast.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 989.0,
+        "end": 992.84,
+        "text": "And of course, through all of these lines are flowing unstructured language,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 992.84,
+        "end": 999.6,
+        "text": "we can x-ray and get a real time pulse of a nation, real time sense of the social reactions",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 999.6,
+        "end": 1004.4,
+        "text": "and the different circuits in the social graph being activated by content.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1004.4,
+        "end": 1007.36,
+        "text": "So to summarize, the idea is this,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1007.36,
+        "end": 1011.2,
+        "text": "as our world becomes increasingly instrumented,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1011.2,
+        "end": 1015.4,
+        "text": "and we have the capabilities to collect and connect the dots",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1015.4,
+        "end": 1019.4,
+        "text": "between what people are saying and the context they're saying in.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1019.4,
+        "end": 1024.16,
+        "text": "What's emerging is an ability to see new social structures and dynamics",
+        "score": 0.5267,
+        "label": "Positive"
+    },
+    {
+        "start": 1024.16,
+        "end": 1026.24,
+        "text": "that have previously not been seen.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1026.24,
+        "end": 1029.76,
+        "text": "It's like building a microscope or a telescope and revealing new structures",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 1029.76,
+        "end": 1033.28,
+        "text": "about our own behavior around communication.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1033.28,
+        "end": 1036.72,
+        "text": "And I think the implications here are profound,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1036.72,
+        "end": 1040.04,
+        "text": "whether it's for science, for commerce, for government,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1040.04,
+        "end": 1044.52,
+        "text": "but perhaps most of all for us as individuals.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1044.52,
+        "end": 1047.8,
+        "text": "And so just to return to my son,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1047.8,
+        "end": 1051.0,
+        "text": "when I was preparing this talk, he was looking over my shoulder,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1051.0,
+        "end": 1053.56,
+        "text": "and I showed him the clips I was going to show to you today,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1053.56,
+        "end": 1056.36,
+        "text": "and I asked him for permission, granted.",
+        "score": 0.25,
+        "label": "Positive"
+    },
+    {
+        "start": 1056.36,
+        "end": 1062.8,
+        "text": "And then I went on to reflect, isn't it amazing this entire database,",
+        "score": -0.4717,
+        "label": "Negative"
+    },
+    {
+        "start": 1062.8,
+        "end": 1066.28,
+        "text": "all these recordings, I'm going to hand up to you and to your sister,",
+        "score": 0.4939,
+        "label": "Positive"
+    },
+    {
+        "start": 1066.28,
+        "end": 1068.9199999999998,
+        "text": "who arrived two years later?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1068.9199999999998,
+        "end": 1072.2,
+        "text": "And you guys are going to be able to go back and re-experience moments",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1072.2,
+        "end": 1077.2,
+        "text": "that you could never with your biological memory possibly remember the way you can now,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1077.2,
+        "end": 1079.24,
+        "text": "and he was quiet for a moment, and I thought, one of my thinking,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1079.24,
+        "end": 1082.48,
+        "text": "he's five years old, he does, he's not going to understand this.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1082.52,
+        "end": 1085.64,
+        "text": "And just as I was having that thought, he looked up at me and said,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1085.64,
+        "end": 1090.44,
+        "text": "so that when I grew up, I can show this to my kids.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1090.44,
+        "end": 1093.2,
+        "text": "And I thought, wow, this is powerful stuff.",
+        "score": 0.765,
+        "label": "Positive"
+    },
+    {
+        "start": 1093.2,
+        "end": 1099.48,
+        "text": "So I want to leave you with one last memorable moment from our family.",
+        "score": 0.0334,
+        "label": "Neutral"
+    },
+    {
+        "start": 1099.48,
+        "end": 1104.6,
+        "text": "This is our, the first time our son took more than two steps at once,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1104.6,
+        "end": 1106.28,
+        "text": "captured on film.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1106.28,
+        "end": 1110.6,
+        "text": "And I really want you to focus on something as I take you through.",
+        "score": 0.1513,
+        "label": "Positive"
+    },
+    {
+        "start": 1110.6,
+        "end": 1113.6,
+        "text": "It's a cluttered environment, it's natural life.",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 1113.6,
+        "end": 1116.6799999999998,
+        "text": "My mother's in the kitchen cooking and of all places in the hallway,",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1116.6799999999998,
+        "end": 1120.3999999999999,
+        "text": "I realize he's about to do it, about to take more than two steps.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1120.3999999999999,
+        "end": 1123.9199999999998,
+        "text": "And so you hear me encouraging him, realizing what's happening,",
+        "score": 0.5267,
+        "label": "Positive"
+    },
+    {
+        "start": 1123.9199999999998,
+        "end": 1126.56,
+        "text": "and then the magic happens, listen very carefully,",
+        "score": 0.2006,
+        "label": "Positive"
+    },
+    {
+        "start": 1126.56,
+        "end": 1131.6799999999998,
+        "text": "about three steps in, he realizes something magic is happening.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1131.6799999999998,
+        "end": 1135.4399999999998,
+        "text": "And the most amazing feedback loop of all kicks in,",
+        "score": 0.624,
+        "label": "Positive"
+    },
+    {
+        "start": 1135.4399999999998,
+        "end": 1139.3999999999999,
+        "text": "and he takes a breath in, and he whispers, wow.",
+        "score": 0.5859,
+        "label": "Positive"
+    },
+    {
+        "start": 1139.4,
+        "end": 1144.16,
+        "text": "And instinctively, I echo, I echo back the same.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1144.16,
+        "end": 1148.16,
+        "text": "And so let's fly back in time to that memorable moment.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1153.76,
+        "end": 1157.64,
+        "text": "Hey, hey there.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1157.64,
+        "end": 1158.3200000000002,
+        "text": "Can you do it?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1162.44,
+        "end": 1164.2800000000002,
+        "text": "Boy, can you do it?",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1169.64,
+        "end": 1170.88,
+        "text": "My is walking.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1176.52,
+        "end": 1177.3200000000002,
+        "text": "Thank you.",
+        "score": 0.3612,
+        "label": "Positive"
+    },
+    {
+        "start": 1179.52,
+        "end": 1186.0,
+        "text": "That was Deb Roy, recorded at Ted 2011 in Long Beach, California, March 2011.",
+        "score": 0.0,
+        "label": "Neutral"
+    },
+    {
+        "start": 1186.0,
+        "end": 1188.8400000000001,
+        "text": "For more information on Ted, visit Ted.com.",
+        "score": 0.0,
+        "label": "Neutral"
+    }
+]
